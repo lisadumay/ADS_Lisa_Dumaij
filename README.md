@@ -2,10 +2,11 @@
 
 this is the personal portfolio of lisa Dumaij
 
-### 1.Datacamp
+## 1.Datacamp
 <details>
   <summary> Lees hier verder </summary>
 In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de eerste keer dat ik DataCamp heb gebruikt, ik heb dit programma vorig jaar ook gebruikt voor mijn opleiding technische bedrijfskunde. Hierdoor was er soms een overlapping tussen de cursussen die ik moest doen voor deze minor. Omdat ik sommige cursussen al eerder had gedaan kreeg ik de punten er niet voor als ik deze opnieuw deed. Ook waren deze punten niet te zien op de Leaderboard. Wel verder ze als voltooid afgevinkt in de lijst. Deze zijn hieronder in de map foto’s toegevoegd.
+  
   <details>
   <summary>1.1 Introduction to Python</summary>
     Doordat ik deze cursus al eerder had gedaan, was deze voor mij relatief eenvoudig. Het was fijn om deze cursus als opfriscursus te gebruiken. Het was namelijk een half jaar geleden dat ik eenmalig python had gebruikt, hierdoor was het een beetje had weggevaagd.
@@ -22,7 +23,14 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
   <summary>1.4 Statistical Thinking in Python </summary>
     Ik vond deze cursus erg interessant. Ik heb veel statistiek op mijn opleiding, maar had dit nog nooit in Python gedaan. Ik vond deze combinatie erg leuk, waardoor ik het gevoel had dat ik de cursus snel had afgerond. Ik begreep de statistiek erachter waardoor de stappen in python ook voor mij logisch waren.
       </details>
-        
+  <details>
+  <summary>1.5 Supervised Learning with scikit-learn </summary>
+    Van deze cursus heb ik de code gebruikt om je dataset op te splitsen in trein, test, validatieset. Deze is te vinden in !!!! . Daarnaast heb ik samen met Mustafa en individueel gewerkt aan een Lasso model. Deze is te vinden in !!! of !!! . Ik gebruikte ook het schalen van de gegevens in het project. Dit is te zien in !!! . Deze cursus was ook nieuw voor mij, alles wat ik in deze cursus had geleerd was nieuw voor mij, het kunnen toepassen in het project in combinatie met de lessen zorgde ervoor dat ik het beter begreep.
+      </details>
+  <details>
+  <summary>1.6 Introduction to Data Visualization with Matplotlib </summary>
+    Datavisualisatie was tot nu toe een van mijn sterke punten in python, wat deze cursus voor mij gemakkelijk maakte. Daarnaast had ik deze cursus al gedaan en ging mijn vorige ervaring met Python vooral over het maken van de visualisaties. Na deze cursus was ik bezig met het maken van verschillende visualisaties voor het project. Deze is te vinden in !!! . Ik vond deze cursus interessant voor al het aanpassen van de grafieken qua kleuren en assen.
+     </details>
 
               
              
