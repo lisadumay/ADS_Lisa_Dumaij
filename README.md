@@ -43,7 +43,34 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
   <summary>1.6 Introduction to Data Visualization with Matplotlib </summary>
     Datavisualisatie was tot nu toe een van mijn sterke punten in python, wat deze cursus voor mij gemakkelijk maakte. Daarnaast had ik deze cursus al gedaan en ging mijn vorige ervaring met Python vooral over het maken van de visualisaties. Na deze cursus was ik bezig met het maken van verschillende visualisaties voor het project. Deze is te vinden in !!! . Ik vond deze cursus interessant voor al het aanpassen van de grafieken qua kleuren en assen.
      </details>
-  </details> 
+  <details>
+  <summary>1.7 Linear Classifiers in Python </summary>
+    blabla
+      </details>
+  <details>
+  <summary>1.8 Model Validation in Python </summary>
+    blabla
+      </details>
+  <details>
+  <summary>1.9 Data Manipulation with pandas </summary>
+    blabla
+      </details>
+  <details>
+  <summary>1.10 Cleaning Data in Python </summary>
+    blabla
+      </details>
+  <details>
+  <summary>1.11 Exploratory Data Analysis in Python </summary>
+    blabla
+      </details>
+  <details>
+  <summary>1.12 Manipulating Time Series Data in Python </summary>
+    blabla
+      </details>
+  <details>
+  <summary>1.13 Machine Learning for Time Series Data in Python </summary>
+    blabla
+      </details>
 <details>
   <summary> foto's van cursussen</summary>
 </details> 
