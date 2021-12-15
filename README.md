@@ -1,6 +1,12 @@
 # ADS Personal portfolio Lisa Dumaij
+Naam:               Lisa Dumaij
+Studentennummer:    19049838
 
-this is the personal portfolio of lisa Dumaij
+Studie:             Applied Data Science
+School:             Haagse Hogeschool
+
+Datum:              ??-01-2022
+Versie:             1
 
 
 ## 1.Datacamp
@@ -9,6 +15,7 @@ this is the personal portfolio of lisa Dumaij
 In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de eerste keer dat ik DataCamp heb gebruikt, ik heb dit programma vorig jaar ook gebruikt voor mijn opleiding technische bedrijfskunde. Hierdoor was er soms een overlapping tussen de cursussen die ik moest doen voor deze minor. Omdat ik sommige cursussen al eerder had gedaan kreeg ik de punten er niet voor als ik deze opnieuw deed. Ook waren deze punten niet te zien op de Leaderboard. Wel verder ze als voltooid afgevinkt in de lijst. Deze zijn hieronder in de map foto’s toegevoegd.
  
   <details>
+    
   <summary>Samenvatting ervaringen per cursus</summary>
   <details>
   <summary>1.1 Introduction to Python</summary>
@@ -41,12 +48,35 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
 </details>
   
 ## 2.Domain Knowledge
-  
+<details>
+  <summary> Lees hier verder </summary>
+</details>
 ## 3.Predictive Models
+<details>
+  <summary> Lees hier verder </summary>
+</details>
 ## 4.Data preperation
+<details>
+  <summary> Lees hier verder </summary>
+</details>
 ## 5.Data Visualization
+<details>
+  <summary> Lees hier verder </summary>
+</details>
 ## 6.Data collection
+<details>
+  <summary> Lees hier verder </summary>
+</details>
 ## 7.Evaluation
+<details>
+  <summary> Lees hier verder </summary>
+</details>
 ## 8.Diagnostics of the learning process
+<details>
+  <summary> Lees hier verder </summary>
+</details>
 ## 9.Communication
+<details>
+  <summary> Lees hier verder </summary>
+</details>
 
