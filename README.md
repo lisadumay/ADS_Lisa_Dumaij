@@ -37,6 +37,7 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
 <details>
   <summary>Samenvatting ervaringen per cursus</summary>
 </details> 
+</details>
   
 ## 2.Domain Knowledge
   
