@@ -49,11 +49,11 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
      </details>
   <details>
   <summary>1.7 Linear Classifiers in Python </summary>
-    blabla
+    Net als bij statistical thinking vond ik het leuk om de statistiek toe te passen met Python. Doordat ik de theorie erachter begreep lukte het mij beter om de cursus te volgen. Echter bleef af en toe de toepassing met Python een ingewikkelde stap voor mij.
       </details>
   <details>
   <summary>1.8 Model Validation in Python </summary>
-    blabla
+    Deze cursus verliep voor mij soepel. Ik begreep de code erachter en waarom ik de stappen moest doen. Echter hield ik wel af en toe de slides erbij als een reminder hoe ik de stappen moest doen. 
       </details>
   <details>
   <summary>1.9 Data Manipulation with pandas </summary>
@@ -77,11 +77,11 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
      </details>
  <details>
   <summary>1.14 Time Series Analysis in Python </summary>
-    blabla
+    Deze cursus was minder relevant voor mij omdat mijn project: ‘Motoric’ niet over time series gaat. Echter heb ik wel vaak te maken gehad met time series in mijn studie. Echter dan minder in python maar vooral de statistieke kant ervan. Het was interessant om te leren hoe dit ook toegepast kan worden in Python.
      </details>
 <details>
   <summary>1.15 Joining Data with pandas </summary>
-    blabla
+    Voor mij was dit de leukste cursus van alle cursussen in Python. Zelf had ik al een grote interesse in SQL, hierbij kon ik dit combineren met Python. Ik had dit vorig jaar al geprobeerd in mijn vorige studie echter was dit toen niet gelukt. Dit jaar heb ik het daarom weer geprobeerd en lukte het wel. Een voorbeeld hiervan is te zien in … .
      </details>
   </details>
 </details>
