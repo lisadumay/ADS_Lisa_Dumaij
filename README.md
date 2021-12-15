@@ -33,7 +33,7 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
     Datavisualisatie was tot nu toe een van mijn sterke punten in python, wat deze cursus voor mij gemakkelijk maakte. Daarnaast had ik deze cursus al gedaan en ging mijn vorige ervaring met Python vooral over het maken van de visualisaties. Na deze cursus was ik bezig met het maken van verschillende visualisaties voor het project. Deze is te vinden in !!! . Ik vond deze cursus interessant voor al het aanpassen van de grafieken qua kleuren en assen.
      </details>
     </details>
-
+  <details>
               
 ## 2.Domain Knowledge
   
