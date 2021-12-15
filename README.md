@@ -36,7 +36,7 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
      </details>
   </details> 
 <details>
-  <summary>Samenvatting ervaringen per cursus</summary>
+  <summary> foto's van cursussen</summary>
 </details> 
 </details>
   
