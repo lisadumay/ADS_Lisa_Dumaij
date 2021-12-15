@@ -71,6 +71,7 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
   <summary>1.13 Machine Learning for Time Series Data in Python </summary>
     blabla
       </details>
+    <details>
 <details>
   <summary> foto's van cursussen</summary>
 </details> 
