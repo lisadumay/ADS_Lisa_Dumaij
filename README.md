@@ -6,6 +6,7 @@ this is the personal portfolio of lisa Dumaij
 <details>
   <summary> Lees hier verder </summary>
 In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de eerste keer dat ik DataCamp heb gebruikt, ik heb dit programma vorig jaar ook gebruikt voor mijn opleiding technische bedrijfskunde. Hierdoor was er soms een overlapping tussen de cursussen die ik moest doen voor deze minor. Omdat ik sommige cursussen al eerder had gedaan kreeg ik de punten er niet voor als ik deze opnieuw deed. Ook waren deze punten niet te zien op de Leaderboard. Wel verder ze als voltooid afgevinkt in de lijst. Deze zijn hieronder in de map foto’s toegevoegd.
+ 
   <details>
   <summary>Samenvatting ervaringen per cursus</summary>
   <details>
