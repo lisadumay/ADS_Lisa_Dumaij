@@ -1,17 +1,12 @@
 # ADS Personal portfolio Lisa Dumaij
-Naam:               Lisa Dumaij
-
-Studentennummer:    19049838
-
-
-Studie:             Applied Data Science
-
-School:             Haagse Hogeschool
-
-
-Datum:              ??-01-2022
-
-Versie:             1
+Naam:               Lisa Dumaij <br />
+Studentennummer:    19049838 <br />
+<br />
+Studie:             Applied Data Science <br />
+School:             Haagse Hogeschool <br />
+<br />
+Datum:              ??-01-2022 <br />
+Versie:             1 <br />
 
 
 ## 1.Datacamp
