@@ -35,4 +35,12 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
     </details>
 
               
-             
+## 2.Domain Knowledge
+  
+## 3.Predictive Models
+## 4.Data preperation
+## 5.Data Visualization
+## 6.Data collection
+## 7.Evaluation
+## 8.Diagnostics of the learning process
+## 9.Communication
