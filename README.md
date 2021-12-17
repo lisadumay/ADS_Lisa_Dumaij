@@ -96,12 +96,16 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
 
 Formiga, C. K., & Linhares, M. B. (2015). Motor Skills: Development in Infancy and Early Childhood. International Encyclopedia of the Social & Behavioral Sciences, 971–977. https://doi.org/10.1016/b978-0-08-097086-8.23071-7
     <br />
+    <br />
 La Paro, K. M., & Pianta, R. C. (2000). Predicting Children’s Competence in the Early School Years: A Meta-Analytic Review. Review of Educational Research, 70(4), 443–484. https://doi.org/10.3102/00346543070004443
      <br />
+    <br />
 Lopes, V. P., Rodrigues, L. P., Maia, J. A. R., & Malina, R. M. (2010). Motor coordination as predictor of physical activity in childhood. Scandinavian Journal of Medicine & Science in Sports, 21(5), 663–669. https://doi.org/10.1111/j.1600-0838.2009.01027.x
          <br />
+    <br />
 Sia. (2019). Aanvraagformulier RAAK-PRO Start (V)aardig -2018. Nationaal Regieorgaan Praktijkgericht Onderzoek SIA. 
      <br />
+    <br />
 Zysset, A. E., Kakebeeke, T. H., Messerli-Bürgy, N., Meyer, A. H., Stülb, K., Leeger-Aschmann, C. S., Schmutz, E. A., Arhab, A., Ferrazzini, V., Kriemler, S., Munsch, S., Puder, J. J., & Jenni, O. G. (2018). The validity of parental reports on motor skills performance level in preschool children: a comparison with a standardized motor test. European Journal of Pediatrics, 177(5), 715–722. https://doi.org/10.1007/s00431-017-3078-6
 
   </details>
