@@ -112,10 +112,24 @@ Zysset, A. E., Kakebeeke, T. H., Messerli-Bürgy, N., Meyer, A. H., Stülb, K., 
 
  <details>
   <summary>2.2 Format verslag </summary>
+   Perneger, T. V. (2004). Writing a research article: advice to beginners. International Journal for Quality in Health Care, 16(3), 191–192. https://doi.org/10.1093/intqhc/mzh053
+   <br />
+    <br />
+   Writing a Research Article. (2015). Advances in Neonatal Care, 15(3), 159–161. https://doi.org/10.1097/anc.0000000000000203
 </details>
 
  <details>
   <summary>2.3 Data voorbereiding </summary>
+   Brownlee, J. (2020a). Data Preparation of Machine Learning. Jason Brownlee.
+   <br />
+    <br />
+   Data Preparation for Machine Learning | DataRobot Artificial Intelligence Wiki. (2021, 3 december). DataRobot AI Cloud. Geraadpleegd op 17 december 2021, van https://www.datarobot.com/wiki/data-preparation/
+   <br />
+    <br />
+   Kim, J. K., & Fiorillo, C. D. (2017). Theory of optimal balance predicts and explains the amplitude and decay time of synaptic inhibition. Nature Communications, 8(1). https://doi.org/10.1038/ncomms14566
+   <br />
+    <br />
+   Matthes, E. (2018). Crash Course programmeren in Python : projectgericht leren programmeren. Visual Steps TM.
 </details>
 
  <details>
