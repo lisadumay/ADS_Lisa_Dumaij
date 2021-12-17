@@ -88,6 +88,9 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
 </details>
   
 ## 2.Domain Knowledge
+<details>
+  <summary> Lees hier verder </summary>
+  <br />
   <details>
   <summary>2.1 Ontwikkeling van motorische vaardigheden </summary>
 </details>
@@ -111,7 +114,7 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
  <details>
   <summary>2.6	Evaluatie en validatie </summary>
 </details>
-
+</details>
 
 ## 3.Predictive Models
 <details>
