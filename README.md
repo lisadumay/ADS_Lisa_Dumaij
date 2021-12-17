@@ -159,7 +159,6 @@ Miao, J., & Niu, L. (2016). A Survey on Feature Selection. Procedia Computer Sci
 <br />
     <br />
    Saeys, Y., Inza, I., & Larranaga, P. (2007). A review of feature selection techniques in bioinformatics. Bioinformatics, 23(19), 2507–2517. https://doi.org/10.1093/bioinformatics/btm344
-2.5	Modellen
 
   </details>
 
