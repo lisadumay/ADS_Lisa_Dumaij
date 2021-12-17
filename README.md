@@ -1,6 +1,7 @@
 # ADS Personal portfolio Lisa Dumaij
 Naam:               Lisa Dumaij <br />
 Studentennummer:    19049838 <br />
+Team:               Motoric <br />
 <br />
 Studie:             Applied Data Science <br />
 School:             Haagse Hogeschool <br />
