@@ -93,9 +93,9 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
   <br />
   <details>
   <summary>2.1 Ontwikkeling van motorische vaardigheden </summary>
-
-    1. Sia. (2019). Aanvraagformulier RAAK-PRO Start (V)aardig -2018. Nationaal Regieorgaan Praktijkgericht Onderzoek SIA. 
-    2.	[Zysset, A. E., Kakebeeke, T. H., Messerli-Bürgy, N., Meyer, A. H., Stülb, K., Leeger-Aschmann, C. S., Schmutz, E. A., Arhab, A., Ferrazzini, V., Kriemler, S., Munsch, S., Puder, J. J., & Jenni, O. G. (2018). The validity of parental reports on motor skills performance level in preschool children: a comparison with a standardized motor test. European Journal of Pediatrics, 177(5), 715–722.](https://doi.org/10.1007/s00431-017-3078-6)
+Sia. (2019). Aanvraagformulier RAAK-PRO Start (V)aardig -2018. Nationaal Regieorgaan Praktijkgericht Onderzoek SIA. 
+     <br />
+[Zysset, A. E., Kakebeeke, T. H., Messerli-Bürgy, N., Meyer, A. H., Stülb, K., Leeger-Aschmann, C. S., Schmutz, E. A., Arhab, A., Ferrazzini, V., Kriemler, S., Munsch, S., Puder, J. J., & Jenni, O. G. (2018). The validity of parental reports on motor skills performance level in preschool children: a comparison with a standardized motor test. European Journal of Pediatrics, 177(5), 715–722.](https://doi.org/10.1007/s00431-017-3078-6)
 
   </details>
 
