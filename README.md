@@ -88,16 +88,28 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
 </details>
   
 ## 2.Domain Knowledge
-<details>
-  <summary> Lees hier verder </summary>
-  <br />
   <details>
-    <br />
-  <summary>ontiwkkeling van motorische vaardigheden</summary>
-  <details>
-    <br />
-  <summary>Format verslag</summary>
-  <details>
+  <summary>2.1 Ontwikkeling van motorische vaardigheden </summary>
+</details>
+
+ <details>
+  <summary>2.2 Format verslag </summary>
+</details>
+
+ <details>
+  <summary>2.3 Data voorbereiding </summary>
+</details>
+
+ <details>
+  <summary>2.4	Feature Selection </summary>
+</details>
+
+ <details>
+  <summary>2.5	Modellen </summary>
+</details>
+
+ <details>
+  <summary>2.6	Evaluatie en validatie </summary>
 </details>
 
 
