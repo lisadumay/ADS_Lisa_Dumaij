@@ -95,7 +95,6 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
     <br />
   <summary>ontiwkkeling van motorische vaardigheden</summary>
   <details>
-    <details>
     <br />
   <summary>Format verslag</summary>
   <details>
