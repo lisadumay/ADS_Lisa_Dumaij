@@ -93,11 +93,10 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
   <br />
   <details>
   <summary>2.1 Ontwikkeling van motorische vaardigheden </summary>
-[Online source 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5899107/)
-[Online source 2](https://www.researchgate.net/publication/304191163_Motor_Skills_Development_in_Infancy_and_Early_Childhood)
-[Online source 3](https://journals.sagepub.com/doi/abs/10.3102/00346543070004443)
-[Online source 4](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1600-0838.2009.01027.x?casa_token=FH5GhzRQoqgAAAAA%3AJkYpXbJ119RckIc7Yb3GH_Mh-YsrGfB1DIihFddGzBZ2I1bBxbssqzPPMD4BvXQhmTDRdV_UvJ3IEjQ)
-Sia. (2019). Aanvraagformulier RAAK-PRO Start (V)aardig -2018. Nationaal Regieorgaan Praktijkgericht Onderzoek SIA. 
+
+    1. Sia. (2019). Aanvraagformulier RAAK-PRO Start (V)aardig -2018. Nationaal Regieorgaan Praktijkgericht Onderzoek SIA. 
+    2.	Zysset, A. E., Kakebeeke, T. H., Messerli-Bürgy, N., Meyer, A. H., Stülb, K., Leeger-Aschmann, C. S., Schmutz, E. A., Arhab, A., Ferrazzini, V., Kriemler, S., Munsch, S., Puder, J. J., & Jenni, O. G. (2018). The validity of parental reports on motor skills performance level in preschool children: a comparison with a standardized motor test. European Journal of Pediatrics, 177(5), 715–722.[https://doi.org/10.1007/s00431-017-3078-6]
+
   </details>
 
  <details>
