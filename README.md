@@ -91,7 +91,16 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
 <details>
   <summary> Lees hier verder </summary>
   <br />
+  <details>
+    <br />
+  <summary>ontiwkkeling van motorische vaardigheden</summary>
+  <details>
+    <details>
+    <br />
+  <summary>Format verslag</summary>
+  <details>
 </details>
+
 
 ## 3.Predictive Models
 <details>
