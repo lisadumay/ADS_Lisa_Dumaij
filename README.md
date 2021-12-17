@@ -134,7 +134,34 @@ Zysset, A. E., Kakebeeke, T. H., Messerli-Bürgy, N., Meyer, A. H., Stülb, K., 
 
  <details>
   <summary>2.4	Feature Selection </summary>
-</details>
+Balancing dataset and normalizing features: what comes first? (2017, 5 januari). Cross Validated. Geraadpleegd op 17 december 2021, van https://stats.stackexchange.com/questions/254726/balancing-dataset-and-normalizing-features-what-comes-first
+   <br />
+    <br />
+Brownlee, J. (2020, 20 augustus). How to Choose a Feature Selection Method For Machine Learning. Machine Learning Mastery. Geraadpleegd op 17 december 2021, van https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/
+   <br />
+    <br />
+Kuhn, M., & Johnson, K. (2019). Feature Engineering and Selection: A Practical Approach for Predictive Models (Chapman & Hall/CRC Data Science Series) (1st ed.). Chapman and Hall/CRC.
+   <br />
+    <br />
+Kumar, V. (2014). Feature Selection: A literature Review. The Smart Computing Review, 4(3). https://doi.org/10.6029/smartcr.2014.03.007
+   <br />
+    <br />
+Li, J., Cheng, K., Wang, S., Morstatter, F., Trevino, R. P., Tang, J., & Liu, H. (2018). Feature Selection. ACM Computing Surveys, 50(6), 1–45. https://doi.org/10.1145/3136625
+   <br />
+    <br />
+Miao, J., & Niu, L. (2016). A Survey on Feature Selection. Procedia Computer Science, 91, 919–926. https://doi.org/10.1016/j.procs.2016.07.111
+<br />
+    <br />
+   Roy, B. (2021, 14 december). All about Feature Scaling - Towards Data Science. Medium. Geraadpleegd op 17 december 2021, van https://towardsdatascience.com/all-about-feature-scaling-bcc0ad75cb35
+<br />
+    <br />
+   Schönig, S., Jasinski, R., Ackermann, L., & Jablonski, S. (2018). Deep Learning Process Prediction with Discrete and Continuous Data Features. Proceedings of the 13th International Conference on Evaluation of Novel Approaches to Software Engineering. Published. https://doi.org/10.5220/0006772003140319
+<br />
+    <br />
+   Saeys, Y., Inza, I., & Larranaga, P. (2007). A review of feature selection techniques in bioinformatics. Bioinformatics, 23(19), 2507–2517. https://doi.org/10.1093/bioinformatics/btm344
+2.5	Modellen
+
+  </details>
 
  <details>
   <summary>2.5	Modellen </summary>
