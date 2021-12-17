@@ -58,23 +58,23 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
       </details>
   <details>
   <summary>1.9 Data Manipulation with pandas </summary>
-    blabla
+    Het was een interessante cursus die ik later in het project kon toepassen. Aan het begin verliep de cursus goed en kon ik de soepel doorheen lopen. Echter na de tweede subhoofdstuk werd het moeilijker en ging ik vaker de presentaties terugkijken. 
       </details>
   <details>
   <summary>1.10 Cleaning Data in Python </summary>
-    blabla
+    Deze cursus verliep soepel doordat ik deze cursus al eerder had uitgevoerd en toe had gepast in mijn vorige python ervaring. Ook tijdens het huidige project heb ik deze technieken toegepast zoals te zien is in ….
       </details>
   <details>
   <summary>1.11 Exploratory Data Analysis in Python </summary>
-    blabla
+    Deze cursus verliep voor mij soepel. Ik begreep de code erachter en waarom ik de stappen moest doen.
       </details>
   <details>
   <summary>1.12 Manipulating Time Series Data in Python </summary>
-    blabla
+    Deze cursus was minder relevant voor mij omdat mijn project: ‘Motoric’ niet over time series gaat. Echter heb ik wel vaak te maken gehad met time series in mijn studie. 
       </details>
   <details>
   <summary>1.13 Machine Learning for Time Series Data in Python </summary>
-    blabla
+    Deze cursus verliep voor mij soepel. Ik begreep de code erachter en waarom ik de stappen moest doen. Echter hield ik wel af en toe de slides erbij als een reminder hoe ik de stappen moest doen. 
      </details>
  <details>
   <summary>1.14 Time Series Analysis in Python </summary>
