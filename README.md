@@ -92,9 +92,6 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
   <summary> Lees hier verder </summary>
   <br />
   <details>
-  <summary>Links per onderdeel</summary>
-  <br />
-  <details>
   <summary>2.1 Ontwikkeling van motorische vaardigheden </summary>
 </details>
 
