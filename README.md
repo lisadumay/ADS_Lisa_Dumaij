@@ -88,13 +88,11 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
 </details>
   
 ## 2.Domein kennis
-
-<br />
-    <br />
 <details>
   <summary> Lees hier verder </summary>
   <br />
   In dit hoofdstuk wordt mijn domein kennis besproken. Het hoofdstuk is opgedeeld in zes hoofdstukken die alle bronnen bevatten over het onderwerp.
+   <br />
   <details>
   <summary>2.1 Ontwikkeling van motorische vaardigheden </summary>
 
