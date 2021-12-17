@@ -115,7 +115,8 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
   <summary>2.6	Evaluatie en validatie </summary>
 </details>
 </details>
-  <br />
+</details>
+
 ## 3.Predictive Models
 <details>
   <summary> Lees hier verder </summary>
