@@ -93,6 +93,7 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
   <br />
   In dit hoofdstuk wordt mijn domein kennis besproken. Het hoofdstuk is opgedeeld in zes hoofdstukken die alle bronnen bevatten over het onderwerp.
    <br />
+   <br />
   <details>
   <summary>2.1 Ontwikkeling van motorische vaardigheden </summary>
 
