@@ -164,11 +164,42 @@ Miao, J., & Niu, L. (2016). A Survey on Feature Selection. Procedia Computer Sci
 
  <details>
   <summary>2.5	Modellen </summary>
-</details>
+Brownlee, J. (2020, 10 januari). How to Make Predictions with scikit-learn. Machine Learning Mastery. Geraadpleegd op 17 december 2021, van https://machinelearningmastery.com/make-predictions-scikit-learn/
+   <br />
+    <br />
+Brownlee, J. (2020, augustus 27). How to Make Predictions with Keras. Machine Learning Mastery. Geraadpleegd op 17 december 2021, van https://machinelearningmastery.com/how-to-make-classification-and-regression-predictions-for-deep-learning-models-in-keras/
+   <br />
+    <br />
+Guven, B. (2021, 16 december). Step-by-Step Guide — Building a Prediction Model in Python. Medium. Geraadpleegd op 17 december 2021, van https://towardsdatascience.com/step-by-step-guide-building-a-prediction-model-in-python-ac441e8b9e8b
+   <br />
+    <br />
+Ray, S. (2021, 26 augustus). Build A Predictive Model Using Python. Analytics Vidhya. Geraadpleegd op 17 december 2021, van https://www.analyticsvidhya.com/blog/2015/09/build-predictive-model-10-minutes-python/
+   <br />
+    <br />
+Wolberg, E. J. (2010). Prediction Analysis. Designing Quantitative Experiments, 90–127. https://doi.org/10.1007/978-3-642-11589-9_4
+
+  </details>
 
  <details>
   <summary>2.6	Evaluatie en validatie </summary>
-</details>
+3.1. Cross-validation: evaluating estimator performance. (z.d.). Scikit-Learn. Geraadpleegd op 17 december 2021, van https://scikit-learn.org/stable/modules/cross_validation.html
+      <br />
+    <br />
+Bhandari, A. (2021, 23 juli). Confusion Matrix for Machine Learning. Analytics Vidhya. Geraadpleegd op 17 december 2021, van https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/
+      <br />
+    <br />
+D. (2021, 30 januari). Example of Confusion Matrix in Python. Data to Fish. Geraadpleegd op 17 december 2021, van https://datatofish.com/confusion-matrix-python/
+      <br />
+    <br />
+Novakovica, J. D. J., Veljovicb, A., Ilic, S. S., Papic, Z., & Tomovic, M. (2017). Evaluation of Classification Models in Machine Learning. Theory and Applications of Mathematics & Computer Science. https://uav.ro/applications/se/journal/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fuav.ro%2Fapplications%2Fse%2Fjournal%2Findex.php%2FTAMCS%2Farticle%2Fdownload%2F158%2F126%2F
+      <br />
+    <br />
+Scikit-learn: How to obtain True Positive, True Negative, False Positive and False Negative. (2015, 9 juli). Stack Overflow. Geraadpleegd op 17 december 2021, van https://stackoverflow.com/questions/31324218/scikit-learn-how-to-obtain-true-positive-true-negative-false-positive-and-fal
+      <br />
+    <br />
+sklearn.metrics.confusion_matrix. (z.d.). Scikit-Learn. Geraadpleegd op 17 december 2021, van https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html
+
+  </details>
 </details>
 </details>
 
