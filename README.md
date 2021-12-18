@@ -19,7 +19,11 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
   <br />
   <details>
   <summary> foto's van cursussen</summary>
-</details> 
+<img width="1111" alt="Schermafbeelding 2021-12-18 om 14 41 58" src="https://user-images.githubusercontent.com/91061840/146643266-81b24bfa-6433-47be-98f6-033e42aebe0b.png">
+<img width="1116" alt="Schermafbeelding 2021-12-18 om 14 43 49" src="https://user-images.githubusercontent.com/91061840/146643281-e1ae4215-ed82-4144-9f92-695c5c9a5293.png">
+<img width="1113" alt="Schermafbeelding 2021-12-18 om 14 44 13" src="https://user-images.githubusercontent.com/91061840/146643284-62f24e7b-ae9a-468e-9858-cb126609fd19.png">
+
+  </details> 
   <br /> 
   <details>
     <br />
