@@ -257,8 +257,9 @@ sklearn.metrics.confusion_matrix. (z.d.). Scikit-Learn. Geraadpleegd op 17 decem
 <details>
   <summary>9.2 Planning</summary>
   Planning is altijd al een van mijn sterke punten geweest. Deze periode deed ik twee projecten te gelijker tijd hierdoor was planning essentieel. Naast dat ik alle meetings in een agenda heb staan heb ik ook een to do lijst per dag. Hierdoor weet ik precies wat ik elke dag moet doen. Daarnaast heb ik vaak de taken in de planner van team Motoric gezet en deze ook verdeeld.
+    <br />
 [zie hier de planning] (https://tasks.office.com/DeHaagseHogeschool.onmicrosoft.com/nl-nl/Home/Planner#/plantaskboard?groupId=786800fb-0bab-470c-b770-bb6975403c41&planId=9Jb-xUUDp0Gu_F2YlVNn2ZYAAPLf)
-
+           <br />
 Daarnaast heb ik ook figuren gemaakt om de stappen die in het proces gedaan moeten worden te weergeven. Een voorbeeld hiervan is hieronder te zien.
 
   ![Planning](https://user-images.githubusercontent.com/91061840/146644347-40879c72-e215-47f0-b67b-56d44105818e.jpg)
