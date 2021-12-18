@@ -210,45 +210,63 @@ sklearn.metrics.confusion_matrix. (z.d.). Scikit-Learn. Geraadpleegd op 17 decem
 </details>
 </details>
 
-## 3.Predictive Models
+## 3.Voorspellende modellen
 <details>
   <summary> Lees hier verder </summary>
   <br />
 </details>
 
-## 4.Data preperation
+## 4.Data voorbereiden
 <details>
   <summary> Lees hier verder </summary>
   <br />
 </details>
 
-## 5.Data Visualization
+## 5.Data Visualisaties
 <details>
   <summary> Lees hier verder </summary>
   <br />
 </details>
 
-## 6.Data collection
+## 6.Data collecteren
 <details>
   <summary> Lees hier verder </summary>
   <br />
 </details>
 
-## 7.Evaluation
+## 7.Evaluatie
 <details>
   <summary> Lees hier verder </summary>
   <br />
 </details>
 
-## 8.Diagnostics of the learning process
+## 8.Leerproces
 <details>
   <summary> Lees hier verder </summary>
   <br />
 </details>
 
-## 9.Communication
+## 9.Communicatie
 <details>
   <summary> Lees hier verder </summary>
   <br />
-</details>
+    <br />
+<details>
+  <summary>9.1 Presentaties</summary>
+  </details>
+<details>
+  <summary>9.2 Planning</summary>
+  Planning is altijd al een van mijn sterke punten geweest. Deze periode deed ik twee projecten te gelijker tijd hierdoor was planning essentieel. Naast dat ik alle meetings in een agenda heb staan heb ik ook een to do lijst per dag. Hierdoor weet ik precies wat ik elke dag moet doen. Daarnaast heb ik vaak de taken in de planner van team Motoric gezet en deze ook verdeeld.
+[zie hier de planning] (https://tasks.office.com/DeHaagseHogeschool.onmicrosoft.com/nl-nl/Home/Planner#/plantaskboard?groupId=786800fb-0bab-470c-b770-bb6975403c41&planId=9Jb-xUUDp0Gu_F2YlVNn2ZYAAPLf)
+
+Daarnaast heb ik ook figuren gemaakt om de stappen die in het proces gedaan moeten worden te weergeven. Een voorbeeld hiervan is hieronder te zien.
+
+  ![Planning](https://user-images.githubusercontent.com/91061840/146644347-40879c72-e215-47f0-b67b-56d44105818e.jpg)
+
+  </details>
+<details>
+  <summary>9.3 Rapport</summary>
+  </details>
+    </details>
+  
 
