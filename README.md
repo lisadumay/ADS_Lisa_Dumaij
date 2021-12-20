@@ -224,7 +224,7 @@ sklearn.metrics.confusion_matrix. (z.d.). Scikit-Learn. Geraadpleegd op 17 decem
   </details>
   <details>
   <summary>3.3 Data Visualisaties</summary>
-    blabla
+    /Users/lisadumaij/Documents/GitHub/ADS_Lisa_Dumaij/Data cleaning.ipynb
   </details>
   <details>
   <summary>3.4 Data collecteren</summary>
