@@ -239,13 +239,14 @@ sklearn.metrics.confusion_matrix. (z.d.). Scikit-Learn. Geraadpleegd op 17 decem
 ## 4.Leerproces
 <details>
   <summary> Lees hier verder </summary>
+  In dit hoofdstuk wordt mijn leerproces besproken. Dit hoofdstuk in twee subhoofdstukken: progammeren en sociale vaardigheden. Van beide gebieden worden wordt het leerproces aangehaald.
   <br />
 </details>
 
 ## 5.Communicatie
 <details>
   <summary> Lees hier verder </summary>
- In deze hoofdstuk wordt mijn bijdragen aan de communicatie tijdens dit project besproken. Het hoofdstuk is opgedeeld in drie subhoofdstukken: presentaties, planning en rapport 
+ In dit hoofdstuk wordt mijn bijdragen aan de communicatie tijdens dit project besproken. Het hoofdstuk is opgedeeld in drie subhoofdstukken: presentaties, planning en rapport 
       <br />
      <br />
 <details>
