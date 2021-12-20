@@ -232,7 +232,7 @@ sklearn.metrics.confusion_matrix. (z.d.). Scikit-Learn. Geraadpleegd op 17 decem
   </details>
   <details>
   <summary>3.5 Evaluatie</summary>
-    blabla
+    [evaluation notebooks](https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/visualisaties.ipynb)
   </details>
 </details>
 
