@@ -239,8 +239,17 @@ sklearn.metrics.confusion_matrix. (z.d.). Scikit-Learn. Geraadpleegd op 17 decem
 ## 4.Leerproces
 <details>
   <summary> Lees hier verder </summary>
-  In dit hoofdstuk wordt mijn leerproces besproken. Dit hoofdstuk in twee subhoofdstukken: progammeren en sociale vaardigheden. Van beide gebieden worden wordt het leerproces aangehaald.
+  In dit hoofdstuk wordt mijn leerproces besproken. Dit hoofdstuk in twee subhoofdstukken: data science en sociale vaardigheden. Van beide gebieden worden wordt het leerproces aangehaald.
   <br />
+    <br />
+  <details>
+  <summary>4.1 Data Science </summary>
+    blabla
+  </details>
+    <details>
+  <summary>4.2 Sociale vaardigheden </summary>
+    blabla
+  </details>
 </details>
 
 ## 5.Communicatie
