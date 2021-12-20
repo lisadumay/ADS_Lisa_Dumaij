@@ -246,7 +246,8 @@ sklearn.metrics.confusion_matrix. (z.d.). Scikit-Learn. Geraadpleegd op 17 decem
 <details>
   <summary> Lees hier verder </summary>
  In deze hoofdstuk wordt mijn bijdragen aan de communicatie tijdens dit project besproken. Het hoofdstuk is opgedeeld in drie subhoofdstukken: presentaties, planning en rapport 
-  <br />
+      <br />
+     <br />
 <details>
   <summary>5.1 Presentaties</summary>
   Ik heb in totaal vier verschillende presentaties gedaan: 2 internal en 2 external. Het moeilijke aan de presentaties vond het communiceren in het Engels. Engels is niet mijn sterkste vak daarnaast als ik zenuwachtig word vergeet ik soms mijn tekst. Doordat het in het Engels was, was het ook moeilijker voor mij om mij te herpakken. 
