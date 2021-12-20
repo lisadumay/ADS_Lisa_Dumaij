@@ -210,62 +210,58 @@ sklearn.metrics.confusion_matrix. (z.d.). Scikit-Learn. Geraadpleegd op 17 decem
 </details>
 </details>
 
-## 3.Voorspellende modellen
+## 3. Notebooks
+<details>
+  <summary> Lees hier verder </summary>
+  <br />
+  <details>
+  <summary>3.1 Voorspellende modellen</summary>
+    blabla
+  </details>
+  <details>
+  <summary>3.2 Data voorbereiding</summary>
+    blabla
+  </details>
+  <details>
+  <summary>3.3 Data Visualisaties</summary>
+    blabla
+  </details>
+  <details>
+  <summary>3.4 Data collecteren</summary>
+    blabla
+  </details>
+  <details>
+  <summary>3.5 Evaluatie</summary>
+    blabla
+  </details>
+</details>
+
+## 4.Leerproces
 <details>
   <summary> Lees hier verder </summary>
   <br />
 </details>
 
-## 4.Data voorbereiden
-<details>
-  <summary> Lees hier verder </summary>
-  <br />
-</details>
-
-## 5.Data Visualisaties
-<details>
-  <summary> Lees hier verder </summary>
-  <br />
-</details>
-
-## 6.Data collecteren
-<details>
-  <summary> Lees hier verder </summary>
-  <br />
-</details>
-
-## 7.Evaluatie
-<details>
-  <summary> Lees hier verder </summary>
-  <br />
-</details>
-
-## 8.Leerproces
-<details>
-  <summary> Lees hier verder </summary>
-  <br />
-</details>
-
-## 9.Communicatie
+## 5.Communicatie
 <details>
   <summary> Lees hier verder </summary>
  In deze hoofdstuk wordt mijn bijdragen aan de communicatie tijdens dit project besproken. Het hoofdstuk is opgedeeld in drie subhoofdstukken: presentaties, planning en rapport 
   <br />
 <details>
-  <summary>9.1 Presentaties</summary>
+  <summary>5.1 Presentaties</summary>
   Ik heb in totaal vier verschillende presentaties gedaan: 2 internal en 2 external. Het moeilijke aan de presentaties vond het communiceren in het Engels. Engels is niet mijn sterkste vak daarnaast als ik zenuwachtig word vergeet ik soms mijn tekst. Doordat het in het Engels was, was het ook moeilijker voor mij om mij te herpakken. 
  <br />
 Voor al mijn gegevens presentaties heb ik zelf de PowerPoint slides gemaakt. Hierbij had ik soms help van Yuliya of Joost. Daarnaast heb ik voor elke presentatie bullet points opzet deze zijn in het bestand terug te vinden https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/Bullet%20points%20presentations.docx .
 
 De data van mijn presentaties met de daarbijhorende PowerPoints zijn:
-  10 oktober External: 
-  25 oktober Internal:
-  22 november Internal
-  10 december External:
+  10 oktober External: <br /> 
+  25 oktober Internal: <br />
+  22 november Internal: <br />
+  10 december External: <br />
   
   </details>
 <details>
-  <summary>9.2 Planning</summary>
+  <summary>5.2 Planning</summary>
   Planning is altijd al een van mijn sterke punten geweest. Deze periode deed ik twee projecten te gelijker tijd hierdoor was planning essentieel. Naast dat ik alle meetings in een agenda heb staan heb ik ook een to do lijst per dag. Hierdoor weet ik precies wat ik elke dag moet doen. Daarnaast heb ik vaak de taken in de planner van team Motoric gezet en deze ook verdeeld.
     <br />
      <br />
@@ -278,7 +274,7 @@ Daarnaast heb ik ook figuren gemaakt om de stappen die in het proces gedaan moet
 
   </details>
 <details>
-  <summary>9.3 Rapport</summary>
+  <summary>5.3 Rapport</summary>
   Voor het rapport heb ik de lay out bedacht en ingevoerd. Daarnaast heb ik een groot deel voor de introductie geschreven en heb ik de literatuur opgezocht voor de data voorbereiding (voor het hoofdstuk matrials & methods).
   </details>
     </details>
