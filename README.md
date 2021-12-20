@@ -220,13 +220,13 @@ sklearn.metrics.confusion_matrix. (z.d.). Scikit-Learn. Geraadpleegd op 17 decem
   </details>
   <details>
   <summary>3.2 Data voorbereiding</summary>
-    [Cleaning1]()
+   bekijk [Cleaning1](ADS_Lisa_Dumaij/notebooks/Data cleaning.ipynb)
     Cleaning2]()
     Cleaning3]()
   </details>
   <details>
   <summary>3.3 Data Visualisaties</summary>
-   [Visualisaties] (https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/visualisaties.ipynb)
+   
   </details>
   <details>
   <summary>3.4 Data collecteren</summary>
