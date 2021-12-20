@@ -230,7 +230,7 @@ sklearn.metrics.confusion_matrix. (z.d.). Scikit-Learn. Geraadpleegd op 17 decem
   </details>
   <details>
   <summary>3.4 Data collecteren</summary>
-    blabla
+    My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
   </details>
   <details>
   <summary>3.5 Evaluatie</summary>
@@ -292,4 +292,4 @@ Daarnaast heb ik ook figuren gemaakt om de stappen die in het proces gedaan moet
   </details>
     </details>
   
-
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
