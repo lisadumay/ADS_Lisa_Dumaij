@@ -249,9 +249,20 @@ sklearn.metrics.confusion_matrix. (z.d.). Scikit-Learn. Geraadpleegd op 17 decem
 ## 9.Communicatie
 <details>
   <summary> Lees hier verder </summary>
+ In deze hoofdstuk wordt mijn bijdragen aan de communicatie tijdens dit project besproken. Het hoofdstuk is opgedeeld in drie subhoofdstukken: presentaties, planning en rapport 
   <br />
 <details>
   <summary>9.1 Presentaties</summary>
+  Ik heb in totaal vier verschillende presentaties gedaan: 2 internal en 2 external. Het moeilijke aan de presentaties vond het communiceren in het Engels. Engels is niet mijn sterkste vak daarnaast als ik zenuwachtig word vergeet ik soms mijn tekst. Doordat het in het Engels was, was het ook moeilijker voor mij om mij te herpakken. 
+ <br />
+Voor al mijn gegevens presentaties heb ik zelf de PowerPoint slides gemaakt. Hierbij had ik soms help van Yuliya of Joost. Daarnaast heb ik voor elke presentatie bullet points opzet deze zijn in het bestand terug te vinden https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/Bullet%20points%20presentations.docx .
+
+De data van mijn presentaties met de daarbijhorende PowerPoints zijn:
+  10 oktober External: 
+  25 oktober Internal:
+  22 november Internal
+  10 december External:
+  
   </details>
 <details>
   <summary>9.2 Planning</summary>
@@ -268,6 +279,7 @@ Daarnaast heb ik ook figuren gemaakt om de stappen die in het proces gedaan moet
   </details>
 <details>
   <summary>9.3 Rapport</summary>
+  Voor het rapport heb ik de lay out bedacht en ingevoerd. Daarnaast heb ik een groot deel voor de introductie geschreven en heb ik de literatuur opgezocht voor de data voorbereiding (voor het hoofdstuk matrials & methods).
   </details>
     </details>
   
