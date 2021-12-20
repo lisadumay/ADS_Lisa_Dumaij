@@ -292,4 +292,4 @@ Daarnaast heb ik ook figuren gemaakt om de stappen die in het proces gedaan moet
   </details>
     </details>
   
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
+
