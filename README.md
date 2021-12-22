@@ -255,7 +255,6 @@ Evaulatie: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/evaluation.ipy
       <br />
 -	Meer mijn mening geven; <br />
 -	Geen taken overnemen van anderen. <br />
-       <br />
       <br />
 Aan het begin van het project indirect de rol als projectleider. Dit hielp mij met het bereiken van beide doelen. 
        <br />
