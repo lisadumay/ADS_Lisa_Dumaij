@@ -220,21 +220,21 @@ sklearn.metrics.confusion_matrix. (z.d.). Scikit-Learn. Geraadpleegd op 17 decem
   </details>
   <details>
   <summary>3.2 Data voorbereiding</summary>
-   bekijk [Cleaning1]()
-    Cleaning2]()
-    Cleaning3]()
+  Schoonmaken 1:  https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Data%20cleaning.ipynb
+  Schoonmaken 2: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline%20Lisa.ipynb
+    Schoonmaken 3: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline2.ipynb
   </details>
   <details>
   <summary>3.3 Data Visualisaties</summary>
-   
+   Visualisaties 1: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/visualisaties.ipynb
   </details>
   <details>
   <summary>3.4 Data collecteren</summary>
-    My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
+   Dataframes samenvoegen 1: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline2.ipynb
   </details>
   <details>
   <summary>3.5 Evaluatie</summary>
-[evaluation notebooks](https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/evaluation.ipynb)
+Evaulatie: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/evaluation.ipynb
   </details>
 </details>
 
