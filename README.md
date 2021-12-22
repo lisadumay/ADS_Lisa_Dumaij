@@ -252,9 +252,11 @@ Evaulatie: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/evaluation.ipy
   <summary>4.2 interpersoonlijke vaardigheden </summary>
     Tijdens deze minor heb ik mij gefocust op mijn interpersoonlijke vaardigheden. Deze keuze heb ik gemaakt, omdat ik bij mijn vorige projecten merkte dat ik vaak bang was om wat te zeggen in grotere groepen of om iets fout te doen. Daarnaast probeerde ik altijd al het werk zelf te doen, waardoor ik ook taken van medestudenten ging uitvoeren. Daarom had ik de volgende doelen opgesteld:
       <br />
--	Meer mijn mening geven;
--	Geen taken overnemen van anderen.
+      <br />
+-	Meer mijn mening geven; <br />
+-	Geen taken overnemen van anderen. <br />
        <br />
+      <br />
 Aan het begin van het project indirect de rol als projectleider. Dit hielp mij met het bereiken van beide doelen. 
        <br />
       <br />
