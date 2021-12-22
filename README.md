@@ -221,7 +221,11 @@ sklearn.metrics.confusion_matrix. (z.d.). Scikit-Learn. Geraadpleegd op 17 decem
   <details>
   <summary>3.2 Data voorbereiding</summary>
   Schoonmaken 1:  https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Data%20cleaning.ipynb
-  Schoonmaken 2: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline%20Lisa.ipynb
+  <br />
+    <br />
+    Schoonmaken 2: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline%20Lisa.ipynb
+   <br />
+    <br />
     Schoonmaken 3: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline2.ipynb
   </details>
   <details>
