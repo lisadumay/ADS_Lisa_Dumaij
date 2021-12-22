@@ -251,15 +251,19 @@ Evaulatie: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/evaluation.ipy
     <details>
   <summary>4.2 interpersoonlijke vaardigheden </summary>
     Tijdens deze minor heb ik mij gefocust op mijn interpersoonlijke vaardigheden. Deze keuze heb ik gemaakt, omdat ik bij mijn vorige projecten merkte dat ik vaak bang was om wat te zeggen in grotere groepen of om iets fout te doen. Daarnaast probeerde ik altijd al het werk zelf te doen, waardoor ik ook taken van medestudenten ging uitvoeren. Daarom had ik de volgende doelen opgesteld:
-      
+      <br />
 -	Meer mijn mening geven;
 -	Geen taken overnemen van anderen.
        <br />
 Aan het begin van het project indirect de rol als projectleider. Dit hielp mij met het bereiken van beide doelen. 
        <br />
+      <br />
 Als eerst gaf mij dit meer de ruimte om mijn mening te geven omdat ik de vergaderingen van het team meestal leidde. Aan het begin van het project merkte ik dat ik heel erg benauwd kreeg alleen al bij het idee dat ik met iemand moest praten die ik niet goed kenden. Nu is de spanning nog wel aanwezig maar in der mate minder dat ik nu ook enthousiast ben als ik een vergadering moet leiden. Daarentegen merkte ik wel dat ik vaak na het vertellen van mijn mening altijd aan iedereen vroeg of ze het er mee eens waren. 
-De taak om niet meer de taken van andere over te nemen kon ook met mijn rol als projectmanager gebakend worden. Doordat ik ook vaak de planningen maakte voor het team. Daarbij draaide ik naast deze minor een ander project, waardoor ik ook geen tijd had om iedereens taak over te nemen. Wel had ik nog steeds de nijging om taken over te nemen, maar heb ik het minder vaak gedaan dan andere keren. Dit komt grotendeels omdat iedereen zijn of haar taak deed.
+<br />
+      <br />
+      De taak om niet meer de taken van andere over te nemen kon ook met mijn rol als projectmanager gebakend worden. Doordat ik ook vaak de planningen maakte voor het team. Daarbij draaide ik naast deze minor een ander project, waardoor ik ook geen tijd had om iedereens taak over te nemen. Wel had ik nog steeds de nijging om taken over te nemen, maar heb ik het minder vaak gedaan dan andere keren. Dit komt grotendeels omdat iedereen zijn of haar taak deed.
        <br />
+      <br />
 Als ik terugkijk naar deze periode ben ik erg blij met wat ik bereikt heb. Ik merk aan mijzelf dat ik veel opener ben geworden. Hoewel ik soms wel moeite heb met mijn mening uitbrengen in grotere groepen, ben ik er nu veel meer ontspannen in dan voorheen. Qua taken overnemen valt er nog wel wat aan te werken. Ik merkte dat door mijn team ik de kans vaak niet kreeg om taken over te nemen, maar als dit niet zo was had ik waarschijnlijk in hetzelfde patroon gevallen.
   </details>
 </details>
