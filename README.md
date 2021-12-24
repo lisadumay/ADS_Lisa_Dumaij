@@ -91,7 +91,9 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
      </details>
 <details>
   <summary>1.15 Joining Data with pandas </summary>
-    Voor mij was dit de leukste cursus van alle cursussen in Python. Zelf had ik al een grote interesse in SQL, hierbij kon ik dit combineren met Python. Ik had dit vorig jaar al geprobeerd in mijn vorige studie echter was dit toen niet gelukt. Dit jaar heb ik het daarom weer geprobeerd en lukte het wel. Een voorbeeld hiervan is te zien in … .
+    Voor mij was dit de leukste cursus van alle cursussen in Python. Zelf had ik al een grote interesse in SQL, hierbij kon ik dit combineren met Python. Ik had dit vorig jaar al geprobeerd in mijn vorige studie echter was dit toen niet gelukt. Dit jaar heb ik het daarom weer geprobeerd en lukte het wel. Een voorbeeld hiervan is te zien in de link hieronder.
+      <br /> 
+ https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline2.ipynb
      </details>
   </details>
 </details>
