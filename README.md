@@ -126,6 +126,9 @@ Zysset, A. E., Kakebeeke, T. H., Messerli-Bürgy, N., Meyer, A. H., Stülb, K., 
 
  <details>
   <summary>2.2 Format verslag </summary>
+   Zelf had ik hiervoor nog geen wetenschappelijk artikel gelezen, alleen onderzoeksrapporten. Doordat ik dit nog niet eerder had gedaan ben ik literatuur opgaan zoeken over het opbouwen van zo een artikel. Aan de hand artikel van Perneger (2004) kon ik per hoofdstuk nagaan wat erin moest staan. Het andere artikel kon ik gebruiken voor het hoofdstuk: gerelateerde werk.
+    <br />
+    <br />
    Perneger, T. V. (2004). Writing a research article: advice to beginners. International Journal for Quality in Health Care, 16(3), 191–192. https://doi.org/10.1093/intqhc/mzh053
    <br />
     <br />
