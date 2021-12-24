@@ -102,7 +102,7 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
 <details>
   <summary> Lees hier verder </summary>
   <br />
-  In dit hoofdstuk wordt mijn domein kennis besproken. Het hoofdstuk is opgedeeld in zes hoofdstukken die alle bronnen bevatten over het onderwerp.
+  In dit hoofdstuk wordt mijn domein kennis besproken. Het hoofdstuk is opgedeeld in zes hoofdstukken die alle bronnen bevatten over het onderwerp, de reden waarom ik deze heb gebruikt en wat ik van de bronnen heb geleerd.
    <br />
    <br />
   <details>
