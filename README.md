@@ -144,7 +144,7 @@ Taak: Halverwege van het project kreeg ik indirect de rol als projectleider deze
 
   </details>
   <details>
-  <summary>3.3 Evaluatie van groepsproject</summary>
+  <summary>2.3 Evaluatie van groepsproject</summary>
    Situatie: Voor mijn minor heb ik een project gedaan met vijf medestudenten. Ons project heet motoric en gaat over het voorspellen van motorische achterstand bij kinderen. Het project valt onder een groter project genaamd Start(V)aardig. Onze doelen waren:<br />
 -	Het maken van een goedwerkend voorspellingsmodel;<br />
     <br />
@@ -169,29 +169,31 @@ Taak: Onze taken waren een onderzoek artikel schrijven over onze bevindingen. De
     <br />
   <details>
   <summary>3.1 Taak definitie </summary>
-    Voor het rapport heb ik de volgende taken gedaan:  <br />
-      <br />
-De layout: Samen met Yuliya heb ik de lay out gedaan. Aan het begin was deze anders, echter doordat het de layout van een onderzoekrapport was in plaats van een artikel hebben we deze later verandert. Hiervoor heb ik de bronnen (Perner, 2004) en (Wrtinig a Research article, 2015). Deze bronnen zijn aan het einde toegevoegd.  <br />
-  <br />
-    De introductie: Ik heb de introductie geschreven doormiddel van informatie die verschaft was door de opdrachtgever, maar ook door het onderzoek van SIA. Daarnaast heb ik de hoofdvraag verzonnen die ook voor het onderzoek gebruikt wordt en heb ik samen met Yuliya en Joep de deelvragen opgesteld. De hoofdvraag heb ik opgesteld op de manier die mijn studie heeft meegekregen. Hierbij let ik bijvoorbeeld op dat de hoofdvraag geen dubbele vraag is en dat deze niet beantwoord kan worden met een ja of nee. De uiteindelijke hoofdvraag was:   <br />
-      <br />
-“How can data science be used to predict whether a child has a chance of developing a lack in motor skills a year later?”
-      <br />
-      <br />
-Met de deelvragen heb ik er op gelet dat deze de hoofdvraag beantwoorden.
-      <br />
-      <br />
-Voor de matrials en methods heb ik de Data cleaning, correlation, balance and scale, feature selection, validation en evaluation geschreven. Hiervoor heb ik verscheidende theorieën gebruikt zoals het boek Brownlee (2020) voor de data cleaning, tevens heb ik deze ook gebruikt voor mijn code. Maar ook Buijs (2017) voor de correlaties en een onderzoek artikel van Novakovic (2017) voor de validatie en evaluatie.
-Tot slot heb ik samen met Yuliya de resultaten geschreven, die uit de code waren voorgekomen.
-      <br />
-      <br />
-Literatuur  <br />
-Brownlee, J. (2020a). Data Preparation of Machine Learning. Jason Brownlee.   <br />
-Buijs, A. (2017). Statistiek om mee te werken (10de editie). Noordhoff.  <br />
-Novakovic, J. D. J., Veljovic, A., Ilic, S. S., Papic, Z., & Tomovic, M. (2017). Evaluation of Classification Models in Machine Learning. UAV. Retrieved December 1, 2021, from https://uav.ro/applications/se/journal/index.php/TAMCS/article/view/158/126   <br />
-Perneger, T. V. (2004). Writing a research article: advice to beginners. International Journal for Quality in Health Care, 16(3), 191–192. https://doi.org/10.1093/intqhc/mzh053   <br /> 
-Sia. (2019). Aanvraagformulier RAAK-PRO Start (V)aardig -2018. Nationaal Regieorgaan Praktijkgericht Onderzoek SIA.   <br />
-Writing a Research Article. (2015). Advances in Neonatal Care, 15(3), 159–161. https://doi.org/10.1097/anc.0000000000000203   <br />
+De hieronder opgestelde probleemstelling, doelstelling en vraagstelling is opgesteld met de van Meertens & Steenbergen (2018)
+     <br />
+    <br />
+**Probleemstelling**
+Uit onderzoek van SIA is gebleken dat kinderen al op jonge leeftijd lichamelijk actief zijn, vanwege de fysieke, emotionele, sociale en persoonlijke waarde van sport en bewegen voor kinderen.  Het is daarom belangrijk om motorische achterstanden al op jonge leeftijd te ontdekken. Het is echter nog niet duidelijk welke kinderen het grootste risico lopen om een motorische achterstand te krijgen of te ontwikkelen, en welke kenmerken de grootste impact hebben op de motorische vaardigheidsontwikkeling.
+     <br />
+    <br />
+**Doelstelling**
+Het op 12 januari opleveren van een voorspellingsmodel voor de motoriek van kinderen tussen 4 en 6.
+     <br />
+    <br />
+**Vraagstelling**
+“Hoe kan data science worden gebruikt om te voorspellen of een kind een jaar later kans heeft om een motorische achterstand te ontwikkelen?”
+     <br />
+    <br />
+De hoofdvraag bestaat uit de volgende deelvragen:
+- Welke biologische en socio-demografische variabelen hebben invloed op de motorische ontwikkeling van kinderen?
+- Welk model heeft het laagste percentage fout-negatieven?
+- Welke biologische en socio-demografische kenmerken hebben de grootste invloed op het model?
+- Welke kenmerken hebben de kinderen met een motorische achterstand gemeen?
+ <br />
+    <br />
+**Literatuur**
+Meertens, E., & Steenbergen, E. (2018). Onderzoek doen! https://blackboard.hhs.nl/bbcswebdav/pid-3327820-dt-content-rid-29819196_2/courses/TBK-PRH1-16-2021/TBK-PRH1-16-2020_ImportedContent_20200827125140/Onderzoek%20doen.pdf
+
      </details>
   <details>
   <summary>3.2 Evaluatie (moet nog) </summary>
