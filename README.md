@@ -207,6 +207,7 @@ Writing a Research Article. (2015). Advances in Neonatal Care, 15(3), 159–161.
 [zie hier de planning] (https://tasks.office.com/DeHaagseHogeschool.onmicrosoft.com/nl-nl/Home/Planner#/plantaskboard?groupId=786800fb-0bab-470c-b770-bb6975403c41&planId=9Jb-xUUDp0Gu_F2YlVNn2ZYAAPLf)
 Daarnaast heb ik ook figuren gemaakt om de stappen die in het proces gedaan moeten worden te weergeven. Een voorbeeld hiervan is hieronder te zien.
 <img width="454" alt="image" src="https://user-images.githubusercontent.com/91061840/148651844-2394ba6b-108c-4ea8-aa3a-29a7ca526f05.png">
+    
     </details>
   <details>
 </details>
@@ -330,7 +331,7 @@ Scikit-learn: How to obtain True Positive, True Negative, False Positive and Fal
 sklearn.metrics.confusion_matrix. (z.d.). Scikit-Learn. Geraadpleegd op 17 december 2021, van https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html
 
   </details>
-</details>
+ </details>
 </details>
 
 ## 3. Notebooks
