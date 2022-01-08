@@ -35,7 +35,8 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
   <details>
   <summary>1.2 Intermediate Python </summary>
     Deze opleiding had ik ook al eerder gedaan. Ik vond het leuk om in het eerste hoofdstuk weer plots te maken. Vorig jaar vond ik het maken van datavisualisaties een van de leukste onderwerpen en in deze cursus kwam dat even terug. Ook dit hoofdstuk ging vrij snel. In het tweede hoofdstuk werd de import van CSV besproken. Deze code heb ik later ook gebruikt voor het project, zie als voorbeeld de link hieronder . De laatste hoofdstukken waren al wat ingewikkelder, loops vond ik vorig jaar ook al ingewikkeld.
-  <br />  https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline%20Lisa.ipynb
+  <br />  
+    https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline%20Lisa.ipynb
       </details>
   <details>
   <summary>1.3 Python Data Science toolbox </summary>
@@ -54,7 +55,7 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
   <summary>1.6 Introduction to Data Visualization with Matplotlib </summary>
     Datavisualisatie was tot nu toe een van mijn sterke punten in python, wat deze cursus voor mij gemakkelijk maakte. Daarnaast had ik deze cursus al gedaan en ging mijn vorige ervaring met Python vooral over het maken van de visualisaties. Na deze cursus was ik bezig met het maken van verschillende visualisaties voor het project. Deze is te vinden in de link hieronder . Ik vond deze cursus interessant voor al het aanpassen van de grafieken qua kleuren en assen.
      <br /> 
- https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/visualisaties.ipynb
+ https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/visualisaties.ipynb
      </details>
   <details>
   <summary>1.7 Linear Classifiers in Python </summary>
