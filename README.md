@@ -172,15 +172,15 @@ Taak: Onze taken waren een onderzoek artikel schrijven over onze bevindingen. De
 De hieronder opgestelde probleemstelling, doelstelling en vraagstelling is opgesteld met de van Meertens & Steenbergen (2018)
      <br />
     <br />
-**Probleemstelling**
+Probleemstelling:  <br />
 Uit onderzoek van SIA is gebleken dat kinderen al op jonge leeftijd lichamelijk actief zijn, vanwege de fysieke, emotionele, sociale en persoonlijke waarde van sport en bewegen voor kinderen.  Het is daarom belangrijk om motorische achterstanden al op jonge leeftijd te ontdekken. Het is echter nog niet duidelijk welke kinderen het grootste risico lopen om een motorische achterstand te krijgen of te ontwikkelen, en welke kenmerken de grootste impact hebben op de motorische vaardigheidsontwikkeling.
      <br />
     <br />
-**Doelstelling**
-Het op 12 januari opleveren van een voorspellingsmodel voor de motoriek van kinderen tussen 4 en 6.
+Doelstelling: <br />
+    Het op 12 januari opleveren van een voorspellingsmodel voor de motoriek van kinderen tussen 4 en 6.
      <br />
     <br />
-**Vraagstelling**
+Vraagstelling: <br />
 “Hoe kan data science worden gebruikt om te voorspellen of een kind een jaar later kans heeft om een motorische achterstand te ontwikkelen?”
      <br />
     <br />
@@ -191,7 +191,7 @@ De hoofdvraag bestaat uit de volgende deelvragen:
 - Welke kenmerken hebben de kinderen met een motorische achterstand gemeen?
  <br />
     <br />
-**Literatuur**
+Literatuur <br />
 Meertens, E., & Steenbergen, E. (2018). Onderzoek doen! https://blackboard.hhs.nl/bbcswebdav/pid-3327820-dt-content-rid-29819196_2/courses/TBK-PRH1-16-2021/TBK-PRH1-16-2020_ImportedContent_20200827125140/Onderzoek%20doen.pdf
 
      </details>
