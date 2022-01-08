@@ -103,12 +103,12 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
 <details>
   <summary> Lees hier verder </summary>
   <br />
+  In dit hoofdstuk reflecteer en evalueer ik terug op het afgelopen half jaar. Het hoofdstuk is opgedeeld in drie subhoofdstukken: eigen contributie, leerdoelen en de evaluatie van het project. Voor het reflecteren is de STARR methode gebruikt.
   <details>
   <summary>2.1 Eigen contributie</summary>
-    Situatie: Voor mijn minor heb ik een project gedaan met vijf medestudenten. Ons project heet motoric en gaat over het voorspellen van motorische achterstand bij kinderen. Het project valt onder een groter project genaamd Start(V)aardig. Mijn opgestelde doelen voor dit project:
--	Even grootte contributie leveren als mijn medegenoten;
--	Mijn ervaringen van mijn studie meebrengen in dit project.
-    <br /> 
+    Situatie: Voor mijn minor heb ik een project gedaan met vijf medestudenten. Ons project heet motoric en gaat over het voorspellen van motorische achterstand bij kinderen. Het project valt onder een groter project genaamd Start(V)aardig. Mijn opgestelde doelen voor dit project:<br />
+-	Even grootte contributie leveren als mijn medegenoten;<br />
+-	Mijn ervaringen van mijn studie meebrengen in dit project.<br />
     <br />
 Taak: Halverwege van het project kreeg ik indirect de rol als projectleider deze had ik ook voor mij andere project. Door deze rol op mij te nemen kon ik zelf de taken verdelen en inplannen. Dit gaf mij de ruimte om de taken eerlijk te verdelen en zo te plannen dat de werklast voor ieder gelijk was. Mijn ervaring heb ik bij deze rol ook meegenomen. Vanuit mijn studie hebben wij geleerd dat het maken van een planning essentieel is, daarnaast moet je gebruik maken van elkaar kwaliteiten. Tot slot valt of staat het onderzoek met de inleiding en onderzoeksvraag. 
     <br /> 
@@ -124,10 +124,9 @@ Reflectie: Beide doelen zijn in dit project bereikt, ik ben daarom ook tevreden 
   </details>
   <details>
   <summary>2.2 Leerdoelen</summary>
-Situatie: Tijdens deze minor heb ik mij zowel gefocust op mijn interpersoonlijke vaardigheden als mij (verder) ontwikkelen in mijn vaardigheden in Data science. Deze keuze heb ik gemaakt, omdat ik bij mijn vorige projecten merkte dat ik vaak mijzelf overal verantwoordelijk voor voelde waardoor ik alle taken zelf ging uitvoeren in plaats van deze verdelen. Daarbij loop ik tijdens deze studie een ander project waardoor ik ook geen tijd heb om extra taken op mij te nemen. Daarnaast heb ik hiervoor bij mijn studie nog nooit data science gehad.  Ik heb hiervoor alleen maar visualisaties gemaakt in Python. Daarom had ik de volgende doelen opgesteld:
--	Geen taken overnemen van anderen;
--	Meer ervaring op doen in Data Science;
-       <br /> 
+Situatie: Tijdens deze minor heb ik mij zowel gefocust op mijn interpersoonlijke vaardigheden als mij (verder) ontwikkelen in mijn vaardigheden in Data science. Deze keuze heb ik gemaakt, omdat ik bij mijn vorige projecten merkte dat ik vaak mijzelf overal verantwoordelijk voor voelde waardoor ik alle taken zelf ging uitvoeren in plaats van deze verdelen. Daarbij loop ik tijdens deze studie een ander project waardoor ik ook geen tijd heb om extra taken op mij te nemen. Daarnaast heb ik hiervoor bij mijn studie nog nooit data science gehad.  Ik heb hiervoor alleen maar visualisaties gemaakt in Python. Daarom had ik de volgende doelen opgesteld:<br />
+-	Geen taken overnemen van anderen;<br />
+-	Meer ervaring op doen in Data Science;<br />
     <br />
 Taak: Halverwege van het project kreeg ik indirect de rol als projectleider deze had ik ook voor mij andere project. Door deze rol op mij te nemen kon ik zelf de taken verdelen en inplannen. Dit gaf mij de ruimte om de taken eerlijk te verdelen en zo te plannen dat de werklast voor ieder gelijk was. De taak om meer ervaring op te doen in Data science was simpel. Nu ik eigenlijk nog geen ervaring gaven alleen al de lessen mij meer kennis over Data Science. Daarnaast zou ik deze ook kunnen toepassen in het project wat ik uitvoerde. Tot slot heb ik voor het project zelf ook literatuuronderzoek gedaan. Door deze taken verbreed ik mijn kennis over Data Science en pas ik deze direct toe.
    <br /> 
@@ -144,9 +143,8 @@ Taak: Halverwege van het project kreeg ik indirect de rol als projectleider deze
   </details>
   <details>
   <summary>3.3 Evaluatie van groepsproject</summary>
-   Situatie: Voor mijn minor heb ik een project gedaan met vijf medestudenten. Ons project heet motoric en gaat over het voorspellen van motorische achterstand bij kinderen. Het project valt onder een groter project genaamd Start(V)aardig. Onze doelen waren:
--	Het maken van een goedwerkend voorspellingsmodel;
-       <br /> 
+   Situatie: Voor mijn minor heb ik een project gedaan met vijf medestudenten. Ons project heet motoric en gaat over het voorspellen van motorische achterstand bij kinderen. Het project valt onder een groter project genaamd Start(V)aardig. Onze doelen waren:<br />
+-	Het maken van een goedwerkend voorspellingsmodel;<br />
     <br />
 Taak: Onze taken waren een onderzoek artikel schrijven over onze bevindingen. Deze bevindingen bestonden uit de keuzes van outliers handling, imputatie en modelkeuze. Hiermee wilde wij de opdrachtgever toelichten waarom wij welke keuze wij hebben gemaakt. Daarnaast hebben alle opties ook zelf getest zodat het beste model uitgekozen kon worden. 
    <br /> 
