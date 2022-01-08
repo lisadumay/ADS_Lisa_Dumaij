@@ -208,201 +208,105 @@ Writing a Research Article. (2015). Advances in Neonatal Care, 15(3), 159–161.
 Daarnaast heb ik ook figuren gemaakt om de stappen die in het proces gedaan moeten worden te weergeven. Een voorbeeld hiervan is hieronder te zien.
 <img width="454" alt="image" src="https://user-images.githubusercontent.com/91061840/148651844-2394ba6b-108c-4ea8-aa3a-29a7ca526f05.png">
     </details>
+  </details>
   
-## 3.Domein kennis
+## 4. Voorspellende analyse (niet af)
 <details>
   <summary> Lees hier verder </summary>
   <br />
-  In dit hoofdstuk wordt mijn domein kennis besproken. Het hoofdstuk is opgedeeld in zes hoofdstukken die alle bronnen bevatten over het onderwerp, de reden waarom ik deze heb gebruikt en wat ik van de bronnen heb geleerd.
+  <details>
+  <summary>4.1 Selecteren van modellen (niet)</summary>
+    blabla
+  </details>
+  <details>
+  <summary>4.2 Een model configureren (niet)</summary>
+  blabla
+  </details>
+  <details>
+  <summary>4.3 Model trainen (niet)</summary>
+  blabla
+  </details>
+  <details>
+  <summary>4.4 Evalueren model (niet)</summary>
+   blabla
+  </details>
+  <details>
+  <summary>4.5 Visualiseren (niet) </summary>
+bla bla
+  </details>
+</details>  
+  
+## 5.Domein kennis (niet af)
+<details>
+  <summary> Lees hier verder </summary>
+  <br />
+  In dit hoofdstuk wordt mijn domein kennis besproken. Het hoofdstuk is opgedeeld in 3 hoofdstukken die alle bronnen bevatten over bepaalde onderwerpen, de reden waarom ik deze heb gebruikt en wat ik van de bronnen heb geleerd.
    <br />
    <br />
   <details>
-  <summary>2.1 Ontwikkeling van motorische vaardigheden </summary>
+  <summary>5.1 Introductie vakgebied (niet) </summary>
+bla bla
+  </details>
 
-Formiga, C. K., & Linhares, M. B. (2015). Motor Skills: Development in Infancy and Early Childhood. International Encyclopedia of the Social & Behavioral Sciences, 971–977. https://doi.org/10.1016/b978-0-08-097086-8.23071-7
-    <br />
-    <br />
-La Paro, K. M., & Pianta, R. C. (2000). Predicting Children’s Competence in the Early School Years: A Meta-Analytic Review. Review of Educational Research, 70(4), 443–484. https://doi.org/10.3102/00346543070004443
-     <br />
-    <br />
-Lopes, V. P., Rodrigues, L. P., Maia, J. A. R., & Malina, R. M. (2010). Motor coordination as predictor of physical activity in childhood. Scandinavian Journal of Medicine & Science in Sports, 21(5), 663–669. https://doi.org/10.1111/j.1600-0838.2009.01027.x
-         <br />
-    <br />
-Sia. (2019). Aanvraagformulier RAAK-PRO Start (V)aardig -2018. Nationaal Regieorgaan Praktijkgericht Onderzoek SIA. 
-     <br />
-    <br />
-Zysset, A. E., Kakebeeke, T. H., Messerli-Bürgy, N., Meyer, A. H., Stülb, K., Leeger-Aschmann, C. S., Schmutz, E. A., Arhab, A., Ferrazzini, V., Kriemler, S., Munsch, S., Puder, J. J., & Jenni, O. G. (2018). The validity of parental reports on motor skills performance level in preschool children: a comparison with a standardized motor test. European Journal of Pediatrics, 177(5), 715–722. https://doi.org/10.1007/s00431-017-3078-6
+ <details>
+  <summary>5.2 Literatuuronderzoek (niet) </summary>
+   blabla
 
   </details>
 
  <details>
-  <summary>2.2 Format verslag </summary>
-   Zelf had ik hiervoor nog geen wetenschappelijk artikel gelezen, alleen onderzoeksrapporten. Doordat ik dit nog niet eerder had gedaan ben ik literatuur opgaan zoeken over het opbouwen van zo een artikel. Aan de hand artikel van Perneger (2004) kon ik per hoofdstuk nagaan wat erin moest staan. Het andere artikel kon ik gebruiken voor het hoofdstuk: gerelateerde werk.
-    <br />
-    <br />
-   Perneger, T. V. (2004). Writing a research article: advice to beginners. International Journal for Quality in Health Care, 16(3), 191–192. https://doi.org/10.1093/intqhc/mzh053
-   <br />
-    <br />
-   Writing a Research Article. (2015). Advances in Neonatal Care, 15(3), 159–161. https://doi.org/10.1097/anc.0000000000000203
-</details>
-
- <details>
-  <summary>2.3 Data voorbereiding </summary>
-   Brownlee, J. (2020a). Data Preparation of Machine Learning. Jason Brownlee.
-   <br />
-    <br />
-   Data Preparation for Machine Learning | DataRobot Artificial Intelligence Wiki. (2021, 3 december). DataRobot AI Cloud. Geraadpleegd op 17 december 2021, van https://www.datarobot.com/wiki/data-preparation/
-   <br />
-    <br />
-   Kim, J. K., & Fiorillo, C. D. (2017). Theory of optimal balance predicts and explains the amplitude and decay time of synaptic inhibition. Nature Communications, 8(1). https://doi.org/10.1038/ncomms14566
-   <br />
-    <br />
-   Matthes, E. (2018). Crash Course programmeren in Python : projectgericht leren programmeren. Visual Steps TM.
-</details>
-
- <details>
-  <summary>2.4	Feature Selection </summary>
-Balancing dataset and normalizing features: what comes first? (2017, 5 januari). Cross Validated. Geraadpleegd op 17 december 2021, van https://stats.stackexchange.com/questions/254726/balancing-dataset-and-normalizing-features-what-comes-first
-   <br />
-    <br />
-Brownlee, J. (2020, 20 augustus). How to Choose a Feature Selection Method For Machine Learning. Machine Learning Mastery. Geraadpleegd op 17 december 2021, van https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/
-   <br />
-    <br />
-Kuhn, M., & Johnson, K. (2019). Feature Engineering and Selection: A Practical Approach for Predictive Models (Chapman & Hall/CRC Data Science Series) (1st ed.). Chapman and Hall/CRC.
-   <br />
-    <br />
-Kumar, V. (2014). Feature Selection: A literature Review. The Smart Computing Review, 4(3). https://doi.org/10.6029/smartcr.2014.03.007
-   <br />
-    <br />
-Li, J., Cheng, K., Wang, S., Morstatter, F., Trevino, R. P., Tang, J., & Liu, H. (2018). Feature Selection. ACM Computing Surveys, 50(6), 1–45. https://doi.org/10.1145/3136625
-   <br />
-    <br />
-Miao, J., & Niu, L. (2016). A Survey on Feature Selection. Procedia Computer Science, 91, 919–926. https://doi.org/10.1016/j.procs.2016.07.111
-<br />
-    <br />
-   Roy, B. (2021, 14 december). All about Feature Scaling - Towards Data Science. Medium. Geraadpleegd op 17 december 2021, van https://towardsdatascience.com/all-about-feature-scaling-bcc0ad75cb35
-<br />
-    <br />
-   Schönig, S., Jasinski, R., Ackermann, L., & Jablonski, S. (2018). Deep Learning Process Prediction with Discrete and Continuous Data Features. Proceedings of the 13th International Conference on Evaluation of Novel Approaches to Software Engineering. Published. https://doi.org/10.5220/0006772003140319
-<br />
-    <br />
-   Saeys, Y., Inza, I., & Larranaga, P. (2007). A review of feature selection techniques in bioinformatics. Bioinformatics, 23(19), 2507–2517. https://doi.org/10.1093/bioinformatics/btm344
-
-  </details>
-
- <details>
-  <summary>2.5	Modellen </summary>
-Brownlee, J. (2020, 10 januari). How to Make Predictions with scikit-learn. Machine Learning Mastery. Geraadpleegd op 17 december 2021, van https://machinelearningmastery.com/make-predictions-scikit-learn/
-   <br />
-    <br />
-Brownlee, J. (2020, augustus 27). How to Make Predictions with Keras. Machine Learning Mastery. Geraadpleegd op 17 december 2021, van https://machinelearningmastery.com/how-to-make-classification-and-regression-predictions-for-deep-learning-models-in-keras/
-   <br />
-    <br />
-Guven, B. (2021, 16 december). Step-by-Step Guide — Building a Prediction Model in Python. Medium. Geraadpleegd op 17 december 2021, van https://towardsdatascience.com/step-by-step-guide-building-a-prediction-model-in-python-ac441e8b9e8b
-   <br />
-    <br />
-Ray, S. (2021, 26 augustus). Build A Predictive Model Using Python. Analytics Vidhya. Geraadpleegd op 17 december 2021, van https://www.analyticsvidhya.com/blog/2015/09/build-predictive-model-10-minutes-python/
-   <br />
-    <br />
-Wolberg, E. J. (2010). Prediction Analysis. Designing Quantitative Experiments, 90–127. https://doi.org/10.1007/978-3-642-11589-9_4
-
-  </details>
-  
- <details>
-  <summary>2.6	Evaluatie en validatie </summary>
-3.1. Cross-validation: evaluating estimator performance. (z.d.). Scikit-Learn. Geraadpleegd op 17 december 2021, van https://scikit-learn.org/stable/modules/cross_validation.html
-      <br />
-    <br />
-Bhandari, A. (2021, 23 juli). Confusion Matrix for Machine Learning. Analytics Vidhya. Geraadpleegd op 17 december 2021, van https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/
-      <br />
-    <br />
-D. (2021, 30 januari). Example of Confusion Matrix in Python. Data to Fish. Geraadpleegd op 17 december 2021, van https://datatofish.com/confusion-matrix-python/
-      <br />
-    <br />
-Novakovica, J. D. J., Veljovicb, A., Ilic, S. S., Papic, Z., & Tomovic, M. (2017). Evaluation of Classification Models in Machine Learning. Theory and Applications of Mathematics & Computer Science. https://uav.ro/applications/se/journal/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fuav.ro%2Fapplications%2Fse%2Fjournal%2Findex.php%2FTAMCS%2Farticle%2Fdownload%2F158%2F126%2F
-      <br />
-    <br />
-Scikit-learn: How to obtain True Positive, True Negative, False Positive and False Negative. (2015, 9 juli). Stack Overflow. Geraadpleegd op 17 december 2021, van https://stackoverflow.com/questions/31324218/scikit-learn-how-to-obtain-true-positive-true-negative-false-positive-and-fal
-      <br />
-    <br />
-sklearn.metrics.confusion_matrix. (z.d.). Scikit-Learn. Geraadpleegd op 17 december 2021, van https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html
+  <summary>5.3 Uitleg van terminologie, jargon en definities </summary>
+blabla
   </details>
   
  </details>
   
 </details>
 
-## 3. Notebooks
+## 6. Data preprocessing (niet af)
 <details>
   <summary> Lees hier verder </summary>
   <br />
   <details>
-  <summary>3.1 Voorspellende modellen</summary>
+  <summary>6.1 Data exploratie (niet)</summary>
     blabla
   </details>
   <details>
-  <summary>3.2 Data voorbereiding</summary>
-  Schoonmaken 1:  https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Data%20cleaning.ipynb
-  <br />
+  <summary>6.2 Data schoonmaken (niet)</summary>
+  blabla
+  </details>
+  <details>
+  <summary>6.3 Data voorbeiding (niet)</summary>
+   blabla
+  </details>
+  <details>
+  <summary>6.4 Data uitleg</summary>
+   In dit project is er gebruik gemaakt van gestructureerde data. De data bestaan uit de gegevens die verschaft zijn door de opdrachtgever en data vanuit CBS.  De gegevens van de opdrachtgever bestaan uit: de competentie, motivatie, perceptie, BMI en de ouders vragenlijst. 
     <br />
-    Schoonmaken 2: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline%20Lisa.ipynb
    <br />
+De motivatie, perceptie en een gedeelte van de ouders vragenlijst bestaat uit gecategoriseerde data (ordinale schaal). De kinderen konden kiezen tussen vier opties om hun motivatie, en perceptie te weergeven. In de vragenlijst konden ouders vaak kiezen uit verschillende antwoorden (meerkeuze vragen). Het andere deel van de vragenlijst, de BMI en de CBS vallen onder een ratio schaal, er is sprake van numerieke gegevens. 
     <br />
-    Schoonmaken 3: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline2.ipynb
+   <br />
+Tot slot bestaat de gegevens zowel uit kwalitatieve als kwantitatieve data. De dataset bestaat uit 1704 rijen (kinderen) en 188 kolommen (features en einddoel variabel).
+        <br />
+   <br />
+    Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/data/total.csv 
+
   </details>
   <details>
-  <summary>3.3 Data Visualisaties</summary>
-   Visualisaties 1: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/visualisaties.ipynb
-  </details>
-  <details>
-  <summary>3.4 Data collecteren</summary>
-   Dataframes samenvoegen 1: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline2.ipynb
-  </details>
-  <details>
-  <summary>3.5 Evaluatie</summary>
-Evaulatie: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/evaluation.ipynb
+  <summary>6.5 Data visualisatie (niet)</summary>
+bla bla
   </details>
 </details>
 
-## 4.Leerproces
-<details>
-  <summary> Lees hier verder </summary>
-  In dit hoofdstuk wordt mijn leerproces besproken. Dit hoofdstuk in twee subhoofdstukken: data science en interpersoonlijke vaardigheden. Van beide gebieden worden wordt het leerproces aangehaald.
-  <br />
-    <br />
-  <details>
-  <summary>4.1 Data Science </summary>
-    blabla
-  </details>
-    <details>
-  <summary>4.2 interpersoonlijke vaardigheden </summary>
-    Tijdens deze minor heb ik mij gefocust op mijn interpersoonlijke vaardigheden. Deze keuze heb ik gemaakt, omdat ik bij mijn vorige projecten merkte dat ik vaak bang was om wat te zeggen in grotere groepen of om iets fout te doen. Daarnaast probeerde ik altijd al het werk zelf te doen, waardoor ik ook taken van medestudenten ging uitvoeren. Daarom had ik de volgende doelen opgesteld:
-      <br />
-      <br />
--	Meer mijn mening geven; <br />
--	Geen taken overnemen van anderen. <br />
-      <br />
-Aan het begin van het project indirect de rol als projectleider. Dit hielp mij met het bereiken van beide doelen. 
-       <br />
-      <br />
-Als eerst gaf mij dit meer de ruimte om mijn mening te geven omdat ik de vergaderingen van het team meestal leidde. Aan het begin van het project merkte ik dat ik heel erg benauwd kreeg alleen al bij het idee dat ik met iemand moest praten die ik niet goed kenden. Nu is de spanning nog wel aanwezig maar in der mate minder dat ik nu ook enthousiast ben als ik een vergadering moet leiden. Daarentegen merkte ik wel dat ik vaak na het vertellen van mijn mening altijd aan iedereen vroeg of ze het er mee eens waren. 
-<br />
-      <br />
-      De taak om niet meer de taken van andere over te nemen kon ook met mijn rol als projectmanager gebakend worden. Doordat ik ook vaak de planningen maakte voor het team. Daarbij draaide ik naast deze minor een ander project, waardoor ik ook geen tijd had om iedereens taak over te nemen. Wel had ik nog steeds de nijging om taken over te nemen, maar heb ik het minder vaak gedaan dan andere keren. Dit komt grotendeels omdat iedereen zijn of haar taak deed.
-       <br />
-      <br />
-Als ik terugkijk naar deze periode ben ik erg blij met wat ik bereikt heb. Ik merk aan mijzelf dat ik veel opener ben geworden. Hoewel ik soms wel moeite heb met mijn mening uitbrengen in grotere groepen, ben ik er nu veel meer ontspannen in dan voorheen. Qua taken overnemen valt er nog wel wat aan te werken. Ik merkte dat door mijn team ik de kans vaak niet kreeg om taken over te nemen, maar als dit niet zo was had ik waarschijnlijk in hetzelfde patroon gevallen.
-  </details>
-</details>
-
-## 5.Communicatie
+## 7.Communicatie (niet af)
 <details>
   <summary> Lees hier verder </summary>
  In dit hoofdstuk wordt mijn bijdragen aan de communicatie tijdens dit project besproken. Het hoofdstuk is opgedeeld in drie subhoofdstukken: presentaties, planning en rapport 
       <br />
      <br />
 <details>
-  <summary>5.1 Presentaties</summary>
+  <summary>7.1 Presentaties (niet af)</summary>
   Ik heb in totaal vier verschillende presentaties gedaan: 2 internal en 2 external. Het moeilijke aan de presentaties vond het communiceren in het Engels. Engels is niet mijn sterkste vak daarnaast als ik zenuwachtig word vergeet ik soms mijn tekst. Doordat het in het Engels was, was het ook moeilijker voor mij om mij te herpakken. 
  <br />
 Voor al mijn gegevens presentaties heb ik zelf de PowerPoint slides gemaakt. Hierbij had ik soms help van Yuliya of Joost. Daarnaast heb ik voor elke presentatie bullet points opzet deze zijn in het bestand terug te vinden https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/Bullet%20points%20presentations.docx .
@@ -415,20 +319,8 @@ De data van mijn presentaties met de daarbijhorende PowerPoints zijn:
   
   </details>
 <details>
-  <summary>5.2 Planning</summary>
-  Planning is altijd al een van mijn sterke punten geweest. Deze periode deed ik twee projecten te gelijker tijd hierdoor was planning essentieel. Naast dat ik alle meetings in een agenda heb staan heb ik ook een to do lijst per dag. Hierdoor weet ik precies wat ik elke dag moet doen. Daarnaast heb ik vaak de taken in de planner van team Motoric gezet en deze ook verdeeld.
-    <br />
-     <br />
-![zie hier de planning] (https://tasks.office.com/DeHaagseHogeschool.onmicrosoft.com/nl-nl/Home/Planner#/plantaskboard?groupId=786800fb-0bab-470c-b770-bb6975403c41&planId=9Jb-xUUDp0Gu_F2YlVNn2ZYAAPLf)
-           <br />
-     <br />
-Daarnaast heb ik ook figuren gemaakt om de stappen die in het proces gedaan moeten worden te weergeven. Een voorbeeld hiervan is hieronder te zien.
-
-  ![Planning](https://user-images.githubusercontent.com/91061840/146644347-40879c72-e215-47f0-b67b-56d44105818e.jpg)
-
-  </details>
-<details>
-  <summary>5.3 Rapport</summary>
+  
+  <summary>7.2 Paper (niet af) </summary>
   Voor het rapport heb ik de lay out bedacht en ingevoerd. Daarnaast heb ik een groot deel voor de introductie geschreven en heb ik de literatuur opgezocht voor de data voorbereiding (voor het hoofdstuk matrials & methods).
   </details>
     </details>
