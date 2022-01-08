@@ -104,6 +104,8 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
   <summary> Lees hier verder </summary>
   <br />
   In dit hoofdstuk reflecteer en evalueer ik terug op het afgelopen half jaar. Het hoofdstuk is opgedeeld in drie subhoofdstukken: eigen contributie, leerdoelen en de evaluatie van het project. Voor het reflecteren is de STARR methode gebruikt.
+  <br />
+  <br />
   <details>
   <summary>2.1 Eigen contributie</summary>
     Situatie: Voor mijn minor heb ik een project gedaan met vijf medestudenten. Ons project heet motoric en gaat over het voorspellen van motorische achterstand bij kinderen. Het project valt onder een groter project genaamd Start(V)aardig. Mijn opgestelde doelen voor dit project:<br />
