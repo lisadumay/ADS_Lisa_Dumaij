@@ -207,10 +207,7 @@ Writing a Research Article. (2015). Advances in Neonatal Care, 15(3), 159–161.
 [zie hier de planning] (https://tasks.office.com/DeHaagseHogeschool.onmicrosoft.com/nl-nl/Home/Planner#/plantaskboard?groupId=786800fb-0bab-470c-b770-bb6975403c41&planId=9Jb-xUUDp0Gu_F2YlVNn2ZYAAPLf)
 Daarnaast heb ik ook figuren gemaakt om de stappen die in het proces gedaan moeten worden te weergeven. Een voorbeeld hiervan is hieronder te zien.
 <img width="454" alt="image" src="https://user-images.githubusercontent.com/91061840/148651844-2394ba6b-108c-4ea8-aa3a-29a7ca526f05.png">
-    
     </details>
-  <details>
-</details>
   
 ## 3.Domein kennis
 <details>
@@ -310,7 +307,7 @@ Ray, S. (2021, 26 augustus). Build A Predictive Model Using Python. Analytics Vi
 Wolberg, E. J. (2010). Prediction Analysis. Designing Quantitative Experiments, 90–127. https://doi.org/10.1007/978-3-642-11589-9_4
 
   </details>
-
+  
  <details>
   <summary>2.6	Evaluatie en validatie </summary>
 3.1. Cross-validation: evaluating estimator performance. (z.d.). Scikit-Learn. Geraadpleegd op 17 december 2021, van https://scikit-learn.org/stable/modules/cross_validation.html
@@ -329,9 +326,10 @@ Scikit-learn: How to obtain True Positive, True Negative, False Positive and Fal
       <br />
     <br />
 sklearn.metrics.confusion_matrix. (z.d.). Scikit-Learn. Geraadpleegd op 17 december 2021, van https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html
-
   </details>
+  
  </details>
+  
 </details>
 
 ## 3. Notebooks
