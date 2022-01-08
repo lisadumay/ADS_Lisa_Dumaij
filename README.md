@@ -160,6 +160,56 @@ Taak: Onze taken waren een onderzoek artikel schrijven over onze bevindingen. De
     Reflectie: Volgende keer zou ik direct beginnen met het opstellen van een planning. Hierdoor weet iedereen welke taken er zijn en waar er naartoe wordt gewerkt. Daarbij zou het probleem van het tekort aan data eerder gezien worden en konden hier maatregelen tegen genomen kunnen worden. Toch ben ik redelijk tevreden met het resultaat. Dit omdat wij toch meerdere oplossingen geprobeerd hebben en onze best gedaan hebben. De essentie wat ik heb geleerd is ook dat soms een onverwacht resultaat ook een resultaat is. Zoals in het doel te zien is wilde ik een goedwerkend voorspellingsmodel hebben. Echter hield ik hier niet rekening mee dat een antwoord als er is geen goed voorspellend model hiervoor, ook een goed antwoord kan zijn. Dit zou ik de volgende keer wel meenemen in mijn projecten. 
   </details>
 </details>
+
+## 3.Research project (niet af)
+<details>
+  <summary> Lees hier verder </summary>
+  In dit hoofdstuk ....
+  <br />
+    <br />
+  <details>
+  <summary>3.1 Taak definitie </summary>
+    Voor het rapport heb ik de volgende taken gedaan:  <br />
+      <br />
+De layout: Samen met Yuliya heb ik de lay out gedaan. Aan het begin was deze anders, echter doordat het de layout van een onderzoekrapport was in plaats van een artikel hebben we deze later verandert. Hiervoor heb ik de bronnen (Perner, 2004) en (Wrtinig a Research article, 2015). Deze bronnen zijn aan het einde toegevoegd.  <br />
+  <br />
+    De introductie: Ik heb de introductie geschreven doormiddel van informatie die verschaft was door de opdrachtgever, maar ook door het onderzoek van SIA. Daarnaast heb ik de hoofdvraag verzonnen die ook voor het onderzoek gebruikt wordt en heb ik samen met Yuliya en Joep de deelvragen opgesteld. De hoofdvraag heb ik opgesteld op de manier die mijn studie heeft meegekregen. Hierbij let ik bijvoorbeeld op dat de hoofdvraag geen dubbele vraag is en dat deze niet beantwoord kan worden met een ja of nee. De uiteindelijke hoofdvraag was:   <br />
+      <br />
+“How can data science be used to predict whether a child has a chance of developing a lack in motor skills a year later?”
+      <br />
+      <br />
+Met de deelvragen heb ik er op gelet dat deze de hoofdvraag beantwoorden.
+      <br />
+      <br />
+Voor de matrials en methods heb ik de Data cleaning, correlation, balance and scale, feature selection, validation en evaluation geschreven. Hiervoor heb ik verscheidende theorieën gebruikt zoals het boek Brownlee (2020) voor de data cleaning, tevens heb ik deze ook gebruikt voor mijn code. Maar ook Buijs (2017) voor de correlaties en een onderzoek artikel van Novakovic (2017) voor de validatie en evaluatie.
+Tot slot heb ik samen met Yuliya de resultaten geschreven, die uit de code waren voorgekomen.
+      <br />
+      <br />
+Literatuur  <br />
+Brownlee, J. (2020a). Data Preparation of Machine Learning. Jason Brownlee.   <br />
+Buijs, A. (2017). Statistiek om mee te werken (10de editie). Noordhoff.  <br />
+Novakovic, J. D. J., Veljovic, A., Ilic, S. S., Papic, Z., & Tomovic, M. (2017). Evaluation of Classification Models in Machine Learning. UAV. Retrieved December 1, 2021, from https://uav.ro/applications/se/journal/index.php/TAMCS/article/view/158/126   <br />
+Perneger, T. V. (2004). Writing a research article: advice to beginners. International Journal for Quality in Health Care, 16(3), 191–192. https://doi.org/10.1093/intqhc/mzh053   <br /> 
+Sia. (2019). Aanvraagformulier RAAK-PRO Start (V)aardig -2018. Nationaal Regieorgaan Praktijkgericht Onderzoek SIA.   <br />
+Writing a Research Article. (2015). Advances in Neonatal Care, 15(3), 159–161. https://doi.org/10.1097/anc.0000000000000203   <br />
+     </details>
+  <details>
+  <summary>3.2 Evaluatie (moet nog) </summary>
+ blabla
+    </details>
+  <details>
+ <summary>3.3 Conclusie (moet nog) </summary>
+ blabla
+    </details>
+  <details>
+ <summary>3.4 Planning </summary>
+ Planning is altijd al een van mijn sterke punten geweest. Deze periode deed ik twee projecten te gelijker tijd hierdoor was planning essentieel. Naast dat ik alle meetings in een agenda heb staan heb ik ook een to do lijst per dag. Hierdoor weet ik precies wat ik elke dag moet doen. Daarbij hebben we dagelijks scrum sessie gehad met het team van ongeveer 15 minuten. Waarin we de taken verdeelde en/of de voortgang van de taken besproken. Tevens heb ik vaak de taken in de planner van team Motoric gezet en deze ook verdeeld.
+[zie hier de planning] (https://tasks.office.com/DeHaagseHogeschool.onmicrosoft.com/nl-nl/Home/Planner#/plantaskboard?groupId=786800fb-0bab-470c-b770-bb6975403c41&planId=9Jb-xUUDp0Gu_F2YlVNn2ZYAAPLf)
+Daarnaast heb ik ook figuren gemaakt om de stappen die in het proces gedaan moeten worden te weergeven. Een voorbeeld hiervan is hieronder te zien.
+<img width="454" alt="image" src="https://user-images.githubusercontent.com/91061840/148651844-2394ba6b-108c-4ea8-aa3a-29a7ca526f05.png">
+    </details>
+  <details>
+</details>
   
 ## 3.Domein kennis
 <details>
