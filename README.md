@@ -98,8 +98,58 @@ In deze minor heb ik gebruik gemaakt van het programma DataCamp. Dit was niet de
      </details>
   </details>
 </details>
+
+## 2. Reflectie en evaluatie
+<details>
+  <summary> Lees hier verder </summary>
+  <br />
+  <details>
+  <summary>2.1 Eigen contributie</summary>
+    Situatie: Voor mijn minor heb ik een project gedaan met vijf medestudenten. Ons project heet motoric en gaat over het voorspellen van motorische achterstand bij kinderen. Het project valt onder een groter project genaamd Start(V)aardig. Mijn opgestelde doelen voor dit project:
+-	Even grootte contributie leveren als mijn medegenoten;
+-	Mijn ervaringen van mijn studie meebrengen in dit project.
+    <br /> 
+Taak: Halverwege van het project kreeg ik indirect de rol als projectleider deze had ik ook voor mij andere project. Door deze rol op mij te nemen kon ik zelf de taken verdelen en inplannen. Dit gaf mij de ruimte om de taken eerlijk te verdelen en zo te plannen dat de werklast voor ieder gelijk was. Mijn ervaring heb ik bij deze rol ook meegenomen. Vanuit mijn studie hebben wij geleerd dat het maken van een planning essentieel is, daarnaast moet je gebruik maken van elkaar kwaliteiten. Tot slot valt of staat het onderzoek met de inleiding en onderzoeksvraag. 
+    <br /> 
+Actie: Het verdelen en plannen van taken deed ik op twee manieren. Aan het begin maakte ik een schema met welke hoofdtaken er waren en welke sub taken er vervolgens onder vielen.  Daarna verdeelde we de sub taken mondeling en plaatste ik deze op het scrumboord (planning is te zien in 3.4). Hierbij werd er gelet op dat de werklast ongeveer gelijk was. Door aan het begin een gesprek met de opdrachtgever aan te gaan kon de aanleiding van het project gedefinieerd worden. Ook gaf dit ons meer tijd om bij twijfel deze nog met de opdrachtgever te bespreken voordat wij bijvoorbeeld ‘een foute keuze’ hadden gemaakt. Daarnaast hebben wij meerdere malen gebrainstormd over de hoofdvraag, daarnaast hebben wij dit besproken met de docenten en de opdrachtgever.
+    <br /> 
+Resultaten: Het heeft deels gewerkt, ik merkte dat de planning voor duidelijkheid en structuur zorgde in de groep. Ditzelfde geldt van het van tevoren opstellen van een inleiding, hierdoor wist iedereen wat er met het onderzoek bereikt moest worden en zorgde dit daarmee ook voor duidelijkheid. Wel merkte ik dat er vaak van de planning afgeweken werd, het toezicht op de planning zou daarom de volgende keer strakker mogen. De werklasten waren in dit project gelijk. 
+    <br /> 
+Reflectie: Beide doelen zijn in dit project bereikt, ik ben daarom ook tevreden met de resultaten. Wel heb ik geleerd dat het houden van de planning toch meer gehandhaafd moet worden de volgende keer.  Het scrum boord zou ik in volgende projecten weer gebruiken. Ik merkte dat dit structuur en duidelijkheid gaf. Hetzelfde geldt voor de scrumsessies.
+
+  </details>
+  <details>
+  <summary>2.2 Leerdoelen</summary>
+Situatie: Tijdens deze minor heb ik mij zowel gefocust op mijn interpersoonlijke vaardigheden als mij (verder) ontwikkelen in mijn vaardigheden in Data science. Deze keuze heb ik gemaakt, omdat ik bij mijn vorige projecten merkte dat ik vaak mijzelf overal verantwoordelijk voor voelde waardoor ik alle taken zelf ging uitvoeren in plaats van deze verdelen. Daarbij loop ik tijdens deze studie een ander project waardoor ik ook geen tijd heb om extra taken op mij te nemen. Daarnaast heb ik hiervoor bij mijn studie nog nooit data science gehad.  Ik heb hiervoor alleen maar visualisaties gemaakt in Python. Daarom had ik de volgende doelen opgesteld:
+-	Geen taken overnemen van anderen;
+-	Meer ervaring op doen in Data Science;
+       <br /> 
+Taak: Halverwege van het project kreeg ik indirect de rol als projectleider deze had ik ook voor mij andere project. Door deze rol op mij te nemen kon ik zelf de taken verdelen en inplannen. Dit gaf mij de ruimte om de taken eerlijk te verdelen en zo te plannen dat de werklast voor ieder gelijk was. De taak om meer ervaring op te doen in Data science was simpel. Nu ik eigenlijk nog geen ervaring gaven alleen al de lessen mij meer kennis over Data Science. Daarnaast zou ik deze ook kunnen toepassen in het project wat ik uitvoerde. Tot slot heb ik voor het project zelf ook literatuuronderzoek gedaan. Door deze taken verbreed ik mijn kennis over Data Science en pas ik deze direct toe.
+   <br /> 
+    Actie: Het verdelen en plannen van taken deed ik op twee manieren. Aan het begin maakte ik een schema met welke hoofdtaken er waren en welke sub taken er vervolgens onder vielen. Voor de planning gebruikte ik de theorie van Brownlee (zie domein kennis hfd 5) hierdoor verbrede ik ook gelijk mijn kennis in Data Science. Daarna verdeelde we de sub taken mondeling en plaatste ik deze op het scrumboord (planning is te zien in 3.4). 
+ Voor de ervaring heb ik bijna alle lessen bijgewoond (door ziekte kon ik niet altijd aanwezig zijn). Omdat de lessen voor mij soms moeilijk te begrijpen waren, heb ik na de les artikelen gezocht over dit onderwerp. Zo kon ik de theorie achter het onderwerp beter begrijpen. Vaak heb ik de codes met een teamlid geschreven. Dit deed ik omdat ik moeite had met het coderen. 
+   <br /> 
+    Resultaten: De taak om geen taken over te nemen en mij minder verantwoordelijk voelen heb ik voor mijn gevoel niet gehaald. Ik heb toch vaak extra taken op mij genomen en kon het project niet loslaten. Ook als ik mij op het andere project moest focussen bleef dit project in mijn hoofd hangen. Dit heb ik uiteindelijk ook zelf gemerkt doordat mij overspannenheid erger werd en mijn concentratie afnam. Mijn doel om meer ervaring op te doen in data science heb ik volledig behaald. Door extra informatie op te zoeken begreep ik de theorie er achter veel beter. Dit hielp mij tevens naast het coderen ook bij het schrijven van het rapport. Door samen te werken met iemand kon ik leren van hun manier van coderen. Ik merkte namelijk dat mijn manier eenvoudig was maar ook langdradig in tegenstelling tot sommige teamgenoten. Hierdoor kon ik van hun leren hoe ik op een efficiëntere manier dezelfde taak kon uitvoeren.
+   <br /> 
+    Reflectie: Ik heb geleerd dat ik nog meer mijn eigen grenzen moet stellen. Vaak ging ik hier toch (onbewust) overheen. Toch ben ik blij met mijn resultaten, ik heb geleerd dat het stellen van grenzen nog belangrijker is dan ik dacht. In mijn aankomende stage ga ik deze begrenzing ook meenemen. Door voor mijzelf tijden te geven om wel en niet aan het project te werken, maar ook om mijzelf de rust te geven als ik dat nodig heb. Tot slot ben ik zeer blij in wat ik heb bereikt in mijn ontwikkeling in data science. Ik vind data science zeer interessant en hoop dit ook later te kunnen toepassen in latere projecten.
+
+  </details>
+  <details>
+  <summary>3.3 Evaluatie van groepsproject</summary>
+   Situatie: Voor mijn minor heb ik een project gedaan met vijf medestudenten. Ons project heet motoric en gaat over het voorspellen van motorische achterstand bij kinderen. Het project valt onder een groter project genaamd Start(V)aardig. Onze doelen waren:
+-	Het maken van een goedwerkend voorspellingsmodel;
+       <br /> 
+Taak: Onze taken waren een onderzoek artikel schrijven over onze bevindingen. Deze bevindingen bestonden uit de keuzes van outliers handling, imputatie en modelkeuze. Hiermee wilde wij de opdrachtgever toelichten waarom wij welke keuze wij hebben gemaakt. Daarnaast hebben alle opties ook zelf getest zodat het beste model uitgekozen kon worden. 
+   <br /> 
+    Actie: Door de taken in teams van twee te verdelen konden we zowel parallel te werk gaan, maar hadden we ook een sparpartner als je er niet uitkwam. Twee weten immers meer dan één. Dit was ideaal gezien het aantal opties wij hadden. Daarbij hadden Joep en ik minder ervaring met Python. Door een sparpartner toe te voegen kon het werk sneller uitgevoerd worden en was de kwaliteit hoger dan als wij dit niet hadden gedaan. 
+   <br /> 
+    Resultaten: De resultaten waren tegenvallend. De modellen voorspelden alleen maar 1 in plaats van dat deze gedistribueerd waren over 1 en 0. Hoewel er dus verschillende opties geprobeerd zijn heeft dit toch niet geholpen om het resultaat te verbeteren. Hierdoor is het doel om een goedwerkend model te maken niet gehaald. Gedeeltelijk is dit te verwijten aan de beschikbare data, deze was te gering. Ook waren wij te laat begonnen met het opstellen van een planning. Hierdoor wist in het begin niet iedereen waar hij/zij aan toe was en was er onduidelijk over wat er gedaan moest worden. Dit zorgde voor vertraging in het proces. Daarnaast hield niet iedereen zich aan de deadlines, waardoor er weinig tijd over was voor het finetunen van het model en het afschrijven van het onderzoek artikel.
+   <br /> 
+    Reflectie: Volgende keer zou ik direct beginnen met het opstellen van een planning. Hierdoor weet iedereen welke taken er zijn en waar er naartoe wordt gewerkt. Daarbij zou het probleem van het tekort aan data eerder gezien worden en konden hier maatregelen tegen genomen kunnen worden. Toch ben ik redelijk tevreden met het resultaat. Dit omdat wij toch meerdere oplossingen geprobeerd hebben en onze best gedaan hebben. De essentie wat ik heb geleerd is ook dat soms een onverwacht resultaat ook een resultaat is. Zoals in het doel te zien is wilde ik een goedwerkend voorspellingsmodel hebben. Echter hield ik hier niet rekening mee dat een antwoord als er is geen goed voorspellend model hiervoor, ook een goed antwoord kan zijn. Dit zou ik de volgende keer wel meenemen in mijn projecten. 
+  </details>
+</details>
   
-## 2.Domein kennis
+## 3.Domein kennis
 <details>
   <summary> Lees hier verder </summary>
   <br />
