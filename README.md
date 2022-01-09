@@ -193,9 +193,9 @@ De hoofdvraag bestaat uit de volgende deelvragen:
     <br />
 Literatuur <br />
 Meertens, E., & Steenbergen, E. (2018). Onderzoek doen! https://blackboard.hhs.nl/bbcswebdav/pid-3327820-dt-content-rid-29819196_2/courses/TBK-PRH1-16-2021/TBK-PRH1-16-2020_ImportedContent_20200827125140/Onderzoek%20doen.pdf
-
-     </details>
-  <details>
+  
+    <details>
+      </details>
   <summary>3.2 Evaluatie (moet nog) </summary>
  blabla
     </details>
