@@ -303,7 +303,7 @@ bla bla
 ## 7.Communicatie
 <details>
   <summary> Lees hier verder </summary>
- In dit hoofdstuk wordt mijn bijdragen aan de communicatie tijdens dit project besproken. Het hoofdstuk is opgedeeld in drie subhoofdstukken: presentaties, planning en rapport 
+ In dit hoofdstuk wordt mijn bijdragen aan de communicatie tijdens dit project besproken. Het hoofdstuk is opgedeeld in twee subhoofdstukken: presentaties en rapport 
       <br />
      <br />
 <details>
