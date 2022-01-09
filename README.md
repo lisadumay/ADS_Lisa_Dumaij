@@ -333,7 +333,8 @@ Voor de matrials en methods heb ik de Data cleaning, correlation, balance and sc
   <br /> 
 Tot slot heb ik samen met Yuliya de resultaten geschreven, die uit de code waren voorgekomen.<br /> 
   <br /> 
-Literatuur
+Literatuur<br /> 
+  <br /> 
 Brownlee, J. (2020a). Data Preparation of Machine Learning. Jason Brownlee. <br /> 
   <br /> 
 Buijs, A. (2017). Statistiek om mee te werken (10de editie). Noordhoff.<br /> 
