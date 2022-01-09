@@ -278,6 +278,7 @@ blabla
     <br />
     <br />
 Basis <br />
+    <br />
 - Identificeer kolommen die een enkele waarde bevatten: als een kenmerk slechts één type variabele bevat, wordt gezegd dat het een nulvariantievoorspeller is. Dit komt omdat er geen variatie is. Het achterhalen van deze nulvariantievoorspeller kan worden gedaan door middel van de unieke functie van Numpy. Dan kunnen deze rijen worden verwijderd (Kuhn & Johnson, 2019).<br />
 - Identificeer rijen die dubbele gegevens bevatten: als er rijen met dubbele waarden in de gegevens zijn, kan dit misleidend zijn voor de modelevaluatie, of ze kunnen nutteloos zijn. De dubbele rijen kunnen worden gevonden door de functie Panda's gedupliceerd (). Aangezien de gegevens zich al in de voltooide dataset bevinden, is het niet nodig om beide te bewaren. Een van de waarden kan dus worden verwijderd (Kazil & Jarmul, 2016).<br />
 - Pas het formaat van de opgenomen datums aan: Als er datums zijn die verschillende formaten hebben, moeten deze worden aangepast tot één coherent formaat, zodat bijvoorbeeld gegevensvergelijking mogelijk is tussen die specifieke gegevens. Daarom moet worden ingesteld welk formaat voor datums zal worden gebruikt. Als het gekozen formaat punten moet gebruiken, moeten datums met schuine strepen of koppeltekens worden gewijzigd. Daarnaast moet de volgorde van "dd-mm-jj" worden ingesteld op één samenhangend formaat en worden aangepast in de datums die nog niet voor dat formaat gelden. Deze wijzigingen zullen er ook toe bijdragen dat de datumgegevens leesbaarder worden. <br />
@@ -286,7 +287,8 @@ Basis <br />
 - Verwijder basiskolommen uit de T1-gegevens die identiek zijn aan dezelfde kolommen in de T0-gegevens: Bij het samenvoegen van gegevens moet aandacht worden besteed aan kolommen die mogelijk geheel identiek zijn, waardoor het zinloos is om ze twee keer op te nemen in de uiteindelijke gegevensset. Bij het vergelijken van de T0- en T1-data valt op dat de kolommen Respondentnummer, Geslacht_x, Postcode en Geboortedatum in beide datasets identiek zijn, wat betekent dat de kolommen uit de tweede dataset kunnen worden geschrapt om die kolommen slechts één keer op te nemen in de uiteindelijke dataset.<br />
     <br />
     <br />
-uitschieters
+uitschieters<br />
+    <br />
 - Identificatie en verwijdering van uitbijters: een uitbijter kan worden gedefinieerd als een meet- of invoerfout, gegevenscorruptie of een echte uitbijterwaarneming. De methoden die in dit project zullen worden gebruikt:<br />
 o Strings verwijderen: Voor dit onderzoek zijn alleen numerieke getallen van belang. Dus als er een string in een kolom staat, kan deze waarde worden verwijderd. In de dataset zijn alleen numerieke kolommen, maar er waren verschillende benaderingen voor het omgaan met ontbrekende gegevens. Bijvoorbeeld kinderen die hun waargenomen motorische competentie niet wilden invullen. Een benadering is om de kolommen gewoon leeg te laten en een andere is het invullen van een string zoals een "x" of "?". Deze letter of niet-numerieke waarde kan niet worden geconverteerd naar een getal, dus het moet worden verwijderd en de kolom moet leeg blijven (met een "NaN" -waarde). Anders kan de kolom niet worden geconverteerd naar een numerieke kolom en verwerkt de modelvoorspelling de waarde als een tekenreeks in plaats van een categorische numerieke waarde, zodat dit kan leiden tot voorspellingsfouten.<br />
 o Methode voor gemiddelde en standaarddeviatie: deze methode voor het detecteren van uitbijters is een eenvoudige benadering en gebruikt het gemiddelde en de standaarddeviatie van een kolom. Als een waarde kleiner is dan het verschil van het gemiddelde en de standaarddeviatie of als een waarde groter is dan de som van het gemiddelde en de standaarddeviatie, dan is het een uitbijter en moet deze worden verwijderd.
@@ -296,7 +298,8 @@ De interkwartielafstandsmethode verdeelt de gegevens in kwartielen. Het 25e perc
 IQR = Q3(75th percentile) – Q1(25th percentile) <br />
     <br />
     <br />
-Missend
+Missend<br />
+    <br />
 -	Markering: de lege cellen kunnen worden opgehaald met de functie isnull (). Een optie die kan worden geïmplementeerd, is het verwijderen van de kolom of rij. De keuze voor het verwijderen van een kolom of rij hangt af van waar de waarden ontbreken. Als er veel waarden in één kolom ontbreken, kan de kolom worden verwijderd. Als er veel variabelen in een rij ontbreken, is de keuze om deze te verwijderen en niet de kolom. Een andere manier om met de lege cellen om te gaan is door imputatie.<br />
 -	Imputatie: Er zijn verschillende benaderingen voor imputatie.<br />
 o KNN Imputatie: KNN staat voor de k-Nearest Neighbours methode en wordt gebruikt voor het imputeren van de data. Het is al gebouwd in Scikit-Learn en berekent het gemiddelde van de naaste buren. Hoeveel naaste buren het algoritme moet gebruiken, wordt gespecificeerd door de parameter n_neighbours (standaard = 5). Maar voor deze imputatiemethode moeten categorische of stringkenmerken worden gecodeerd. Dit kan worden gedaan door de ingebouwde functie get_dummies () van panda te gebruiken of door de ingebouwde encoder van Scikit-learns te gebruiken. Voor dit voorbeeld wordt de LabelEncoder gebruikt omdat in de dataset notities in de vorm van zinnen (strings) staan.<br />
