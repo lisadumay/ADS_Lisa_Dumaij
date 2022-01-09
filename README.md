@@ -193,9 +193,8 @@ De hoofdvraag bestaat uit de volgende deelvragen:
     <br />
 Literatuur <br />
 Meertens, E., & Steenbergen, E. (2018). Onderzoek doen! https://blackboard.hhs.nl/bbcswebdav/pid-3327820-dt-content-rid-29819196_2/courses/TBK-PRH1-16-2021/TBK-PRH1-16-2020_ImportedContent_20200827125140/Onderzoek%20doen.pdf
-  
-    <details>
-      </details>
+        </details>
+  <details>
   <summary>3.2 Evaluatie (moet nog) </summary>
  blabla
     </details>
@@ -301,29 +300,52 @@ bla bla
   </details>
 </details>
 
-## 7.Communicatie (niet af)
+## 7.Communicatie
 <details>
   <summary> Lees hier verder </summary>
  In dit hoofdstuk wordt mijn bijdragen aan de communicatie tijdens dit project besproken. Het hoofdstuk is opgedeeld in drie subhoofdstukken: presentaties, planning en rapport 
       <br />
      <br />
 <details>
-  <summary>7.1 Presentaties (niet af)</summary>
-  Ik heb in totaal vier verschillende presentaties gedaan: 2 internal en 2 external. Het moeilijke aan de presentaties vond het communiceren in het Engels. Engels is niet mijn sterkste vak daarnaast als ik zenuwachtig word vergeet ik soms mijn tekst. Doordat het in het Engels was, was het ook moeilijker voor mij om mij te herpakken. 
+  <summary>7.1 Presentaties </summary>
+  Ik heb in totaal vier verschillende presentaties gedaan: twee internal en twee external. Het moeilijke aan de presentaties vond het communiceren in het Engels. Engels is niet mijn sterkste vak daarnaast als ik zenuwachtig word vergeet ik soms mijn tekst. Doordat het in het Engels was, was het ook moeilijker voor mij om mij te herpakken.  <br />
  <br />
-Voor al mijn gegevens presentaties heb ik zelf de PowerPoint slides gemaakt. Hierbij had ik soms help van Yuliya of Joost. Daarnaast heb ik voor elke presentatie bullet points opzet deze zijn in het bestand terug te vinden https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/Bullet%20points%20presentations.docx .
-
-De data van mijn presentaties met de daarbijhorende PowerPoints zijn:
-  10 oktober External: <br /> 
-  25 oktober Internal: <br />
-  22 november Internal: <br />
-  10 december External: <br />
+Voor al mijn gegeven presentaties heb ik zelf de PowerPoint slides gemaakt. Hierbij had ik soms help van Yuliya of Joost. Daarnaast heb ik voor elke presentatie bullet points opzet deze zijn in het bestand terug te vinden: <br /> 
+  https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/presentaties/Bullet%20points%20presentations.docx
+<br /> 
+  <br /> 
+De data van mijn presentaties met de daarbijhorende PowerPoints zijn: <br />
+  10 oktober External: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/presentaties/External%20presentation%20motoric%201.pptx <br /> 
+  25 oktober Internal: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/presentaties/Internal%20presentation%204%20(lay%20out).pptx <br />
+  22 november Internal: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/presentaties/Internal%20presentation%207.pptx <br />
+  10 december External: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/presentaties/External%20presentation%20motoric%203.pptx <br />
   
   </details>
 <details>
   
-  <summary>7.2 Paper (niet af) </summary>
-  Voor het rapport heb ik de lay out bedacht en ingevoerd. Daarnaast heb ik een groot deel voor de introductie geschreven en heb ik de literatuur opgezocht voor de data voorbereiding (voor het hoofdstuk matrials & methods).
+  <summary>7.2 Paper </summary>
+  Voor het rapport heb ik de volgende taken gedaan:
+De layout: Samen met Yuliya heb ik de lay out gedaan. Aan het begin was deze anders, echter doordat het de layout van een onderzoekrapport was in plaats van een artikel hebben we deze later verandert. Hiervoor heb ik de bronnen (Perner, 2004) en (Wrtinig a Research article, 2015). Deze bronnen zijn aan het einde toegevoegd.<br /> 
+  <br /> 
+De introductie: Ik heb de introductie geschreven doormiddel van informatie die verschaft was door de opdrachtgever, maar ook door het onderzoek van SIA. Daarnaast heb ik de hoofdvraag verzonnen die ook voor het onderzoek gebruikt wordt en heb ik samen met Yuliya en Joep de deelvragen opgesteld. <br /> 
+  <br /> 
+Voor de matrials en methods heb ik de Data cleaning, correlation, balance and scale, feature selection, validation en evaluation geschreven. Hiervoor heb ik verscheidende theorieën gebruikt zoals het boek Brownlee (2020) voor de data cleaning, tevens heb ik deze ook gebruikt voor mijn code. Maar ook Buijs (2017) voor de correlaties en een onderzoek artikel van Novakovic (2017) voor de validatie en evaluatie.<br /> 
+  <br /> 
+Tot slot heb ik samen met Yuliya de resultaten geschreven, die uit de code waren voorgekomen.<br /> 
+  <br /> 
+Literatuur
+Brownlee, J. (2020a). Data Preparation of Machine Learning. Jason Brownlee. <br /> 
+  <br /> 
+Buijs, A. (2017). Statistiek om mee te werken (10de editie). Noordhoff.<br /> 
+  <br /> 
+Novakovic, J. D. J., Veljovic, A., Ilic, S. S., Papic, Z., & Tomovic, M. (2017). Evaluation of Classification Models in Machine Learning. UAV. Retrieved December 1, 2021, from https://uav.ro/applications/se/journal/index.php/TAMCS/article/view/158/126<br /> 
+  <br /> 
+Perneger, T. V. (2004). Writing a research article: advice to beginners. International Journal for Quality in Health Care, 16(3), 191–192. https://doi.org/10.1093/intqhc/mzh053 <br /> 
+  <br /> 
+Sia. (2019). Aanvraagformulier RAAK-PRO Start (V)aardig -2018. Nationaal Regieorgaan Praktijkgericht Onderzoek SIA.<br /> 
+  <br /> 
+Writing a Research Article. (2015). Advances in Neonatal Care, 15(3), 159–161. https://doi.org/10.1097/anc.0000000000000203
+
   </details>
     </details>
   
