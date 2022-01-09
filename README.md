@@ -274,7 +274,57 @@ blabla
   </details>
   <details>
   <summary>6.2 Data schoonmaken (niet)</summary>
-  blabla
+  Voor het schoonmaken van de data heb ik de theorie van Brownlee (2020) gebruikt. Deze theorie beschrijft het voorbereiden van de data voor machine learning. Machine learning gebruiken wij voor dit project vandaar de keuze. De theorie split de data cleaning op in drie: basics, outliers en missing. Hierin heb ik de volgende stappen genomen:
+    <br />
+    <br />
+Basis <br />
+- Identificeer kolommen die een enkele waarde bevatten: als een kenmerk slechts één type variabele bevat, wordt gezegd dat het een nulvariantievoorspeller is. Dit komt omdat er geen variatie is. Het achterhalen van deze nulvariantievoorspeller kan worden gedaan door middel van de unieke functie van Numpy. Dan kunnen deze rijen worden verwijderd (Kuhn & Johnson, 2019).<br />
+- Identificeer rijen die dubbele gegevens bevatten: als er rijen met dubbele waarden in de gegevens zijn, kan dit misleidend zijn voor de modelevaluatie, of ze kunnen nutteloos zijn. De dubbele rijen kunnen worden gevonden door de functie Panda's gedupliceerd (). Aangezien de gegevens zich al in de voltooide dataset bevinden, is het niet nodig om beide te bewaren. Een van de waarden kan dus worden verwijderd (Kazil & Jarmul, 2016).<br />
+- Pas het formaat van de opgenomen datums aan: Als er datums zijn die verschillende formaten hebben, moeten deze worden aangepast tot één coherent formaat, zodat bijvoorbeeld gegevensvergelijking mogelijk is tussen die specifieke gegevens. Daarom moet worden ingesteld welk formaat voor datums zal worden gebruikt. Als het gekozen formaat punten moet gebruiken, moeten datums met schuine strepen of koppeltekens worden gewijzigd. Daarnaast moet de volgorde van "dd-mm-jj" worden ingesteld op één samenhangend formaat en worden aangepast in de datums die nog niet voor dat formaat gelden. Deze wijzigingen zullen er ook toe bijdragen dat de datumgegevens leesbaarder worden. <br />
+- Verwijder kinderen zonder bepaalde leeftijd of geboortedatum of een lagere of hogere leeftijd dan die van belang is voor de voorspelling: Alleen kinderen in de leeftijd van 4 tot 6 jaar zijn relevant voor de voorspelling. Daarom moeten alle kinderen die lager of ouder zijn dan die leeftijd uit de dataset worden verwijderd. Ook kinderen die geen leeftijdsindicatie hebben en geen geboortedatum hebben, moeten ook worden verwijderd, omdat hun leeftijd op die manier niet bekend is en niet van belang is voor de voorspelling.<br />
+- Verwijder alle strings in gegevens: gegevens van belang zijn getallen, die handig zijn om een voorspelling te maken. Daarom zijn tekst, of liever strings, minder nuttig en moeten ze over het algemeen uit de dataset worden verwijderd, vooral als de tekst slechts een opmerking is.<br />
+- Verwijder basiskolommen uit de T1-gegevens die identiek zijn aan dezelfde kolommen in de T0-gegevens: Bij het samenvoegen van gegevens moet aandacht worden besteed aan kolommen die mogelijk geheel identiek zijn, waardoor het zinloos is om ze twee keer op te nemen in de uiteindelijke gegevensset. Bij het vergelijken van de T0- en T1-data valt op dat de kolommen Respondentnummer, Geslacht_x, Postcode en Geboortedatum in beide datasets identiek zijn, wat betekent dat de kolommen uit de tweede dataset kunnen worden geschrapt om die kolommen slechts één keer op te nemen in de uiteindelijke dataset.<br />
+    <br />
+    <br />
+uitschieters
+- Identificatie en verwijdering van uitbijters: een uitbijter kan worden gedefinieerd als een meet- of invoerfout, gegevenscorruptie of een echte uitbijterwaarneming. De methoden die in dit project zullen worden gebruikt:<br />
+o Strings verwijderen: Voor dit onderzoek zijn alleen numerieke getallen van belang. Dus als er een string in een kolom staat, kan deze waarde worden verwijderd. In de dataset zijn alleen numerieke kolommen, maar er waren verschillende benaderingen voor het omgaan met ontbrekende gegevens. Bijvoorbeeld kinderen die hun waargenomen motorische competentie niet wilden invullen. Een benadering is om de kolommen gewoon leeg te laten en een andere is het invullen van een string zoals een "x" of "?". Deze letter of niet-numerieke waarde kan niet worden geconverteerd naar een getal, dus het moet worden verwijderd en de kolom moet leeg blijven (met een "NaN" -waarde). Anders kan de kolom niet worden geconverteerd naar een numerieke kolom en verwerkt de modelvoorspelling de waarde als een tekenreeks in plaats van een categorische numerieke waarde, zodat dit kan leiden tot voorspellingsfouten.<br />
+o Methode voor gemiddelde en standaarddeviatie: deze methode voor het detecteren van uitbijters is een eenvoudige benadering en gebruikt het gemiddelde en de standaarddeviatie van een kolom. Als een waarde kleiner is dan het verschil van het gemiddelde en de standaarddeviatie of als een waarde groter is dan de som van het gemiddelde en de standaarddeviatie, dan is het een uitbijter en moet deze worden verwijderd.
+Value > Mean + standard deviation  OR  value < mean – standard deviation <br />
+o Interkwartielafstandsmethode: Deze methode kan worden gebruikt door de vragenlijst van de ouders en de tests omdat in beide gevallen de waarde tussen nul en vijf moet liggen. Als de een waarde is die niet tussen die getallen ligt, is dit een uitbijter.
+De interkwartielafstandsmethode verdeelt de gegevens in kwartielen. Het 25e percentiel, 50e percentiel, 75e percentiel en 100e percentiel. Voor detectie van uitbijters moet de middelste 50% worden berekend en alles daaronder (onder het 25e percentiel) en alles daarboven (boven het 75e percentiel) zijn uitbijters die kunnen worden verwijderd. De middelste 50% kan worden berekend met deze formule:
+IQR = Q3(75th percentile) – Q1(25th percentile) <br />
+    <br />
+    <br />
+Missend
+-	Markering: de lege cellen kunnen worden opgehaald met de functie isnull (). Een optie die kan worden geïmplementeerd, is het verwijderen van de kolom of rij. De keuze voor het verwijderen van een kolom of rij hangt af van waar de waarden ontbreken. Als er veel waarden in één kolom ontbreken, kan de kolom worden verwijderd. Als er veel variabelen in een rij ontbreken, is de keuze om deze te verwijderen en niet de kolom. Een andere manier om met de lege cellen om te gaan is door imputatie.<br />
+-	Imputatie: Er zijn verschillende benaderingen voor imputatie.<br />
+o KNN Imputatie: KNN staat voor de k-Nearest Neighbours methode en wordt gebruikt voor het imputeren van de data. Het is al gebouwd in Scikit-Learn en berekent het gemiddelde van de naaste buren. Hoeveel naaste buren het algoritme moet gebruiken, wordt gespecificeerd door de parameter n_neighbours (standaard = 5). Maar voor deze imputatiemethode moeten categorische of stringkenmerken worden gecodeerd. Dit kan worden gedaan door de ingebouwde functie get_dummies () van panda te gebruiken of door de ingebouwde encoder van Scikit-learns te gebruiken. Voor dit voorbeeld wordt de LabelEncoder gebruikt omdat in de dataset notities in de vorm van zinnen (strings) staan.<br />
+o Imputeren met mediaan en gemiddelde: Het gebruik van mediaan en gemiddelde om gegevens toe te rekenen is een statistische benadering van gegevensimputatie. Daarvoor wordt de mediaan en het gemiddelde berekend voor een specifieke kolom die geïmputeerd moet worden. De ontbrekende waarden in die kolom worden vervolgens gevuld met het eerder berekende gemiddelde en de mediaan.<br />
+<br />
+    <br />
+De technieken die hierboven staan heb ik ook (deels) toegepast in mijn notebooks, de notebooks zijn:
+Pipeline lisa; hierin heb ik grotendeels de code zelf geschreven echter heb ik ook soms die van een ander gebruikt. Dat staat er dan ook bij. Link: <br />
+    https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline%20Lisa.ipynb 
+    <br />
+    <br />
+Pipeline 2: geldt hetzelfde als Pipeline lisa. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline2.ipynb 
+    <br />
+    <br />
+Cleaning: Deze heb ik samen met Yuliya geschreven. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Data%20cleaning.ipynb 
+<br />
+    <br />
+Ander gebruikte theorieën voor dit onderwerp:
+Brownlee, J. (2020a). Data Preparation of Machine Learning. Jason Brownlee.
+    <br />
+Data Preparation for Machine Learning | DataRobot Artificial Intelligence Wiki. (2021, 3 december). DataRobot 
+<br />
+AI Cloud. Geraadpleegd op 17 december 2021, van https://www.datarobot.com/wiki/data-preparation/
+<br />
+Kim, J. K., & Fiorillo, C. D. (2017). Theory of optimal balance predicts and explains the amplitude and decay time of synaptic inhibition. Nature Communications, 8(1). https://doi.org/10.1038/ncomms14566
+<br />
+Matthes, E. (2018). Crash Course programmeren in Python : projectgericht leren programmeren. Visual Steps TM.
+<br />
   </details>
   <details>
   <summary>6.3 Data voorbeiding (niet)</summary>
