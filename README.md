@@ -195,8 +195,16 @@ Literatuur <br />
 Meertens, E., & Steenbergen, E. (2018). Onderzoek doen! https://blackboard.hhs.nl/bbcswebdav/pid-3327820-dt-content-rid-29819196_2/courses/TBK-PRH1-16-2021/TBK-PRH1-16-2020_ImportedContent_20200827125140/Onderzoek%20doen.pdf
         </details>
   <details>
-  <summary>3.2 Evaluatie (moet nog) </summary>
- blabla
+  <summary>3.2 Evaluatie </summary>
+ Voor het toekomstige werk raad ik aan Start(V)aardig aan om de dataset uit te breiden en of de huidige dataset aan te vullen.  Dit omdat de algoritmes niet optimaal konden werken door een tekort aan data. Dit is tevens terug te zien in de waardes van de accarancy en false negative rate. Deze waren allemaal gelijk. 
+<br />
+    <br />
+    Mocht de dataset aangevuld zijn kan het juiste model gekozen worden. Wel wordt er aangeraden om de MQ-score in binaire te doen. Daarnaast raad ik aan om een dashboard te bouwen met daarin de de voorspellingswaarde van het kind met daarbij de features die ervoor hebben gezorgd. Een voorbeeld van dit dashboard is hieronder te zien.<br />
+    <br />
+<img width="158" alt="image" src="https://user-images.githubusercontent.com/91061840/148696407-2b4b7faa-2e53-4b38-8055-ff833a767a14.png">
+    <br />
+    <br />
+Hierbij kan de gemiddelde score van het land, provincie of stad worden gevisualiseerd. Daarnaast is er ook een slide voor het individuele kind. Hierin staat welke score er wordt voorspelt en welke features bepalend zijn voor deze score.
     </details>
   <details>
  <summary>3.3 Conclusie (moet nog) </summary>
