@@ -236,7 +236,7 @@ Daarnaast heb ik ook figuren gemaakt om de stappen die in het proces gedaan moet
   blabla
   </details>
   <details>
-  <summary>4.4 Evalueren model (niet)</summary>
+  <summary>4.4 Evalueren model </summary>
    De evaluatiecode voor het eindmodel heb ik samen met Yuliya geschreven. Hierbij hebben wij gebruik gemaakt van verschillende theorieën. Echter op hoofdlijnen hebben wij het wetenschappelijk achtikel van Novakovica en Veliovicb (2017) gebruikt. Zij omschrijven de confusionmatrix en ook de false negative rate die ook in ons onderzoek van groot belang zijn. De focus op de rate is besloten met de opdrachtgever. Daarentegen hebben we de Brownlee (2021) opgevolgd voor het maken van de precision recall curve, omdat het gaat over een binaire voorspelling. Daarnaast hebben we voor de code zelf ook een aantal bronnen gebruikt, deze zijn hieronder meegenomen in de literatuurlijst. 
      <br />
     <br />
