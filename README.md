@@ -325,6 +325,9 @@ Pipeline 2: geldt hetzelfde als Pipeline lisa. Link: https://github.com/lisaduma
 Cleaning: Deze heb ik samen met Yuliya geschreven. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Data%20cleaning.ipynb 
 <br />
     <br />
+    Outliers: Deze code heb ik zelf geschreven. https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/outliers.ipynb
+    <br />
+    <br />
 Ander gebruikte theorieën voor dit onderwerp:
     <br />
     <br />
