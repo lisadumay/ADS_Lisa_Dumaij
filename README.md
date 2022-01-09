@@ -318,6 +318,8 @@ Cleaning: Deze heb ik samen met Yuliya geschreven. Link: https://github.com/lisa
 <br />
     <br />
 Ander gebruikte theorieën voor dit onderwerp:
+    <br />
+    <br />
 Brownlee, J. (2020a). Data Preparation of Machine Learning. Jason Brownlee.
     <br />
 Data Preparation for Machine Learning | DataRobot Artificial Intelligence Wiki. (2021, 3 december). DataRobot 
