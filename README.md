@@ -237,7 +237,29 @@ Daarnaast heb ik ook figuren gemaakt om de stappen die in het proces gedaan moet
   </details>
   <details>
   <summary>4.4 Evalueren model (niet)</summary>
-   blabla
+   De evaluatiecode voor het eindmodel heb ik samen met Yuliya geschreven. Hierbij hebben wij gebruik gemaakt van verschillende theorieën. Echter op hoofdlijnen hebben wij het wetenschappelijk achtikel van Novakovica en Veliovicb (2017) gebruikt. Zij omschrijven de confusionmatrix en ook de false negative rate die ook in ons onderzoek van groot belang zijn. De focus op de rate is besloten met de opdrachtgever. Daarentegen hebben we de Brownlee (2021) opgevolgd voor het maken van de precision recall curve, omdat het gaat over een binaire voorspelling. Daarnaast hebben we voor de code zelf ook een aantal bronnen gebruikt, deze zijn hieronder meegenomen in de literatuurlijst. 
+     <br />
+    <br />
+De verschillende modellen zijn dus beoordeelt op de false negative rate, hoe lager hoe beter het model scoort. Maar ook wordt er gekeken naar de precision recall curve, deze omschrijft hoe goed een model is in het voorspellen van een goede waarde.
+ <br />
+    <br />
+Notebook <br />
+    <br />
+Evaluatie: Samen met Yuliya geschreven. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/evaluation.ipynb 
+ <br />
+    <br />
+Literatuurlijst <br />
+    <br />
+Bhandari, A. (2021, 23 juli). Confusion Matrix for Machine Learning. Analytics Vidhya. Geraadpleegd op 17 december 2021, van https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/  <br />
+    <br />
+Brownlee, J. (2021, January 12). How to Use ROC Curves and Precision-Recall Curves for Classification in Python. Machine Learning Mastery. Retrieved January 9, 2022, from https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/  <br />
+    <br />
+D. (2021, 30 januari). Example of Confusion Matrix in Python. Data to Fish. Geraadpleegd op 17 december 2021, van https://datatofish.com/confusion-matrix-python/  <br />
+    <br />
+Novakovica, J. D. J., Veljovicb, A., Ilic, S. S., Papic, Z., & Tomovic, M. (2017). Evaluation of Classification Models in Machine Learning. Theory and Applications of Mathematics & Computer Science. https://uav.ro/applications/se/journal/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fuav.ro%2Fapplications%2Fse%2Fjournal%2Findex.php%2FTAMCS%2Farticle%2Fdownload%2F158%2F126%2F  <br />
+    <br />
+Scikit-learn: How to obtain True Positive, True Negative, False Positive and False Negative. (2015, 9 juli). Stack Overflow. Geraadpleegd op 17 december 2021, van https://stackoverflow.com/questions/31324218/scikit-learn-how-to-obtain-true-positive-true-negative-false-positive-and-fal
+
   </details>
   <details>
   <summary>4.5 Visualiseren (niet) </summary>
