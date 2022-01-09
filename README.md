@@ -225,7 +225,18 @@ Daarnaast heb ik ook figuren gemaakt om de stappen die in het proces gedaan moet
   <br />
   <details>
   <summary>4.1 Selecteren van modellen (niet)</summary>
-    blabla
+    Omdat het bij ons gaat om het voorspellen van een klas is er sprake van een classificatieprobleem. Een classificatiemodel zoekt een functie die optimaal inschat tot welke klasse een gegevenspunt behoort. Het kan een of meer verklarende variabelen bevatten (Brownlee, 2019). Hierna kunnen er een aantal punten na gegaan worden om de juiste modellen uit te kiezen.<br />
+    <br />
+Het eerste wat opvalt is de maat van de dataset, deze is niet klein. Hierdoor zijn algoritmen zoals KNN, Bagging, GradientBoost en Decision trees passend (ProjectPro, 2022). Deze zijn tevens ook gebruikt in de code. Hierna zijn de modellen gevalideert met cross validation om de prestaties van de modellen in kaart te brengen (Scikit-Learn, z.d.). Tot slot zijn de resultaten van de modellen geëvalueerd (kijk 4.2). <br />
+    <br />
+Literatuur<br />
+    <br />
+3.1. Cross-validation: evaluating estimator performance. (z.d.). Scikit-Learn. Geraadpleegd op 17 december 2021, van https://scikit-learn.org/stable/modules/cross_validation.html <br />
+    <br />
+Brownlee, J. (2019, May 22). Difference Between Classification and Regression in Machine Learning. Machine Learning Mastery. https://machinelearningmastery.com/classification-versus-regression-in-machine-learning/ <br />
+    <br />
+ProjectPro. (2022, January 3). 7 Types of Classification Algorithms in Machine Learning. https://www.projectpro.io/article/7-types-of-classification-algorithms-in-machine-learning/435#toc-18
+
   </details>
   <details>
   <summary>4.2 Een model configureren (niet)</summary>
