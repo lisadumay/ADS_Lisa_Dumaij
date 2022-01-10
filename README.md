@@ -330,6 +330,8 @@ Visualisaties: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/
 
 Literatuur<br />
    <br />
+Buijs, A. (2017). Statistiek om mee te werken. Noordhoff. <br />
+   <br />
 Chart choosing. (2019, October 21). Chart.Guide. https://chart.guide/charts/chart-choosing/ <br />
    <br />
 Galarnyk, M. (2020, July 6). Understanding Boxplots - Towards Data Science. Medium. https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51 <br />
