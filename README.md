@@ -227,7 +227,7 @@ Daarnaast heb ik ook figuren gemaakt om de stappen die in het proces gedaan moet
   <summary>4.1 Selecteren van modellen</summary>
     Omdat het bij ons gaat om het voorspellen van een klas is er sprake van een classificatieprobleem. Een classificatiemodel zoekt een functie die optimaal inschat tot welke klasse een gegevenspunt behoort. Het kan een of meer verklarende variabelen bevatten (Brownlee, 2019). Hierna kunnen er een aantal punten na gegaan worden om de juiste modellen uit te kiezen.<br />
     <br />
-Het eerste wat opvalt is de maat van de dataset, deze is niet klein. Hierdoor zijn algoritmen zoals KNN, Bagging, GradientBoost en Decision trees passend (ProjectPro, 2022). Deze zijn tevens ook gebruikt in de code. Hierna zijn de modellen gevalideert met cross validation om de prestaties van de modellen in kaart te brengen (Scikit-Learn, z.d.). Tot slot zijn de resultaten van de modellen geëvalueerd (kijk 4.2). <br />
+Het eerste wat opvalt is de maat van de dataset, deze is niet klein. Hierdoor zijn algoritmen zoals KNN, Bagging, GradientBoost en Decision trees passend (ProjectPro, 2022). Deze zijn tevens ook gebruikt in de code. Hierna zijn de modellen gevalideert met cross validation om de prestaties van de modellen in kaart te brengen (Scikit-Learn, z.d.), echter beïnvloed dit niet de keuze van het model. Het evalueren van de resultaten uit de modellen daarentegen wel (kijk 4.2). <br />
     <br />
 Literatuur<br />
     <br />
