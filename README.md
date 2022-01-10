@@ -310,7 +310,7 @@ blabla
   <summary> Lees hier verder </summary>
   <br />
   <details>
-  <summary>6.1 Data exploratie (niet)</summary>
+  <summary>6.1 Data exploratie </summary>
     Voor de data exploratie heb ik meerdere visualisaties geprobeerd, zoals een implot, histogram, scatterplot, barplot, boxplot, distplot en een countplot. Enkele voorbeelden zijn: <br />
    <br />
 De implot heb ik gebruikt om de correlatie tussen de BMI en MQ-score in kaart te brengen. Hierbij zijn de stippen gekleurd in de behorende categorie. Uit deze visualisatie is gebleken dat er bijna geen correlatie is tussen de BMI en de MQ-categorie. Daarnaast is ook de scatterplot gebruikt om de correlatie van MQ-score met de BMI te visualiseren. Hierin is te zien dat er enkele uitschieters zijn. <br />
@@ -341,7 +341,7 @@ The Data Visualisation Catalogue. (n.d.). The Data Visualisation Catalogue. http
 
   </details>
   <details>
-  <summary>6.2 Data schoonmaken (niet)</summary>
+  <summary>6.2 Data schoonmaken </summary>
   Voor het schoonmaken van de data heb ik de theorie van Brownlee (2020) gebruikt. Deze theorie beschrijft het voorbereiden van de data voor machine learning. Machine learning gebruiken wij voor dit project vandaar de keuze. De theorie split de data cleaning op in drie: basics, outliers en missing. Hierin heb ik de volgende stappen genomen:
     <br />
     <br />
