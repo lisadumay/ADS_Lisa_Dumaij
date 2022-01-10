@@ -311,7 +311,34 @@ blabla
   <br />
   <details>
   <summary>6.1 Data exploratie (niet)</summary>
-    blabla
+    Voor de data exploratie heb ik meerdere visualisaties geprobeerd, zoals een implot, histogram, scatterplot, barplot, boxplot, distplot en een countplot. Enkele voorbeelden zijn: <br />
+   <br />
+De implot heb ik gebruikt om de correlatie tussen de BMI en MQ-score in kaart te brengen. Hierbij zijn de stippen gekleurd in de behorende categorie. Uit deze visualisatie is gebleken dat er bijna geen correlatie is tussen de BMI en de MQ-categorie. Daarnaast is ook de scatterplot gebruikt om de correlatie van MQ-score met de BMI te visualiseren. Hierin is te zien dat er enkele uitschieters zijn. <br />
+   <br />
+Het histogram is gebruikt om de distributie van de BMI te visualiseren. Hieruit is gebleken dat de meeste kinderen een BMI tussen de 15 en 20 hebben. Er zijn maar enkele uitschieters boven de 25. Een countplot heeft de distributie van MQ-categorie gevisualiseerd. Hierin is te zien dat de klas 3 minimaal twee keer zoveel voorkomt dan elke andere klas.<br />
+   <br />
+Tot slot heb ik ook een heatmap gemaakt, deze is hieronder tevens terug te zien. Hierbij hebben de postcoder_cijfer, zelf_lopen, naar_bed_doordeweeks en zelf_buitenspelen_vrienden een correlatie van 0.8 of hoger. Volgens de theorie van Buijs (2018) is hier sprake van een zeer sterk verband, hierdoor zijn de helft van deze features overbodig. <br />
+   <br />
+    <img width="256" alt="image" src="https://user-images.githubusercontent.com/91061840/148798356-61ea6d3b-31a4-47b1-9d4f-055cf31c5de1.png">
+
+De (andere) gemaakte visualisaties zijn te vinden in de volgende notebook, beide bestanden heb ik individueel gemaakt:<br />
+   <br />
+Heatmap: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline%20heatmap.ipynb <br />
+   <br />
+Visualisaties: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/visualisaties.ipynb <br />
+   <br />
+
+Literatuur<br />
+   <br />
+Chart choosing. (2019, October 21). Chart.Guide. https://chart.guide/charts/chart-choosing/ <br />
+   <br />
+Galarnyk, M. (2020, July 6). Understanding Boxplots - Towards Data Science. Medium. https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51 <br />
+   <br />
+Tanner, G. (2021, December 7). Introduction to Data Visualization in Python - Towards Data Science. Medium. https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed <br />
+   <br />
+The Data Visualisation Catalogue. (n.d.). The Data Visualisation Catalogue. https://datavizcatalogue.com/ <br />
+   <br />
+
   </details>
   <details>
   <summary>6.2 Data schoonmaken (niet)</summary>
