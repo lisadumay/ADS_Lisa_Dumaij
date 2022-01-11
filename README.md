@@ -316,7 +316,13 @@ Kovacs, C. R. (2008). Measuring Motor Skill Learning—A Practical Application. 
    <br />
 Laurent De Angelo, M. S., Brouwers- De Jong, E. A., Bijlsma- Schlösser, J. F. M., Bulk- Bunschoten, A. M. W., Pauwels, J. H., & Steinbuch- Linstra, I. (2005). Ontwikkelingsonderzoek in de jeugdgezondheidszorg. Het van Wiechenonderzoek. De Baeche-Fassaert Motoriektest. Assen: Koninklijke Van Gorcum. <br />
    <br />
-Meester, D. A. (2020, September 24). The Relationship Between Actual and Perceived Motor Competence in Children, Adolescents and Young Adults: A Systematic Review and Meta-analysis. SpringerLink. Retrieved December 8, 2021, from https://link.springer.com/article/10.1007/s40279-020-01336-2?error=cookies_not_supported&code=37b734cf-1842-49b4-a1db-a4832a112243
+Meester, D. A. (2020, September 24). The Relationship Between Actual and Perceived Motor Competence in Children, Adolescents and Young Adults: A Systematic Review and Meta-analysis. SpringerLink. Retrieved December 8, 2021, from https://link.springer.com/article/10.1007/s40279-020-01336-2?error=cookies_not_supported&code=37b734cf-1842-49b4-a1db-a4832a112243 <br />
+   <br />
+Sia. (2019). Aanvraagformulier RAAK-PRO Start (V)aardig -2018. Nationaal Regieorgaan Praktijkgericht Onderzoek SIA. <br />
+   <br />
+Wang, H., Chen, Y., Liu, J., Sun, H., & Gao, W. (2020). A Follow-Up Study of Motor Skill Development and Its Determinants in Preschool Children from Middle-Income Family. BioMed Research International, 2020, 1–13. Retrieved December 1, 2021, from https://doi.org/10.1155/2020/6639341 <br />
+   <br />
+Zhang, S., Li, X., Zong, M., Zhu, X., & Wang, R. (2018). Efficient kNN Classification with Different Numbers of Nearest Neighbors. IEEE Transactions on Neural Networks and Learning Systems, 29(5), 1774–1785. Retrieved December 2, 2021, from https://doi.org/10.1109/tnnls.2017.2673241
 
   </details>
 
