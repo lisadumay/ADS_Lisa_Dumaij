@@ -235,6 +235,7 @@ Daarnaast heb ik ook figuren gemaakt om de stappen die in het proces gedaan moet
   </details>
   </details>
   </details>
+  
 ## 4. Voorspellende analyse (niet af)
 <details>
   <summary> Lees hier verder </summary>
