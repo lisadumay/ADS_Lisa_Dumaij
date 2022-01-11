@@ -233,8 +233,8 @@ Kortom data science wordt gebruikt doormiddel van een mean imputation en een KNN
 Daarnaast heb ik ook figuren gemaakt om de stappen die in het proces gedaan moeten worden te weergeven. Een voorbeeld hiervan is hieronder te zien.
 <img width="454" alt="image" src="https://user-images.githubusercontent.com/91061840/148651844-2394ba6b-108c-4ea8-aa3a-29a7ca526f05.png">
   </details>
-</details>
-
+  </details>
+  </details>
 ## 4. Voorspellende analyse (niet af)
 <details>
   <summary> Lees hier verder </summary>
