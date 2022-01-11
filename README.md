@@ -196,10 +196,13 @@ Meertens, E., & Steenbergen, E. (2018). Onderzoek doen! https://blackboard.hhs.n
         </details>
   <details>
   <summary>3.2 Evaluatie </summary>
- Voor het toekomstige werk raad ik aan Start(V)aardig aan om de dataset uit te breiden en of de huidige dataset aan te vullen.  Dit omdat de algoritmes niet optimaal konden werken door een tekort aan data. Dit is tevens terug te zien in de waardes van de accarancy en false negative rate. Deze waren allemaal gelijk. 
+ Voor het toekomstige werk raad ik aan Start(V)aardig aan om de dataset uit te breiden met gegevens vanuit CBS. Tevens raad ik aan om de dataset uit te breiden of de gaten in de dataset aan te vullen.  Dit omdat de algoritmes niet optimaal konden werken door een tekort aan data. Dit is ook terug te zien in de waardes van de false negative rate. Deze waren op een na allemaal gelijk. 
 <br />
     <br />
-    Mocht de dataset aangevuld zijn kan het juiste model gekozen worden. Wel wordt er aangeraden om de MQ-score in binaire te doen. Daarnaast raad ik aan om een dashboard te bouwen met daarin de de voorspellingswaarde van het kind met daarbij de features die ervoor hebben gezorgd. Een voorbeeld van dit dashboard is hieronder te zien.<br />
+    Ook is er momenteel sprake van overfitting. Dit is te zien aan de accurancy scores van de trainingsets. Mogelijke oplossingen ervoor zijn versimpelen model, meer training data, minder features, meer regularisatie, vroege terminatie. 
+    <br />
+    <br />
+    Mocht de dataset aangevuld zijn kan het juiste model gekozen worden. Wel wordt er aangeraden om de MQ-score in binaire te doen. Daarnaast raad ik aan om een dashboard te bouwen met daarin de voorspellingswaarde van het kind met daarbij de features die ervoor hebben gezorgd. Een voorbeeld van dit dashboard is hieronder te zien.<br />
     <br />
 <img width="158" alt="image" src="https://user-images.githubusercontent.com/91061840/148696407-2b4b7faa-2e53-4b38-8055-ff833a767a14.png">
     <br />
@@ -208,7 +211,22 @@ Hierbij kan de gemiddelde score van het land, provincie of stad worden gevisuali
     </details>
   <details>
  <summary>3.3 Conclusie (moet nog) </summary>
- blabla
+Uit het onderzoek is gebleken dat data science kan helpen met voorspelling doen of een kind een jaar later kans heeft om een motorische achterstand te ontwikkelen. Dit is gebeurd doormiddel van de theorie van Brown (2020) de dataset op te schonen. Hierna is de dat gescaled, gebalanceerd en is er een validatie code geschreven. <br />
+    <br />
+De feature selectie was ingewikkelder. Zoals in de figuur hieronder te zien is, scoren alleen de AST en MQ hoger dan vijf procent. Dat deze twee variabelen hoog scoren is niet verassend aangezien de MQ-categorie berekend wordt door deze factoren. De variabelen die onder de vijf procent scoren zijn weggelaten in het model. Normaal zou dit onder de twintig procent zijn (Buijs, 2017). Er is dus hier ruimte voor verbetering.  <br />
+    <br />
+    <img width="198" alt="image" src="https://user-images.githubusercontent.com/91061840/149023283-4b9de20b-aece-4879-b383-9d8ae167c739.png"> <br />
+    <br />
+    Dit resulteert ook gelijk in dat er geen karakteristieken overeenkomen tussen de kleuters met motorische achterstanden. Tot slot zijn de vijf gekozen modellen evalueert. Zoals hieronder te zien is.<br />
+    <br />
+ <img width="454" alt="image" src="https://user-images.githubusercontent.com/91061840/149023351-3a360604-e79b-4fa4-b851-6a1a2b1e7b35.png"> <br />
+    <br />
+Uit deze modellen is te herleiden dat de KNN het beste scoort. Zo overfit het KNN-model het minst ten opzichte van de andere modellen. Daarbij scoort het even laag op de False negative rate zoals de meeste andere modellen. <br />
+    <br />
+Kortom data science wordt gebruikt doormiddel van een mean imputation en een KNN. Waarbij een er feature selection plaats vindt voor elke variabel die lager scoort dan 0.05. Tot slot is er gebruikt gemaakt van een binaire classificatie ipv een multilabel.
+
+
+
     </details>
   <details>
  <summary>3.4 Planning </summary>
