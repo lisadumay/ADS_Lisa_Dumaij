@@ -286,7 +286,7 @@ bla bla
    <br />
    <br />
   <details>
-  <summary>5.1 Introductie vakgebied (niet) </summary>
+  <summary>5.1 Introductie vakgebied </summary>
       <br />
 Het vakgebied waar mijn onderzoek onder valt is de grove motorische ontwikkeling van kinderen tussen de 4 en 6 jaar. De grove motoriek bestaat uit de ontwikkelin g van bewegingen waarbij grote groepen spieren bij betrokken zijn (zoals lopen) (Laurent De Angelo e.a., 2005). Kinderen tussen de 4 en 6 jaar vallen onder de categorie ‘kleuters’.  In deze leeftijdsgroep vindt er een grote ontwikkeling in de motorische vaardigheden plaats zo leren ze rennen, klimmen maar ook gooien met een bal. De kleuters gebruiken vaak nog wel al hun spieren in plaats van één spiergroep, dit kost veel energie (Feldman, 2011).  <br />
    <br />
