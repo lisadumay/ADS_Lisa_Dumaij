@@ -225,8 +225,6 @@ Uit deze modellen is te herleiden dat de KNN het beste scoort. Zo overfit het KN
     <br />
 Kortom data science wordt gebruikt doormiddel van een mean imputation en een KNN. Waarbij een er feature selection plaats vindt voor elke variabel die lager scoort dan 0.05. Tot slot is er gebruikt gemaakt van een binaire classificatie ipv een multilabel.
 
-
-
     </details>
   <details>
  <summary>3.4 Planning </summary>
@@ -234,9 +232,9 @@ Kortom data science wordt gebruikt doormiddel van een mean imputation en een KNN
 [zie hier de planning] (https://tasks.office.com/DeHaagseHogeschool.onmicrosoft.com/nl-nl/Home/Planner#/plantaskboard?groupId=786800fb-0bab-470c-b770-bb6975403c41&planId=9Jb-xUUDp0Gu_F2YlVNn2ZYAAPLf)
 Daarnaast heb ik ook figuren gemaakt om de stappen die in het proces gedaan moeten worden te weergeven. Een voorbeeld hiervan is hieronder te zien.
 <img width="454" alt="image" src="https://user-images.githubusercontent.com/91061840/148651844-2394ba6b-108c-4ea8-aa3a-29a7ca526f05.png">
-    </details>
   </details>
-  
+</details>
+
 ## 4. Voorspellende analyse (niet af)
 <details>
   <summary> Lees hier verder </summary>
