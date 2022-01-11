@@ -6,7 +6,7 @@ Team:               Motoric <br />
 Studie:             Applied Data Science <br />
 School:             Haagse Hogeschool <br />
 <br />
-Datum:              ??-01-2022 <br />
+Datum:              13-01-2022 <br />
 Versie:             1 <br />
 
 
@@ -324,6 +324,8 @@ Tot slot heb ik ook een heatmap gemaakt, deze is hieronder tevens terug te zien.
 De (andere) gemaakte visualisaties zijn te vinden in de volgende notebook, beide bestanden heb ik individueel gemaakt:<br />
    <br />
 Heatmap: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline%20heatmap.ipynb <br />
+   <br />
+Heatmap 2: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/heatmaptotal.ipynb <br />
    <br />
 Visualisaties: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/visualisaties.ipynb <br />
    <br />
