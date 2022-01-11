@@ -282,12 +282,42 @@ bla bla
 <details>
   <summary> Lees hier verder </summary>
   <br />
-  In dit hoofdstuk wordt mijn domein kennis besproken. Het hoofdstuk is opgedeeld in 3 hoofdstukken die alle bronnen bevatten over bepaalde onderwerpen, de reden waarom ik deze heb gebruikt en wat ik van de bronnen heb geleerd.
+  In dit hoofdstuk wordt mijn domein kennis besproken. Het hoofdstuk is opgedeeld in 3 hoofdstukken.
    <br />
    <br />
   <details>
   <summary>5.1 Introductie vakgebied (niet) </summary>
-bla bla
+      <br />
+Het vakgebied waar mijn onderzoek onder valt is de grove motorische ontwikkeling van kinderen tussen de 4 en 6 jaar. De grove motoriek bestaat uit de ontwikkelin g van bewegingen waarbij grote groepen spieren bij betrokken zijn (zoals lopen) (Laurent De Angelo e.a., 2005). Kinderen tussen de 4 en 6 jaar vallen onder de categorie ‘kleuters’.  In deze leeftijdsgroep vindt er een grote ontwikkeling in de motorische vaardigheden plaats zo leren ze rennen, klimmen maar ook gooien met een bal. De kleuters gebruiken vaak nog wel al hun spieren in plaats van één spiergroep, dit kost veel energie (Feldman, 2011).  <br />
+   <br />
+    
+Echter komt het steeds vaker voor dat kinderen motorische achterstanden oplopen. Dit komt omdat kleuters steeds minder bewegen en er steeds meer voor hen uit handen genomen wordt door ouders of verzorgers. Tot slot zitten kinderen veel meer achter de computer dan voorheen (Sia, 2019).  <br />
+   <br />
+    
+ Dit heeft een negatieve invloed op zowel de cognitieve als emotionele ontwikkeling van kleuters, maar ook op de participatie in het dagelijkse leven (van Luit, 2020). Doordat deze juist in de eerste levensjaren worden ontwikkeld, heeft dit ook een negatieve invloed op het functioneren op volwassen leeftijd (Berlin, Brooks- Gunn, McCarton, & McCormick, 1998; Ramey & Ramey, 1998).  Om deze reden is het zinvolle te bekijken aspecten van de motor ontwikkeling.  <br />
+   <br />
+Er zijn meerdere factoren die een invloed hebben op de motorische ontwikkeling volgens Laurent de Angelo e.a. (2005). Zoals biologische, sociale en omgevingsfactoren. Hoewel er wel een duidelijk verband is tussen omgevingsfactoren en intellectuele ontwikkeling is dit niet gevonden met de motorische ontwikkeling (Aboot & Bartlett, 2001).  <br />
+   <br />
+Om de motorische vaardigheid te bepalen wordt ‘Motor learning’ gebruikt. Dit is de studie van het verwerven van bewegingsvaardigheden en de verbetering van geleerde activiteiten door het oefenen. Het bij staat het leerproces van de individu centraal. Factoren zoals motivatie, aandacht en vermoeidheid kunnen van invloed zijn op de prestaties van het kind (Kovacs, 2008).  <br />
+   <br />
+Het achterhalen van waar de motorische achterstanden is in meerdere studies omschreven zo wordt er bijvoorbeld in de onderzoeken van Gilbert (1980) en de Meester e.a. (2020) gekeken naar kenmerken van de kinderen en hun achtergrond. In de onderzoeken van Wang e.a. (2020) en Zysset e.a. werden de ouderenquêtes onderzocht.  <br />
+   <br />
+    Literatuur <br />
+   <br />
+Abbott, A. L. & Bartlett, D. J. (2001). Infant motor development and equipment use in the home. Child: Care, Health and Development, 27, 295-306. doi:10.1046/j.1365-2214.2001.00186.x <br />
+   <br />
+Berlin, L. J., Brooks-Gunn, J., McCarton, C., & McCormick, M. C. (1998). The effectiveness of early intervention: examining risk factors and pathways to enhanced development. Preventive Medicine, 27, 238-245. doi:10.1006/pmed.1998.0282 <br />
+   <br />
+Feldman, R. S. (2011). Ontwikkelingspsychologie. Pearson Education Benelux B.V. <br />
+   <br />
+Gilbert, J. (1980). An Assessment of Motor Music Skill Development in Young Children. Journal of Research in Music Education, 28(3), 167–175. Retrieved December 17, 2021, from https://doi.org/10.2307/3345234 <br />
+   <br />
+Kovacs, C. R. (2008). Measuring Motor Skill Learning—A Practical Application. Strategies, 22(2), 25–29. https://doi.org/10.1080/08924562.2008.10590813 <br />
+   <br />
+Laurent De Angelo, M. S., Brouwers- De Jong, E. A., Bijlsma- Schlösser, J. F. M., Bulk- Bunschoten, A. M. W., Pauwels, J. H., & Steinbuch- Linstra, I. (2005). Ontwikkelingsonderzoek in de jeugdgezondheidszorg. Het van Wiechenonderzoek. De Baeche-Fassaert Motoriektest. Assen: Koninklijke Van Gorcum. <br />
+   <br />
+Meester, D. A. (2020, September 24). The Relationship Between Actual and Perceived Motor Competence in Children, Adolescents and Young Adults: A Systematic Review and Meta-analysis. SpringerLink. Retrieved December 8, 2021, from https://link.springer.com/article/10.1007/s40279-020-01336-2?error=cookies_not_supported&code=37b734cf-1842-49b4-a1db-a4832a112243
+
   </details>
 
  <details>
