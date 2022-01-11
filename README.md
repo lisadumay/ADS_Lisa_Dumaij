@@ -164,7 +164,7 @@ Taak: Onze taken waren een onderzoek artikel schrijven over onze bevindingen. De
 ## 3.Research project (niet af)
 <details>
   <summary> Lees hier verder </summary>
-  In dit hoofdstuk ....
+  In dit hoofdstuk wordt het onderzoeksartikel op hoofdlijnen besproken.
   <br />
     <br />
   <details>
@@ -210,7 +210,7 @@ Meertens, E., & Steenbergen, E. (2018). Onderzoek doen! https://blackboard.hhs.n
 Hierbij kan de gemiddelde score van het land, provincie of stad worden gevisualiseerd. Daarnaast is er ook een slide voor het individuele kind. Hierin staat welke score er wordt voorspelt en welke features bepalend zijn voor deze score.
     </details>
   <details>
- <summary>3.3 Conclusie (moet nog) </summary>
+ <summary>3.3 Conclusie </summary>
 Uit het onderzoek is gebleken dat data science kan helpen met voorspelling doen of een kind een jaar later kans heeft om een motorische achterstand te ontwikkelen. Dit is gebeurd doormiddel van de theorie van Brown (2020) de dataset op te schonen. Hierna is de dat gescaled, gebalanceerd en is er een validatie code geschreven. <br />
     <br />
 De feature selectie was ingewikkelder. Zoals in de figuur hieronder te zien is, scoren alleen de AST en MQ hoger dan vijf procent. Dat deze twee variabelen hoog scoren is niet verassend aangezien de MQ-categorie berekend wordt door deze factoren. De variabelen die onder de vijf procent scoren zijn weggelaten in het model. Normaal zou dit onder de twintig procent zijn (Buijs, 2017). Er is dus hier ruimte voor verbetering.  <br />
