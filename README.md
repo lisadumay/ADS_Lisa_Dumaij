@@ -161,7 +161,7 @@ Taak: Onze taken waren een onderzoek artikel schrijven over onze bevindingen. De
   </details>
 </details>
 
-## 3.Research project (niet af)
+## 3.Research project
 <details>
   <summary> Lees hier verder </summary>
   In dit hoofdstuk wordt het onderzoeksartikel op hoofdlijnen besproken.
@@ -461,8 +461,50 @@ Matthes, E. (2018). Crash Course programmeren in Python : projectgericht leren p
 <br />
   </details>
   <details>
-  <summary>6.3 Data voorbeiding (niet)</summary>
-   blabla
+  <summary>6.3 Data voorbeiding </summary>
+   <br />
+    Data voorbereiding bestaat uit (Machine Learning Mastery, 2021): <br />
+    <br />
+-	Data Cleaning: het identificeren en corrigeren van fouten of fouten in de data.<br />
+-	Functieselectie: identificeren van de invoervariabelen die het meest relevant zijn voor de taak.<br />
+-	Gegevenstransformaties: de schaal of verdeling van variabelen wijzigen.<br />
+-	Feature Engineering: nieuwe variabelen afleiden uit beschikbare gegevens.<br />
+-	Dimensionaliteitsreductie: het maken van compacte projecties van de gegevens.<br />
+    <br />
+In de vorige paragraaf is de data cleaning besproken (en staan de notebooks), ook feature selection is al gedeeltelijk gedaan doordat de heatmap en het de overbodige features heeft gevisualiseerd hoeven deze alleen nog verwijdert te worden. Ook het lasso model Als ik terugkijk naar mijn literatuuronderzoek denk ik haast dat ik de meeste bronnen opgezocht heb voor dit onderwerp. Dit komt omdat ik liever theorie ergens over heb voordat het wordt uitgevoerd. Van Brownlee (2020) tot Schönig (2018), hoewel ik veel bronnen heb bekeken, heb ik het niet vaak kunnen toepassen. Ik heb univariate selection, feature importance en een lasso model gemaakt. Deze notebook zal hier onderaan worden toegevoegd. <br />
+    <br />
+Het gegevens transformatieproces heb ik niet helemaal gedaan. Ik heb wel het schalen van de gegevenssets gedaan, echt niet het balanceren. <br />
+    <br />
+Feature engineering verwijst naar het proces waarbij domeinkennis wordt gebruikt om de meest relevante variabelen uit ruwe gegevens te selecteren en te transformeren bij het maken van een voorspellend model met behulp van machine learning of statistische modellering. Deze technieken heb ik zelf niet toegepast tijdens deze minor eveens als de dimensionaliteitsreductie. <br />
+    <br />
+    Notebooks: <br />
+    <br />
+Heatmap: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/heatmaptotal.ipynb <br />
+    <br />
+Lasso: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Lasso.ipynb <br />
+    <br />
+Feature selectie: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Feature%20selection.ipynb <br />
+    <br />
+    Schaling: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Networking.ipynb <br />
+    <br />
+    Literatuur
+Balancing dataset and normalizing features: what comes first? (2017, 5 januari). Cross Validated. Geraadpleegd op 17 december 2021, van https://stats.stackexchange.com/questions/254726/balancing-dataset-and-normalizing-features-what-comes-first <br />
+    <br />
+Brownlee, J. (2020, 20 augustus). How to Choose a Feature Selection Method For Machine Learning. Machine Learning Mastery. Geraadpleegd op 17 december 2021, van https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/ <br />
+    <br />
+Kuhn, M., & Johnson, K. (2019). Feature Engineering and Selection: A Practical Approach for Predictive Models (Chapman & Hall/CRC Data Science Series) (1st ed.). Chapman and Hall/CRC.
+Kumar, V. (2014). Feature Selection: A literature Review. The Smart Computing Review, 4(3). https://doi.org/10.6029/smartcr.2014.03.007 <br />
+    <br />
+Li, J., Cheng, K., Wang, S., Morstatter, F., Trevino, R. P., Tang, J., & Liu, H. (2018). Feature Selection. ACM Computing Surveys, 50(6), 1–45. https://doi.org/10.1145/3136625 <br />
+    <br />
+Miao, J., & Niu, L. (2016). A Survey on Feature Selection. Procedia Computer Science, 91, 919–926. https://doi.org/10.1016/j.procs.2016.07.111 <br />
+    <br />
+Roy, B. (2021, 14 december). All about Feature Scaling - Towards Data Science. Medium. Geraadpleegd op 17 december 2021, van https://towardsdatascience.com/all-about-feature-scaling-bcc0ad75cb35 <br />
+    <br />
+Schönig, S., Jasinski, R., Ackermann, L., & Jablonski, S. (2018). Deep Learning Process Prediction with Discrete and Continuous Data Features. Proceedings of the 13th International Conference on Evaluation of Novel Approaches to Software Engineering. Published. https://doi.org/10.5220/0006772003140319 <br />
+    <br />
+Saeys, Y., Inza, I., & Larranaga, P. (2007). A review of feature selection techniques in bioinformatics. Bioinformatics, 23(19), 2507–2517. https://doi.org/10.1093/bioinformatics/btm344
+
   </details>
   <details>
   <summary>6.4 Data uitleg</summary>
