@@ -412,13 +412,13 @@ Matthes, E. (2018). Crash Course programmeren in Python : projectgericht leren p
   </details>
   <details>
   <summary>6.4 Data uitleg</summary>
-   In dit project is er gebruik gemaakt van gestructureerde data. De data bestaan uit de gegevens die verschaft zijn door de opdrachtgever en data vanuit CBS.  De gegevens van de opdrachtgever bestaan uit: de competentie, motivatie, perceptie, BMI en de ouders vragenlijst. 
+   In dit project is er gebruik gemaakt van gestructureerde data. De data bestaan uit de gegevens die verschaft zijn door de opdrachtgever.  De gegevens van de opdrachtgever bestaan uit: de competentie, motivatie, perceptie, BMI en de ouders vragenlijst. 
     <br />
    <br />
-De motivatie, perceptie en een gedeelte van de ouders vragenlijst bestaat uit gecategoriseerde data (ordinale schaal). De kinderen konden kiezen tussen vier opties om hun motivatie, en perceptie te weergeven. In de vragenlijst konden ouders vaak kiezen uit verschillende antwoorden (meerkeuze vragen). Het andere deel van de vragenlijst, de BMI en de CBS vallen onder een ratio schaal, er is sprake van numerieke gegevens. 
+De motivatie, perceptie en een gedeelte van de ouders vragenlijst bestaat uit gecategoriseerde data (ordinale schaal). De kinderen konden kiezen tussen vier opties om hun motivatie, en perceptie te weergeven. In de vragenlijst konden ouders vaak kiezen uit verschillende antwoorden (meerkeuze vragen). Het andere deel van de vragenlijst, de BMI valt onder een ratio schaal, er is sprake van numerieke gegevens. 
     <br />
    <br />
-Tot slot bestaat de gegevens zowel uit kwalitatieve als kwantitatieve data. De dataset bestaat uit 1704 rijen (kinderen) en 188 kolommen (features en einddoel variabel).
+Tot slot bestaat de gegevens zowel uit kwalitatieve als kwantitatieve data. De dataset bestaat uit 1709 rijen (kinderen) en 36 kolommen (features).
         <br />
    <br />
     Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/data/total.csv 
