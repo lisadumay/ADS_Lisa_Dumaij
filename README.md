@@ -336,7 +336,8 @@ Neural Network: individueel een notebook gemaakt, maar samen vergeleken met Must
     <br />
 SVM: individueel een notebook gemaakt. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/SVM.ipynb <br />
     <br />
-Literatuur:
+Literatuur:<br />
+    <br />
 3.1. Cross-validation: evaluating estimator performance. (z.d.). Scikit-Learn. Geraadpleegd op 17 december 2021, van https://scikit-learn.org/stable/modules/cross_validation.html <br />
     <br />
 Bhandari, A. (2021, 23 juli). Confusion Matrix for Machine Learning. Analytics Vidhya. Geraadpleegd op 17 december 2021, van https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/ <br />
