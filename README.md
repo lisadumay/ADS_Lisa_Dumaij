@@ -328,8 +328,7 @@ Tot slot heb ik een validatie curve hierbij gevisualiseerd. Dit om te bekijken o
    <br />
  <img width="315" alt="image" src="https://user-images.githubusercontent.com/91061840/149113918-9db46589-d07a-446f-b0c8-450507888b62.png"> <br />
    <br />
-
-    Notebooks:<br />
+Notebooks:<br />
     <br />
 Lasso: individueel een notebook gemaakt, maar samen vergeleken met Mustafa. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Lasso.ipynb <br />
     <br />
