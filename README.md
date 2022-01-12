@@ -258,8 +258,17 @@ ProjectPro. (2022, January 3). 7 Types of Classification Algorithms in Machine L
 
   </details>
   <details>
-  <summary>4.2 Een model configureren (niet)</summary>
-  
+  <summary>4.2 Een model configureren. </summary>
+  Ik heb zelf drie verschillende modellen uitgevoerd. Ik zal per model vertellen hoe ik deze heb geconfigureerd en waarom. <br />
+    <br />
+Lasso: Bij lasso zijn er 3 verschillende configuraties: c, penalty en solver. Er zijn 4 soorten penalty’s. Hiervan werkt het toevoegen van geen penalty het beste. Dit bracht de scoren van de lasso omhoog. De C staat voor de inverse van de sterkte van regulatie. Het maakte voor dit model niet veel uit welke waarde hij aanneemt tussen de 2 en 0 geeft dit een nihil verschil. Voor de solver zijn er ook vijf opties, sag werkte als beste van alle opties (Sklearn.Linear_model.LogisticRegression, n.d.). <br />
+    <br />
+Networking: Waar ik achter kwam bij het neurale netwerk is dat 1000 hiddenlayers voor betere resultaten zorgde dan 100. Dit kan te maken hebben dat er sprake is van een complexere dataset. B=Voor activation scoort relu het best. Relu is een gelijkgerichte lineaire eenheidsfunctie. Deze in combinatie met de solver ‘Adam’ zorgt voor een false negative rate van 0.17. <br />
+    <br />
+
+SVM: Voor het SVM-model heb je verschillende kernels die je kan instellen: lineair, polynominaal en RBF. Ik heb zelf al deze kernels geprobeerd. Hieruit kwam dat de RBF het beste scoorde in de accurancy en false negative rate. RBF-kernel is een functie waarvan de waarde afhangt van de afstand vanaf de oorsprong of vanaf een bepaald punt. Deze kernel heeft twee parameters: C (inverse van de sterkte van regulatie) en gamma (Yadav, 2018). Voor beide punten heb ik verschillende waardes geprobeerd. Maar zoals de theorie al aangaf naarmate ik de gamma om hoog of omlaag deed ging het model slechter functioneren. Zo ging het bij een toename meer overfitten en bij een afname namen de waardes af en werd de false negative rate hoger. Hetzelfde gebeurde bij het veranderen van de c. Of ik deze hoger maakte of lager bij beide ging het model ondermaats presteren. Ik heb uiteindelijk daarom gekozen voor een c=1 en een gamma = 0 (gamma heb ik uiteindelijk weggelaten). <br />
+    <br />
+
     Notebooks:<br />
     <br />
 Lasso: individueel een notebook gemaakt, maar samen vergeleken met Mustafa. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Lasso.ipynb <br />
@@ -268,7 +277,19 @@ Neural Network: individueel een notebook gemaakt, maar samen vergeleken met Must
     <br />
 SVM: individueel een notebook gemaakt. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/SVM.ipynb <br />
     <br />
-    
+Neural Network verbeterd: individueel een notebook gemaakt. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Networking_verbeterd.ipynb <br />
+    <br />
+Lasso verbeterd: individueel een notebook gemaakt. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Lasso_verbeterd.ipynb <br />
+    <br />
+ Literatuur: <br />
+    <br />
+    sklearn.linear_model.LogisticRegression. (n.d.). Scikit-Learn. https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html <br />
+    <br />
+sklearn.neural_network.MLPClassifier. (n.d.). Scikit-Learn. https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html
+    <br />
+    <br />
+Yadav, A. (2018, October 22). SUPPORT VECTOR MACHINES(SVM) - Towards Data Science. Medium. https://towardsdatascience.com/support-vector-machines-svm-c9ef22815589
+    <br />   
   </details>
   <details>
   <summary>4.3 Model trainen (niet)</summary>
@@ -302,7 +323,7 @@ Scikit-learn: How to obtain True Positive, True Negative, False Positive and Fal
   </details>
   <details>
   <summary>4.5 Visualiseren </summary>
-Het visualiseren van de resultaten heb ik bij alle drie de modellen anders gedaan. <br />
+Het visualiseren van de resultaten heb ik bij alle drie de modellen anders gedaan. Side note: ik heb de modellen later verbeterd hierdoor zijn de visualisaties veranderd zoals bij SVM en zijn de resultaten gevisualiseerd. <br />
    <br />
 Lasso: is een model dat helpt bij collineariteit, dit is een fenomeen waarbij een kenmerkvariabele in een regressiemodel sterk lineair gecorreleerd is met een ander kenmerk variabele. In het geval bij lasso is gevisualiseerd hoeveel de features correleren met de MQ-score. De coëfficiënten met de features zijn gevisualiseerd in de plot. Zoals er te zien is aan het visualisatie zijn er wel een aantal “fouten”. Zo heeft het geen titel en mis het een as titel. Daarnaast zijn het zoveel features dat deze nog goed te lezen meer zijn in de visualisatie. Uiteindelijk scoorde het lasso model ook maar 0.44. <br />
    <br />
@@ -335,6 +356,9 @@ Lasso: individueel een notebook gemaakt, maar samen vergeleken met Mustafa. Link
 Neural Network: individueel een notebook gemaakt, maar samen vergeleken met Mustafa. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Networking.ipynb <br />
     <br />
 SVM: individueel een notebook gemaakt. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/SVM.ipynb <br />
+Lasso verbeterd: individueel. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Lasso_verbeterd.ipynb <br />
+    <br />
+NN verbeterd. Individueel. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Networking_verbeterd.ipynb <br />
     <br />
 Literatuur:<br />
     <br />
