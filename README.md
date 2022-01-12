@@ -359,14 +359,6 @@ Zhang, S., Li, X., Zong, M., Zhu, X., & Wang, R. (2018). Efficient kNN Classific
    blabla
 
   </details>
-
- <details>
-  <summary>5.3 Uitleg van terminologie, jargon en definities </summary>
-blabla
-  </details>
-  
- </details>
-  
 </details>
 
 ## 6. Data preprocessing (niet af)
