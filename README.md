@@ -361,7 +361,7 @@ Zhang, S., Li, X., Zong, M., Zhu, X., & Wang, R. (2018). Efficient kNN Classific
   </details>
 </details>
 
-## 6. Data preprocessing (niet af)
+## 6. Data preprocessing
 <details>
   <summary> Lees hier verder </summary>
   <br />
@@ -434,8 +434,9 @@ o KNN Imputatie: KNN staat voor de k-Nearest Neighbours methode en wordt gebruik
 o Imputeren met mediaan en gemiddelde: Het gebruik van mediaan en gemiddelde om gegevens toe te rekenen is een statistische benadering van gegevensimputatie. Daarvoor wordt de mediaan en het gemiddelde berekend voor een specifieke kolom die geïmputeerd moet worden. De ontbrekende waarden in die kolom worden vervolgens gevuld met het eerder berekende gemiddelde en de mediaan.<br />
 <br />
     <br />
-De technieken die hierboven staan heb ik ook (deels) toegepast in mijn notebooks, de notebooks zijn:
-Pipeline lisa; hierin heb ik grotendeels de code zelf geschreven echter heb ik ook soms die van een ander gebruikt. Dat staat er dan ook bij. Link: 
+De technieken die hierboven staan heb ik ook (deels) toegepast in mijn notebooks, de notebooks zijn:<br />
+    <br />
+Pipeline lisa: hierin heb ik grotendeels de code zelf geschreven echter heb ik ook soms die van een ander gebruikt. Dat staat er dan ook bij. Link: 
  https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline%20Lisa.ipynb 
     <br />
     <br />
@@ -529,8 +530,62 @@ Tot slot bestaat de gegevens zowel uit kwalitatieve als kwantitatieve data. De d
 
   </details>
   <details>
-  <summary>6.5 Data visualisatie (niet)</summary>
-bla bla
+  <summary>6.5 Data visualisatie</summary>
+Het visualiseren van de resultaten heb ik bij alle drie de modellen anders gedaan. <br />
+   <br />
+Lasso: is een model dat helpt bij collineariteit, dit is een fenomeen waarbij een kenmerkvariabele in een regressiemodel sterk lineair gecorreleerd is met een ander kenmerk variabele. In het geval bij lasso is gevisualiseerd hoeveel de features correleren met de MQ-score. De coëfficiënten met de features zijn gevisualiseerd in de plot. Zoals er te zien is aan het visualisatie zijn er wel een aantal “fouten”. Zo heeft het geen titel en mis het een as titel. Daarnaast zijn het zoveel features dat deze nog goed te lezen meer zijn in de visualisatie. Uiteindelijk scoorde het lasso model ook maar 0.44. <br />
+   <br />
+    <img width="266" alt="image" src="https://user-images.githubusercontent.com/91061840/149113436-8a07466d-6f2b-4bee-be74-7554eae603f5.png">
+
+<br />
+   <br />
+Networking: het networking model heb ik redelijk aan het begin van de course gemaakt. Dit is tevens ook te zien in de visualisatie van de uitkomsten. Voor de visualisatie van de uitkomsten heb ik een confusionmatrix en een classifiactie rapport gevisualiseerd. Zoals te zien de confusion matrix voorspelt het model alleen maar de nummer 3. Dit komt waarschijnlijk omdat de gegevens niet gebalanceerd zijn. Dit is tevens ook terug te zien in de classificatie rapport. Hierin scoort de precision, recall en f1-score constant nul, behalve bij klasse 3. Uit eindelijk is dit ook terug te zien in de accurancy van maar 0,48.<br />
+   <br />
+    <img width="239" alt="image" src="https://user-images.githubusercontent.com/91061840/149113507-53106fba-6df3-4bf0-b301-58374af64ada.png">
+    <br />
+   <br />
+SVM: Het VSM heb ik later gemaakt. In die tijd hadden Yuliya en ik al samen een functie gemaakt voor een evaluatie code. Die heb ik hierin opgeroepen, Hierdoor werd een confusionmatrix en precision-recall curve gevisualiseerd. Daarnaast werd de false negative berekent en de accurancy. Het model deed het redelijk goed, zo scoorde het een 0,18 op de false negative rate en een accurancy van 74,3 op de test set. Ook de precision recall curve laat goede resultaten zien (Upadhyay, 2021).<br />
+   <br />
+   <img width="191" alt="image" src="https://user-images.githubusercontent.com/91061840/149113711-db6403cf-6137-445f-bdec-ec4a116e82a9.png">
+
+ <br />
+   <br />
+    <img width="248" alt="image" src="https://user-images.githubusercontent.com/91061840/149113763-b826202c-76c7-446c-a58e-1b3a685593e0.png">
+ <br />
+   <br />
+Tot slot heb ik een validatie curve hierbij gevisualiseerd. Dit om te bekijken of er sprake was van overfitting. Zoals te zien is in de visualisatie wijkt de blauwe lijn iets uit, maar is dit niet een drastisch uitwijking. Er is dus wel sprake van overfitting, alleen in een hele kleine maat (Ray, 2021). <br />
+   <br />
+ <img width="315" alt="image" src="https://user-images.githubusercontent.com/91061840/149113918-9db46589-d07a-446f-b0c8-450507888b62.png"> <br />
+   <br />
+
+    Notebooks:<br />
+    <br />
+Lasso: individueel een notebook gemaakt, maar samen vergeleken met Mustafa. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Lasso.ipynb <br />
+    <br />
+Neural Network: individueel een notebook gemaakt, maar samen vergeleken met Mustafa. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Networking.ipynb <br />
+    <br />
+SVM: individueel een notebook gemaakt. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/SVM.ipynb <br />
+    <br />
+Literatuur:
+3.1. Cross-validation: evaluating estimator performance. (z.d.). Scikit-Learn. Geraadpleegd op 17 december 2021, van https://scikit-learn.org/stable/modules/cross_validation.html <br />
+    <br />
+Bhandari, A. (2021, 23 juli). Confusion Matrix for Machine Learning. Analytics Vidhya. Geraadpleegd op 17 december 2021, van https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/ <br />
+    <br />
+D. (2021, 30 januari). Example of Confusion Matrix in Python. Data to Fish. Geraadpleegd op 17 december 2021, van https://datatofish.com/confusion-matrix-python/ <br />
+    <br />
+How to plot Validation Curve in Python? -. (2021, August 30). DeZyre. https://www.projectpro.io/recipes/plot-validation-curve-in-python  <br />
+    <br /> 
+ Novakovica, J. D. J., Veljovicb, A., Ilic, S. S., Papic, Z., & Tomovic, M. (2017). Evaluation of Classification Models in Machine Learning. Theory and Applications of Mathematics & Computer Science. https://uav.ro/applications/se/journal/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fuav.ro%2Fapplications%2Fse%2Fjournal%2Findex.php%2FTAMCS%2Farticle%2Fdownload%2F158%2F126%2F <br />
+    <br /> 
+    Ray, S. (2021, August 26). SVM | Support Vector Machine Algorithm in Machine Learning. Analytics Vidhya. https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/ <br />
+    <br />
+    Scikit-learn: How to obtain True Positive, True Negative, False Positive and False Negative. (2015, 9 juli). Stack Overflow. Geraadpleegd op 17 december 2021, van https://stackoverflow.com/questions/31324218/scikit-learn-how-to-obtain-true-positive-true-negative-false-positive-and-fal <br />
+    <br />
+sklearn.metrics.confusion_matrix. (z.d.). Scikit-Learn. Geraadpleegd op 17 december 2021, van https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html<br />
+    <br />
+    Upadhyay, A. (2021, December 15). Precision/Recall Tradeoff - Analytics Vidhya. Medium. https://medium.com/analytics-vidhya/precision-recall-tradeoff-79e892d43134 <br />
+    <br />
+
   </details>
 </details>
 
