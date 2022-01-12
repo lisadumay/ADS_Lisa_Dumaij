@@ -365,6 +365,7 @@ Zhang, S., Li, X., Zong, M., Zhu, X., & Wang, R. (2018). Efficient kNN Classific
 <details>
   <summary> Lees hier verder </summary>
   <br />
+  In dit hoofdstuk omschrijf ik en visualiseer ik de data en de stappen die ik heb genomen om de data zo te krijgen.
   <details>
   <summary>6.1 Data exploratie </summary>
     Voor de data exploratie heb ik meerdere visualisaties geprobeerd, zoals een implot, histogram, scatterplot, barplot, boxplot, distplot en een countplot. Enkele voorbeelden zijn: <br />
