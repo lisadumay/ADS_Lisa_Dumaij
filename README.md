@@ -269,7 +269,7 @@ Networking: Waar ik achter kwam bij het neurale netwerk is dat 1000 hiddenlayers
 SVM: Voor het SVM-model heb je verschillende kernels die je kan instellen: lineair, polynominaal en RBF. Ik heb zelf al deze kernels geprobeerd. Hieruit kwam dat de RBF het beste scoorde in de accurancy en false negative rate. RBF-kernel is een functie waarvan de waarde afhangt van de afstand vanaf de oorsprong of vanaf een bepaald punt. Deze kernel heeft twee parameters: C (inverse van de sterkte van regulatie) en gamma (Yadav, 2018). Voor beide punten heb ik verschillende waardes geprobeerd. Maar zoals de theorie al aangaf naarmate ik de gamma om hoog of omlaag deed ging het model slechter functioneren. Zo ging het bij een toename meer overfitten en bij een afname namen de waardes af en werd de false negative rate hoger. Hetzelfde gebeurde bij het veranderen van de c. Of ik deze hoger maakte of lager bij beide ging het model ondermaats presteren. Ik heb uiteindelijk daarom gekozen voor een c=1 en een gamma = 0 (gamma heb ik uiteindelijk weggelaten). <br />
     <br />
 
-    Notebooks:<br />
+Notebooks:<br />
     <br />
 Lasso: individueel een notebook gemaakt, maar samen vergeleken met Mustafa. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Lasso.ipynb <br />
     <br />
