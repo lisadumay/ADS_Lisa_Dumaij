@@ -244,7 +244,9 @@ Daarnaast heb ik ook figuren gemaakt om de stappen die in het proces gedaan moet
   <summary>4.1 Selecteren van modellen</summary>
     Omdat het bij ons gaat om het voorspellen van een klas is er sprake van een classificatieprobleem. Een classificatiemodel zoekt een functie die optimaal inschat tot welke klasse een gegevenspunt behoort. Het kan een of meer verklarende variabelen bevatten (Brownlee, 2019). Hierna kunnen er een aantal punten na gegaan worden om de juiste modellen uit te kiezen.<br />
     <br />
-Het eerste wat opvalt is de maat van de dataset, deze is niet klein. Hierdoor zijn algoritmen zoals KNN, Bagging, GradientBoost en Decision trees passend (ProjectPro, 2022). Deze zijn tevens ook gebruikt in de code. Hierna zijn de modellen gevalideert met cross validation om de prestaties van de modellen in kaart te brengen (Scikit-Learn, z.d.), echter beïnvloed dit niet de keuze van het model. Het evalueren van de resultaten uit de modellen daarentegen wel (kijk 4.2). <br />
+Het eerste wat opvalt is de maat van de dataset, deze is niet klein. Hierdoor zijn algoritmen zoals KNN, Bagging, GradientBoost en Decision trees passend (ProjectPro, 2022). Deze zijn tevens ook gebruikt in de code. Hierna zijn de modellen gevalideert met cross validation om de prestaties van de modellen in kaart te brengen (Scikit-Learn, z.d.), echter beïnvloed dit niet de keuze van het model.Het evalueren van de resultaten uit de modellen daarentegen wel (kijk 4.2).<br />
+   <br />
+Later heb ik zelf nog een SVM model gemaakt. Dit omdat wij met binaire klassen wilden werken.  <br />
     <br />
 Literatuur<br />
     <br />
@@ -257,7 +259,16 @@ ProjectPro. (2022, January 3). 7 Types of Classification Algorithms in Machine L
   </details>
   <details>
   <summary>4.2 Een model configureren (niet)</summary>
-  blabla
+  
+    Notebooks:<br />
+    <br />
+Lasso: individueel een notebook gemaakt, maar samen vergeleken met Mustafa. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Lasso.ipynb <br />
+    <br />
+Neural Network: individueel een notebook gemaakt, maar samen vergeleken met Mustafa. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Networking.ipynb <br />
+    <br />
+SVM: individueel een notebook gemaakt. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/SVM.ipynb <br />
+    <br />
+    
   </details>
   <details>
   <summary>4.3 Model trainen (niet)</summary>
@@ -432,13 +443,19 @@ o Imputeren met mediaan en gemiddelde: Het gebruik van mediaan en gemiddelde om 
 <br />
     <br />
 De technieken die hierboven staan heb ik ook (deels) toegepast in mijn notebooks, de notebooks zijn:
-Pipeline lisa; hierin heb ik grotendeels de code zelf geschreven echter heb ik ook soms die van een ander gebruikt. Dat staat er dan ook bij. Link: <br />
-    https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline%20Lisa.ipynb 
+Pipeline lisa; hierin heb ik grotendeels de code zelf geschreven echter heb ik ook soms die van een ander gebruikt. Dat staat er dan ook bij. Link: 
+ https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline%20Lisa.ipynb 
     <br />
     <br />
-Pipeline 2: geldt hetzelfde als Pipeline lisa. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline2.ipynb 
+Pipeline2: geldt hetzelfde als Pipeline lisa. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline2.ipynb 
     <br />
     <br />
+Pipeline 1: Hiervan heb ik de outlier code zelf geschreven. Uit eindelijk heb ik deze geoptimaliseerd met Yuliya. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline%201.ipynb  <br />
+    <br />
+    
+Pipeline 2: Deze heb ik samen met Yuliya geschreven. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline%202.ipynb  <br />
+    <br />
+    
 Cleaning: Deze heb ik samen met Yuliya geschreven. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Data%20cleaning.ipynb 
 <br />
     <br />
