@@ -328,6 +328,8 @@ Het visualiseren van de resultaten heb ik bij alle drie de modellen anders gedaa
 Lasso: is een model dat helpt bij collineariteit, dit is een fenomeen waarbij een kenmerkvariabele in een regressiemodel sterk lineair gecorreleerd is met een ander kenmerk variabele. In het geval bij lasso is gevisualiseerd hoeveel de features correleren met de MQ-score. De coëfficiënten met de features zijn gevisualiseerd in de plot. Zoals er te zien is aan het visualisatie zijn er wel een aantal “fouten”. Zo heeft het geen titel en mis het een as titel. Daarnaast zijn het zoveel features dat deze nog goed te lezen meer zijn in de visualisatie. Uiteindelijk scoorde het lasso model ook maar 0.44. <br />
    <br />
     <img width="266" alt="image" src="https://user-images.githubusercontent.com/91061840/149113436-8a07466d-6f2b-4bee-be74-7554eae603f5.png">
+Later heb ik dit model en visualisatie verbeterd, zoals te zien in de figuur hieronder. De score is ook verbeterd 70.9:
+![image](https://user-images.githubusercontent.com/91061840/149366860-aec53391-873c-49f0-a3c9-a2b4c52e69fd.png)
 
 <br />
    <br />
@@ -352,6 +354,8 @@ Tot slot heb ik een validatie curve hierbij gevisualiseerd. Dit om te bekijken o
 Notebooks:<br />
     <br />
 Lasso: individueel een notebook gemaakt, maar samen vergeleken met Mustafa. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Lasso.ipynb <br />
+    <br />
+Lasso 3: : individueel een notebook gemaakt. Link:  https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Lasso2.0.ipynb <br />
     <br />
 Neural Network: individueel een notebook gemaakt, maar samen vergeleken met Mustafa. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Networking.ipynb <br />
     <br />
@@ -605,7 +609,7 @@ https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/SVM.ipynb
   </details>
     </details>
     
-## 6. Data preprocessing (niet af)
+## 6. Data preprocessing
 <details>
   <summary> Lees hier verder </summary>
   <br />
@@ -775,8 +779,49 @@ Tot slot bestaat de gegevens zowel uit kwalitatieve als kwantitatieve data. De d
 
   </details>
   <details>
-  <summary>6.5 Data visualisatie (niet)</summary>
-blabla
+  <summary>6.5 Data visualisatie </summary>
+Er zijn meerdere redenen om data te visualiseren. Hieronder laat ik mijn data visualisaties zien. Deze visualisaties verdeel ik onder data voorbereiding, feature selectie en model selectie.<br />
+   <br />
+Data voorbereiding<br />
+Een voorbeeld van een visualisatie die ik heb gebruikt voor de data voorbereiding is een count plot. Hiermee heb ik de distributie van de verschillende MQ-scores weergeven.  Hierin valt op dat er een scheven verdeling zit in de scores. De dataset zal later gebalanceerd moeten worden, anders is er een grote kans dat het model alleen maar 3 gaat voorspellen.
+<img width="189" alt="image" src="https://user-images.githubusercontent.com/91061840/149363551-ae412e50-13c7-45af-9ae3-24d98facd0ef.png"> <br />
+   <br />
+    Feature selectie <br />
+Voor de future selectie heb ik gebruik gemaakt van een heatmap en voor lasso een lijndiagram. Het lijndiagram zag er eerst zo uit:
+<img width="157" alt="image" src="https://user-images.githubusercontent.com/91061840/149363702-1dcad9e6-25db-4a95-9604-73bfa15edeab.png"> <br />
+   <br />
+Echter was het hierna nog steeds onduidelijk hoe de features scoorde omdat de x-as zo vol zat. Daarnaast heeft de grafiek geen titel en geen x-as naam. Wel is te zien dat veel features een waarde van nul hebben. Daarom heb ik besloten om de coefficiënten te filtreren. Hierdoor bleven alleen de features over die invloed hadden op de MQ-score. Ook deze heb ik weer gevisualiseerd.
+<img width="179" alt="image" src="https://user-images.githubusercontent.com/91061840/149363827-ae390184-c9fe-47a5-8c2f-812453f8cfc1.png"> <br />
+   <br />
+In het plaatje is duidelijk te zien welke features een invloed hebben op de MQ-score. Deze kunnen daarmee ook meegenomen worden in het model. Ook heb ik een heatmap gemaakt om deze te visualiseren. In de heatmap is te zien dat veel variabelen weinig invloed hebben op de anderen. Uiteindelijk waren er maar 6 features die een hogere correlatie hadden dan 0.8 of een lagere dan -0.8. Dit zijn overbodige features en konden eruit gefiltreerd worden.
+<img width="295" alt="image" src="https://user-images.githubusercontent.com/91061840/149363910-3b3ec843-a14a-45b4-b685-91e926284dd2.png">
+<br />
+   <br />
+Evaluatie <br />
+Voor de evaluatie van de modellen is een confusion matrix. Deze heb ik voor het SVM (linker) en NN (rechter) model gemaakt. Met deze confusion matrix kon de false negative rate worden berekend. Hieruit kwam dat de Neural Netwerk met een false negative rate van 16,9 beter scoorde dan de SVM met 18,3. 
+ <img width="351" alt="image" src="https://user-images.githubusercontent.com/91061840/149363992-4dd4cf86-5e2a-48c4-9ee1-3d125270b49f.png"> <br />
+   <br />
+Ook hebben we de precision-recall curve gevisualiseerd. Hierin in te zien dat de modellen niet veel van elkaar verschillen. De SVM doet het in vergelijking met de NN net iets beter.<br />
+   <br />
+<img width="411" alt="image" src="https://user-images.githubusercontent.com/91061840/149364106-c732a440-d7c2-4816-8eea-6dac24e80192.png"> 
+    <br />
+   <br />
+Tot slot heb ik alleen voor de SVM de validatie curve gevisualiseerd. . Dit om te bekijken of er sprake was van overfitting. Zoals te zien is in de visualisatie wijkt de blauwe lijn iets uit, maar is dit niet een drastisch uitwijking.
+<img width="157" alt="image" src="https://user-images.githubusercontent.com/91061840/149364171-0269009c-dbfe-423c-958d-c73e526e684b.png">
+  <br />
+   <br />
+Notebooks:  <br />
+   <br />
+Lasso verbeterd 2: individueel een notebook gemaakt. Link:  https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Lasso2.0.ipynb   <br />
+   <br />
+SVM: individueel een notebook gemaakt. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/SVM.ipynb   <br />
+   <br />
+Network verbeterd. individueel een notebook gemaakt. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Networking_verbeterd.ipynb   <br />
+   <br />
+Heatmap: individueel een notebook gemaakt. Link:  https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/heatmaptotal.ipynb   <br />
+   <br />
+Visualisaties: individueel een notebook gemaakt. Link:https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/visualisaties.ipynb 
+
   </details>
 </details>
 
