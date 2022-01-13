@@ -557,7 +557,7 @@ Zhang, S., Li, X., Zong, M., Zhu, X., & Wang, R. (2018). Efficient kNN Classific
  
 
   </details>
-
+</details>
   <summary>5.3 Note books  </summary>
     Cleaning:<br />
    <br />
@@ -600,8 +600,9 @@ Nieuw:https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Networkin
 Nieuw: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Lasso_verbeterd.ipynb  <br />
    <br />
 https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/SVM.ipynb 
+
+  </details>
 </details>
-  <details>
 
 ## 6. Data preprocessing (niet af)
 <details>
