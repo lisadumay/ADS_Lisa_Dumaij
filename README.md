@@ -327,9 +327,11 @@ Het visualiseren van de resultaten heb ik bij alle drie de modellen anders gedaa
    <br />
 Lasso: is een model dat helpt bij collineariteit, dit is een fenomeen waarbij een kenmerkvariabele in een regressiemodel sterk lineair gecorreleerd is met een ander kenmerk variabele. In het geval bij lasso is gevisualiseerd hoeveel de features correleren met de MQ-score. De coëfficiënten met de features zijn gevisualiseerd in de plot. Zoals er te zien is aan het visualisatie zijn er wel een aantal “fouten”. Zo heeft het geen titel en mis het een as titel. Daarnaast zijn het zoveel features dat deze nog goed te lezen meer zijn in de visualisatie. Uiteindelijk scoorde het lasso model ook maar 0.44. <br />
    <br />
-    <img width="266" alt="image" src="https://user-images.githubusercontent.com/91061840/149113436-8a07466d-6f2b-4bee-be74-7554eae603f5.png">
+    <img width="266" alt="image" src="https://user-images.githubusercontent.com/91061840/149113436-8a07466d-6f2b-4bee-be74-7554eae603f5.png"> <br />
+   <br />
 Later heb ik dit model en visualisatie verbeterd, zoals te zien in de figuur hieronder. De score is ook verbeterd 70.9:
-![image](https://user-images.githubusercontent.com/91061840/149366860-aec53391-873c-49f0-a3c9-a2b4c52e69fd.png)
+    
+<img width="179" alt="image" src="https://user-images.githubusercontent.com/91061840/149367346-bf62f558-d19c-4462-a0c1-459133c64738.png">
 
 <br />
    <br />
@@ -600,7 +602,9 @@ Oud: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Lasso.ipyn
    <br />
 Nieuw:https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Networking_verbeterd.ipynb  <br />
    <br />
-Nieuw: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Lasso_verbeterd.ipynb  <br />
+Nieuw 1: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Lasso_verbeterd.ipynb  <br />
+   <br />
+Nieuw 2: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Lasso2.0.ipynb <br />
    <br />
 https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/SVM.ipynb 
 
