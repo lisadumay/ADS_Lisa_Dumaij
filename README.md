@@ -230,7 +230,8 @@ Kortom data science wordt gebruikt doormiddel van een mean imputation en een KNN
  <summary>3.4 Planning </summary>
  Planning is altijd al een van mijn sterke punten geweest. Deze periode deed ik twee projecten te gelijker tijd hierdoor was planning essentieel. Naast dat ik alle meetings in een agenda heb staan heb ik ook een to do lijst per dag. Hierdoor weet ik precies wat ik elke dag moet doen. Daarbij hebben we dagelijks scrum sessie gehad met het team van ongeveer 15 minuten. Waarin we de taken verdeelde en/of de voortgang van de taken besproken. Tevens heb ik vaak de taken in de planner van team Motoric gezet en deze ook verdeeld.
 [zie hier de planning] (https://tasks.office.com/DeHaagseHogeschool.onmicrosoft.com/nl-nl/Home/Planner#/plantaskboard?groupId=786800fb-0bab-470c-b770-bb6975403c41&planId=9Jb-xUUDp0Gu_F2YlVNn2ZYAAPLf)
-Daarnaast heb ik ook figuren gemaakt om de stappen die in het proces gedaan moeten worden te weergeven. Een voorbeeld hiervan is hieronder te zien.
+Daarnaast heb ik ook figuren gemaakt om de stappen die in het proces gedaan moeten worden te weergeven. Een voorbeeld hiervan is hieronder te zien.<br /> 
+    <br />
 <img width="454" alt="image" src="https://user-images.githubusercontent.com/91061840/148651844-2394ba6b-108c-4ea8-aa3a-29a7ca526f05.png">
   </details>
   </details>
@@ -329,7 +330,8 @@ Lasso: is een model dat helpt bij collineariteit, dit is een fenomeen waarbij ee
    <br />
     <img width="266" alt="image" src="https://user-images.githubusercontent.com/91061840/149113436-8a07466d-6f2b-4bee-be74-7554eae603f5.png"> <br />
    <br />
-Later heb ik dit model en visualisatie verbeterd, zoals te zien in de figuur hieronder. De score is ook verbeterd 70.9:
+Later heb ik dit model en visualisatie verbeterd, zoals te zien in de figuur hieronder. De score is ook verbeterd 70.9:<br /> 
+    <br />
     
 <img width="179" alt="image" src="https://user-images.githubusercontent.com/91061840/149367346-bf62f558-d19c-4462-a0c1-459133c64738.png">
 
@@ -787,22 +789,27 @@ Tot slot bestaat de gegevens zowel uit kwalitatieve als kwantitatieve data. De d
 Er zijn meerdere redenen om data te visualiseren. Hieronder laat ik mijn data visualisaties zien. Deze visualisaties verdeel ik onder data voorbereiding, feature selectie en model selectie.<br />
    <br />
 Data voorbereiding<br />
-Een voorbeeld van een visualisatie die ik heb gebruikt voor de data voorbereiding is een count plot. Hiermee heb ik de distributie van de verschillende MQ-scores weergeven.  Hierin valt op dat er een scheven verdeling zit in de scores. De dataset zal later gebalanceerd moeten worden, anders is er een grote kans dat het model alleen maar 3 gaat voorspellen.
+Een voorbeeld van een visualisatie die ik heb gebruikt voor de data voorbereiding is een count plot. Hiermee heb ik de distributie van de verschillende MQ-scores weergeven.  Hierin valt op dat er een scheven verdeling zit in de scores. De dataset zal later gebalanceerd moeten worden, anders is er een grote kans dat het model alleen maar 3 gaat voorspellen. <br /> 
+    <br />
 <img width="189" alt="image" src="https://user-images.githubusercontent.com/91061840/149363551-ae412e50-13c7-45af-9ae3-24d98facd0ef.png"> <br />
    <br />
     Feature selectie <br />
-Voor de future selectie heb ik gebruik gemaakt van een heatmap en voor lasso een lijndiagram. Het lijndiagram zag er eerst zo uit:
+Voor de future selectie heb ik gebruik gemaakt van een heatmap en voor lasso een lijndiagram. Het lijndiagram zag er eerst zo uit:<br /> 
+    <br />
 <img width="157" alt="image" src="https://user-images.githubusercontent.com/91061840/149363702-1dcad9e6-25db-4a95-9604-73bfa15edeab.png"> <br />
    <br />
-Echter was het hierna nog steeds onduidelijk hoe de features scoorde omdat de x-as zo vol zat. Daarnaast heeft de grafiek geen titel en geen x-as naam. Wel is te zien dat veel features een waarde van nul hebben. Daarom heb ik besloten om de coefficiënten te filtreren. Hierdoor bleven alleen de features over die invloed hadden op de MQ-score. Ook deze heb ik weer gevisualiseerd.
+Echter was het hierna nog steeds onduidelijk hoe de features scoorde omdat de x-as zo vol zat. Daarnaast heeft de grafiek geen titel en geen x-as naam. Wel is te zien dat veel features een waarde van nul hebben. Daarom heb ik besloten om de coefficiënten te filtreren. Hierdoor bleven alleen de features over die invloed hadden op de MQ-score. Ook deze heb ik weer gevisualiseerd. <br /> 
+    <br />
 <img width="179" alt="image" src="https://user-images.githubusercontent.com/91061840/149363827-ae390184-c9fe-47a5-8c2f-812453f8cfc1.png"> <br />
    <br />
-In het plaatje is duidelijk te zien welke features een invloed hebben op de MQ-score. Deze kunnen daarmee ook meegenomen worden in het model. Ook heb ik een heatmap gemaakt om deze te visualiseren. In de heatmap is te zien dat veel variabelen weinig invloed hebben op de anderen. Uiteindelijk waren er maar 6 features die een hogere correlatie hadden dan 0.8 of een lagere dan -0.8. Dit zijn overbodige features en konden eruit gefiltreerd worden.
+In het plaatje is duidelijk te zien welke features een invloed hebben op de MQ-score. Deze kunnen daarmee ook meegenomen worden in het model. Ook heb ik een heatmap gemaakt om deze te visualiseren. In de heatmap is te zien dat veel variabelen weinig invloed hebben op de anderen. Uiteindelijk waren er maar 6 features die een hogere correlatie hadden dan 0.8 of een lagere dan -0.8. Dit zijn overbodige features en konden eruit gefiltreerd worden. <br /> 
+    <br />
 <img width="295" alt="image" src="https://user-images.githubusercontent.com/91061840/149363910-3b3ec843-a14a-45b4-b685-91e926284dd2.png">
 <br />
    <br />
 Evaluatie <br />
-Voor de evaluatie van de modellen is een confusion matrix. Deze heb ik voor het SVM (linker) en NN (rechter) model gemaakt. Met deze confusion matrix kon de false negative rate worden berekend. Hieruit kwam dat de Neural Netwerk met een false negative rate van 16,9 beter scoorde dan de SVM met 18,3. 
+Voor de evaluatie van de modellen is een confusion matrix. Deze heb ik voor het SVM (linker) en NN (rechter) model gemaakt. Met deze confusion matrix kon de false negative rate worden berekend. Hieruit kwam dat de Neural Netwerk met een false negative rate van 16,9 beter scoorde dan de SVM met 18,3. <br /> 
+    <br />
  <img width="351" alt="image" src="https://user-images.githubusercontent.com/91061840/149363992-4dd4cf86-5e2a-48c4-9ee1-3d125270b49f.png"> <br />
    <br />
 Ook hebben we de precision-recall curve gevisualiseerd. Hierin in te zien dat de modellen niet veel van elkaar verschillen. De SVM doet het in vergelijking met de NN net iets beter.<br />
@@ -810,7 +817,8 @@ Ook hebben we de precision-recall curve gevisualiseerd. Hierin in te zien dat de
 <img width="411" alt="image" src="https://user-images.githubusercontent.com/91061840/149364106-c732a440-d7c2-4816-8eea-6dac24e80192.png"> 
     <br />
    <br />
-Tot slot heb ik alleen voor de SVM de validatie curve gevisualiseerd. . Dit om te bekijken of er sprake was van overfitting. Zoals te zien is in de visualisatie wijkt de blauwe lijn iets uit, maar is dit niet een drastisch uitwijking.
+Tot slot heb ik alleen voor de SVM de validatie curve gevisualiseerd. . Dit om te bekijken of er sprake was van overfitting. Zoals te zien is in de visualisatie wijkt de blauwe lijn iets uit, maar is dit niet een drastisch uitwijking. <br /> 
+    <br />
 <img width="157" alt="image" src="https://user-images.githubusercontent.com/91061840/149364171-0269009c-dbfe-423c-958d-c73e526e684b.png">
   <br />
    <br />
