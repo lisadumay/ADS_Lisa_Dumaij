@@ -241,6 +241,7 @@ Daarnaast heb ik ook figuren gemaakt om de stappen die in het proces gedaan moet
 <details>
   <summary> Lees hier verder </summary>
   <br />
+  In dit hoofdstuk worden de stappen vanaf het selecteren van modellen tot het evalueren van modellen doorgenomen
   <details>
   <summary>4.1 Selecteren van modellen</summary>
     Omdat het bij ons gaat om het voorspellen van een klas is er sprake van een classificatieprobleem. Een classificatiemodel zoekt een functie die optimaal inschat tot welke klasse een gegevenspunt behoort. Het kan een of meer verklarende variabelen bevatten (Brownlee, 2019). Hierna kunnen er een aantal punten na gegaan worden om de juiste modellen uit te kiezen.<br />
@@ -425,7 +426,7 @@ sklearn.metrics.confusion_matrix. (z.d.). Scikit-Learn. Geraadpleegd op 17 decem
 <details>
   <summary> Lees hier verder </summary>
   <br />
-  In dit hoofdstuk wordt mijn domein kennis besproken. Het hoofdstuk is opgedeeld in 3 hoofdstukken.
+  In dit hoofdstuk wordt mijn domein kennis besproken. Het hoofdstuk is opgedeeld in 2 hoofdstukken. Het hoofdstuk literatuurlijst bevat ook alle notebooks.
    <br />
    <br />
   <details>
@@ -590,10 +591,8 @@ Yadav, A. (2018, October 22). SUPPORT VECTOR MACHINES(SVM) - Towards Data Scienc
    <br />
    <br />
 Zhang, S., Li, X., Zong, M., Zhu, X., & Wang, R. (2018). Efficient kNN Classification with Different Numbers of Nearest Neighbors. IEEE Transactions on Neural Networks and Learning Systems, 29(5), 1774–1785. Retrieved December 2, 2021, from https://doi.org/10.1109/tnnls.2017.2673241
- 
    <details>
-  
-   <details>
+     
   <summary>5.3 Note books  </summary>
     Cleaning:<br />
    <br />
@@ -637,12 +636,13 @@ Nieuw 1: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Lasso_
    <br />
 Nieuw 2: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Lasso2.0.ipynb <br />
    <br />
+Nieuw 2: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Networking2.0.ipynb<br />
+   <br />
 https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/SVM.ipynb 
 
  </details>
   </details>
-  </details>
-    </details>
+   </details>
     
 ## 6. Data preprocessing
 <details>
