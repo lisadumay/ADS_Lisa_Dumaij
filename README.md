@@ -384,7 +384,7 @@ sklearn.metrics.confusion_matrix. (z.d.). Scikit-Learn. Geraadpleegd op 17 decem
   </details>
 </details>  
   
-## 5.Domein kennis (niet af)
+## 5.Domein kennis
 <details>
   <summary> Lees hier verder </summary>
   <br />
@@ -433,11 +433,175 @@ Zhang, S., Li, X., Zong, M., Zhu, X., & Wang, R. (2018). Efficient kNN Classific
   </details>
 
  <details>
-  <summary>5.2 Literatuuronderzoek (niet) </summary>
-   blabla
+  <summary>5.2 Literatuurlijst  </summary>
+  3.1. Cross-validation: evaluating estimator performance. (z.d.). Scikit-Learn. Geraadpleegd op 17 december 2021, van https://scikit-learn.org/stable/modules/cross_validation.html <br />
+   <br /> 
+Abbott, A. L. & Bartlett, D. J. (2001). Infant motor development and equipment use in the home. Child: Care, Health and Development, 27, 295-306. doi:10.1046/j.1365-2214.2001.00186.x <br />
+   <br />
+Balancing dataset and normalizing features: what comes first? (2017, 5 januari). Cross Validated. Geraadpleegd op 17 december 2021, van https://stats.stackexchange.com/questions/254726/balancing-dataset-and-normalizing-features-what-comes-first <br />
+   <br />
+Berlin, L. J., Brooks-Gunn, J., McCarton, C., & McCormick, M. C. (1998). The effectiveness of early intervention: examining risk factors and pathways to enhanced development. Preventive Medicine, 27, 238-245. doi:10.1006/pmed.1998.0282 <br />
+   <br />
+Bhandari, A. (2021, 23 juli). Confusion Matrix for Machine Learning. Analytics Vidhya. Geraadpleegd op 17 december 2021, van https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/  <br />
+   <br />
+Brownlee, J. (2019, May 22). Difference Between Classification and Regression in Machine Learning. Machine Learning Mastery. https://machinelearningmastery.com/classification-versus-regression-in-machine-learning/  <br />
+   <br />
+Brownlee, J. (2020, 20 augustus). How to Choose a Feature Selection Method For Machine Learning. Machine Learning Mastery. Geraadpleegd op 17 december 2021, van https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/  <br />
+   <br />
+Brownlee, J. (2021, January 12). How to Use ROC Curves and Precision-Recall Curves for Classification in Python. Machine Learning Mastery. Retrieved January 9, 2022, from https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/ <br />
+   <br />
+Brownlee, J. (2020a). Data Preparation of Machine Learning. Jason Brownlee. <br />
+   <br />
+Buijs, A. (2017). Statistiek om mee te werken (10de editie). Noordhoff. <br />
+   <br />
+Chart choosing. (2019, October 21). Chart.Guide. https://chart.guide/charts/chart-choosing/  <br />
+   <br />
+D. (2021, 30 januari). Example of Confusion Matrix in Python. Data to Fish. Geraadpleegd op 17 december 2021, van https://datatofish.com/confusion-matrix-python/ <br />
+   <br /> 
+Data Preparation for Machine Learning | DataRobot Artificial Intelligence Wiki. (2021, 3 december). DataRobot 
+AI Cloud. Geraadpleegd op 17 december 2021, van https://www.datarobot.com/wiki/data-preparation/ <br />
+   <br />
+Feldman, R. S. (2011). Ontwikkelingspsychologie. Pearson Education Benelux B.V.  <br />
+   <br />
+Galarnyk, M. (2020, July 6). Understanding Boxplots - Towards Data Science. Medium. https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51 
+<br />
+   <br />
+Gilbert, J. (1980). An Assessment of Motor Music Skill Development in Young Children. Journal of Research in Music Education, 28(3), 167–175. Retrieved December 17, 2021, from https://doi.org/10.2307/3345234 
+<br />
+   <br />
+How to plot Validation Curve in Python? -. (2021, August 30). DeZyre. https://www.projectpro.io/recipes/plot-validation-curve-in-python 
+<br />
+   <br />
+Kim, J. K., & Fiorillo, C. D. (2017). Theory of optimal balance predicts and explains the amplitude and decay time of synaptic inhibition. Nature Communications, 8(1). https://doi.org/10.1038/ncomms14566 
+<br />
+   <br />
+Kovacs, C. R. (2008). Measuring Motor Skill Learning—A Practical Application. Strategies, 22(2), 25–29. https://doi.org/10.1080/08924562.2008.10590813 
+<br />
+   <br />
+Kuhn, M., & Johnson, K. (2019). Feature Engineering and Selection: A Practical Approach for Predictive Models (Chapman & Hall/CRC Data Science Series) (1st ed.). Chapman and Hall/CRC. Kumar, V. (2014). Feature Selection: A literature Review. The Smart Computing Review, 4(3). https://doi.org/10.6029/smartcr.2014.03.007 
+<br />
+   <br />
+Laurent De Angelo, M. S., Brouwers- De Jong, E. A., Bijlsma- Schlösser, J. F. M., Bulk- Bunschoten, A. M. W., Pauwels, J. H., & Steinbuch- Linstra, I. (2005). Ontwikkelingsonderzoek in de jeugdgezondheidszorg. Het van Wiechenonderzoek. De Baeche-Fassaert Motoriektest. Assen: Koninklijke Van Gorcum. 
+<br />
+   <br />
+Li, J., Cheng, K., Wang, S., Morstatter, F., Trevino, R. P., Tang, J., & Liu, H. (2018). Feature Selection. ACM Computing Surveys, 50(6), 1–45. https://doi.org/10.1145/3136625 
+<br />
+   <br />
+Matthes, E. (2018). Crash Course programmeren in Python : projectgericht leren programmeren. Visual Steps TM. 
+<br />
+   <br />
+Meertens, E., & Steenbergen, E. (2018). Onderzoek doen! https://blackboard.hhs.nl/bbcswebdav/pid-3327820-dt-content-rid-29819196_2/courses/TBK-PRH1-16-2021/TBK-PRH1-16-2020_ImportedContent_20200827125140/Onderzoek%20doen.pdf
+<br />
+   <br />
+Meester, D. A. (2020, September 24). The Relationship Between Actual and Perceived Motor Competence in Children, Adolescents and Young Adults: A Systematic Review and Meta-analysis. SpringerLink. Retrieved December 8, 2021, from https://link.springer.com/article/10.1007/s40279-020-01336-2?error=cookies_not_supported&code=37b734cf-1842-49b4-a1db-a4832a112243 
+<br />
+   <br />
+Miao, J., & Niu, L. (2016). A Survey on Feature Selection. Procedia Computer Science, 91, 919–926. https://doi.org/10.1016/j.procs.2016.07.111 
+<br />
+   <br />
+Novakovic, J. D. J., Veljovic, A., Ilic, S. S., Papic, Z., & Tomovic, M. (2017). Evaluation of Classification Models in Machine Learning. UAV. Retrieved December 1, 2021, from https://uav.ro/applications/se/journal/index.php/TAMCS/article/view/158/126
+<br />
+   <br />
+Perneger, T. V. (2004). Writing a research article: advice to beginners. International Journal for Quality in Health Care, 16(3), 191–192. https://doi.org/10.1093/intqhc/mzh053 
+<br />
+   <br />
+Ray, S. (2021, August 26). SVM | Support Vector Machine Algorithm in Machine Learning. Analytics Vidhya. https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/ 
+<br />
+   <br />
+ProjectPro. (2022, January 3). 7 Types of Classification Algorithms in Machine Learning. https://www.projectpro.io/article/7-types-of-classification-algorithms-in-machine-learning/435#toc-18
+<br />
+   <br />
+Roy, B. (2021, 14 december). All about Feature Scaling - Towards Data Science. Medium. Geraadpleegd op 17 december 2021, van https://towardsdatascience.com/all-about-feature-scaling-bcc0ad75cb35 
+<br />
+   <br />
+Saeys, Y., Inza, I., & Larranaga, P. (2007). A review of feature selection techniques in bioinformatics. Bioinformatics, 23(19), 2507–2517. https://doi.org/10.1093/bioinformatics/btm344
+<br />
+   <br />
+Schönig, S., Jasinski, R., Ackermann, L., & Jablonski, S. (2018). Deep Learning Process Prediction with Discrete and Continuous Data Features. Proceedings of the 13th International Conference on Evaluation of Novel Approaches to Software Engineering. Published. https://doi.org/10.5220/0006772003140319 
+<br />
+   <br />
+Scikit-learn: How to obtain True Positive, True Negative, False Positive and False Negative. (2015, 9 juli). Stack Overflow. Geraadpleegd op 17 december 2021, van https://stackoverflow.com/questions/31324218/scikit-learn-how-to-obtain-true-positive-true-negative-false-positive-and-fal 
+<br />
+   <br />
+Sia. (2019). Aanvraagformulier RAAK-PRO Start (V)aardig -2018. Nationaal Regieorgaan Praktijkgericht Onderzoek SIA.
+<br />
+   <br />
+sklearn.linear_model.LogisticRegression. (n.d.). Scikit-Learn. https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html 
+<br />
+   <br />
+sklearn.metrics.confusion_matrix. (z.d.). Scikit-Learn. Geraadpleegd op 17 december 2021, van https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html
+<br />
+   <br />
+sklearn.neural_network.MLPClassifier. (n.d.). Scikit-Learn. https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html 
+<br />
+   <br />
+Tanner, G. (2021, December 7). Introduction to Data Visualization in Python - Towards Data Science. Medium. https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed 
+<br />
+   <br />
+The Data Visualisation Catalogue. (n.d.). The Data Visualisation Catalogue. https://datavizcatalogue.com/ 
+<br />
+   <br />
+Upadhyay, A. (2021, December 15). Precision/Recall Tradeoff - Analytics Vidhya. Medium. https://medium.com/analytics-vidhya/precision-recall-tradeoff-79e892d43134 
+<br />
+   <br />
+Wang, H., Chen, Y., Liu, J., Sun, H., & Gao, W. (2020). A Follow-Up Study of Motor Skill Development and Its Determinants in Preschool Children from Middle-Income Family. BioMed Research International, 2020, 1–13. Retrieved December 1, 2021, from https://doi.org/10.1155/2020/6639341 
+<br />
+   <br />
+Writing a Research Article. (2015). Advances in Neonatal Care, 15(3), 159–161. https://doi.org/10.1097/anc.0000000000000203
+<br />
+   <br />
+Yadav, A. (2018, October 22). SUPPORT VECTOR MACHINES(SVM) - Towards Data Science. Medium. https://towardsdatascience.com/support-vector-machines-svm-c9ef22815589 
+   <br />
+   <br />
+Zhang, S., Li, X., Zong, M., Zhu, X., & Wang, R. (2018). Efficient kNN Classification with Different Numbers of Nearest Neighbors. IEEE Transactions on Neural Networks and Learning Systems, 29(5), 1774–1785. Retrieved December 2, 2021, from https://doi.org/10.1109/tnnls.2017.2673241
+ 
 
   </details>
+
+  <summary>5.3 Note books  </summary>
+    Cleaning:<br />
+   <br />
+https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline%20Lisa.ipynb <br />
+   <br />
+https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline2.ipynb  <br />
+   <br />
+https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Data%20cleaning.ipynb <br />
+   <br />
+https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline%201.ipynb <br />
+   <br />
+https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline%202.ipynb <br />
+   <br />
+  
+  Outliers:<br />
+   <br />
+https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/outliers.ipynb 
+<br />
+   <br />
+Data visualisatie en feature selection:<br />
+   <br />
+https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/visualisaties.ipynb <br />
+   <br />
+https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/heatmaptotal.ipynb <br />
+   <br />
+https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Pipeline%20heatmap.ipynb <br />
+   <br />
+https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Lasso.ipynb 
+<br />
+   <br />
+Modellen:<br />
+   <br />
+Oud: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Lasso.ipynb 
+<br />
+   <br />
+  Oud: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Networking.ipynb <br />
+   <br />
+Nieuw:https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Networking_verbeterd.ipynb  <br />
+   <br />
+Nieuw: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Lasso_verbeterd.ipynb  <br />
+   <br />
+https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/SVM.ipynb 
 </details>
+  <details>
 
 ## 6. Data preprocessing (niet af)
 <details>
