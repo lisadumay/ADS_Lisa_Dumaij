@@ -237,7 +237,7 @@ Daarnaast heb ik ook figuren gemaakt om de stappen die in het proces gedaan moet
   </details>
   </details>
   
-## 4. Voorspellende analyse (niet af)
+## 4. Voorspellende analyse
 <details>
   <summary> Lees hier verder </summary>
   <br />
@@ -293,8 +293,37 @@ Yadav, A. (2018, October 22). SUPPORT VECTOR MACHINES(SVM) - Towards Data Scienc
     <br />   
   </details>
   <details>
-  <summary>4.3 Model trainen (niet)</summary>
-  blabla
+  <summary>4.3 Model trainen </summary>
+  Om de modellen te valideren heb ik gebruik gemaakt van de ROC-curve voor de Neural Network en de validatie curve voor de SVM. <br />
+  <br />
+In de ROC-curve is te zien dat er wel een verschil in de ROC-lijn en de stippellijn is echter is dit verschil niet groot. Dit houdt in dat er geen sprake is van onderfitting, want de lijnen lopen niet over elkaar heen. Daarnaast is er geen sprake van overfitting, want de lijnen liggen liggen niet ver van elkaar (Brownlee, 2021). <br />
+  <br />
+<img width="264" alt="image" src="https://user-images.githubusercontent.com/91061840/149383329-0b11c0ed-bda7-4f09-a7bb-1cc91cfb1782.png">
+<br />
+  <br />
+Ook in de validatie curve van de SVM is te zien dat er geen sprake is van overfitting en under fitting. Zoals te zien is scoren de trainingsscore als validatiescore niet laag, er is dus geen indicatie van overfitting. Daarnaast is er ook geen sprake van een hoge trainingsscore en lage validatiescore (3.4. Validation Curves: Plotting Scores to Evaluate Models, n.d.). <br />
+  <br />
+<img width="253" alt="image" src="https://user-images.githubusercontent.com/91061840/149383384-75c0d455-03eb-4c93-b3d1-e256fc21aef7.png">
+<br />
+  <br />
+Kortom voor beide modellen zijn er geen maatregelen zoals regularisatie, het toevoegen/reduceren van features of het versimpelen/ vermoeilijken van het model.
+<br />
+  <br />
+Notebooks: <br />
+  <br />
+Neural network verbeterd 2: individueel gedaan. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Networking2.0.ipynb <br />
+  <br />
+SVM: individueel gedaan. Link: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/SVM.ipynb <br />
+  <br />
+Literatuur: <br />
+  <br />
+3.4. Validation curves: plotting scores to evaluate models. (n.d.). Scikit-Learn. https://scikit-learn.org/stable/modules/learning_curve.html <br />
+  <br />
+Brownlee, J. (2021, January 12). How to Use ROC Curves and Precision-Recall Curves for Classification in Python. Machine Learning Mastery. https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/
+
+
+
+
   </details>
   <details>
   <summary>4.4 Evalueren model </summary>
