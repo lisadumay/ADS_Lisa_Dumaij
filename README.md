@@ -431,7 +431,6 @@ Wang, H., Chen, Y., Liu, J., Sun, H., & Gao, W. (2020). A Follow-Up Study of Mot
 Zhang, S., Li, X., Zong, M., Zhu, X., & Wang, R. (2018). Efficient kNN Classification with Different Numbers of Nearest Neighbors. IEEE Transactions on Neural Networks and Learning Systems, 29(5), 1774–1785. Retrieved December 2, 2021, from https://doi.org/10.1109/tnnls.2017.2673241
 
   </details>
-
  <details>
   <summary>5.2 Literatuurlijst  </summary>
   3.1. Cross-validation: evaluating estimator performance. (z.d.). Scikit-Learn. Geraadpleegd op 17 december 2021, van https://scikit-learn.org/stable/modules/cross_validation.html <br />
@@ -555,9 +554,9 @@ Yadav, A. (2018, October 22). SUPPORT VECTOR MACHINES(SVM) - Towards Data Scienc
    <br />
 Zhang, S., Li, X., Zong, M., Zhu, X., & Wang, R. (2018). Efficient kNN Classification with Different Numbers of Nearest Neighbors. IEEE Transactions on Neural Networks and Learning Systems, 29(5), 1774–1785. Retrieved December 2, 2021, from https://doi.org/10.1109/tnnls.2017.2673241
  
-
-  </details>
-</details>
+   <details>
+  
+   <details>
   <summary>5.3 Note books  </summary>
     Cleaning:<br />
    <br />
@@ -601,9 +600,11 @@ Nieuw: https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/Lasso_ve
    <br />
 https://github.com/lisadumay/ADS_Lisa_Dumaij/blob/main/notebooks/SVM.ipynb 
 
+ </details>
   </details>
-</details>
-
+  </details>
+    </details>
+    
 ## 6. Data preprocessing (niet af)
 <details>
   <summary> Lees hier verder </summary>
